@@ -1,0 +1,3 @@
+/home/tungvd/StudioProjects/Gallery2/gallerynativelib/.cxx/Debug/5u51j636/armeabi-v7a/CMakeFiles/edit_cache.dir
+/home/tungvd/StudioProjects/Gallery2/gallerynativelib/.cxx/Debug/5u51j636/armeabi-v7a/CMakeFiles/rebuild_cache.dir
+/home/tungvd/StudioProjects/Gallery2/gallerynativelib/.cxx/Debug/5u51j636/armeabi-v7a/CMakeFiles/gallerynativelib.dir

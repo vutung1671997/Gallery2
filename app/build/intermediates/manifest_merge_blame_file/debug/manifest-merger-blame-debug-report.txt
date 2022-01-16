@@ -1,0 +1,909 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.android.gallery3d" >
+4
+5    <uses-sdk
+6        android:minSdkVersion="27"
+6-->/home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml
+7        android:targetSdkVersion="31" />
+7-->/home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml
+8
+9    <original-package android:name="com.android.gallery3d" />
+9-->/home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:7:5-62
+9-->/home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:7:23-59
+10
+11    <!-- <uses-sdk android:targetSdkVersion="29" /> -->
+12
+13    <permission
+13-->/home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:11:5-12:59
+14        android:name="com.android.gallery3d.permission.GALLERY_PROVIDER"
+14-->/home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:11:17-81
+15        android:protectionLevel="signatureOrSystem" />
+15-->/home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:12:13-56
+16
+17    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+17-->/home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:14:5-81
+17-->/home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:14:22-78
+18    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+18-->/home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:15:5-79
+18-->/home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:15:22-76
+19    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+19-->/home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:16:5-79
+19-->/home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:16:22-76
+20    <uses-permission android:name="android.permission.CAMERA" />
+20-->/home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:17:5-65
+20-->/home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:17:22-62
+21    <uses-permission android:name="android.permission.GET_ACCOUNTS" />
+21-->/home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:18:5-71
+21-->/home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:18:22-68
+22    <uses-permission android:name="android.permission.INTERNET" />
+22-->/home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:19:5-67
+22-->/home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:19:22-64
+23    <uses-permission android:name="android.permission.MANAGE_ACCOUNTS" />
+23-->/home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:20:5-74
+23-->/home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:20:22-71
+24    <uses-permission android:name="android.permission.NFC" />
+24-->/home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:21:5-62
+24-->/home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:21:22-59
+25    <uses-permission android:name="android.permission.READ_SYNC_SETTINGS" />
+25-->/home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:22:5-77
+25-->/home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:22:22-74
+26    <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED" />
+26-->/home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:23:5-81
+26-->/home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:23:22-78
+27    <uses-permission android:name="android.permission.RECORD_AUDIO" />
+27-->/home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:24:5-71
+27-->/home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:24:22-68
+28    <uses-permission android:name="android.permission.SET_WALLPAPER" />
+28-->/home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:25:5-72
+28-->/home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:25:22-69
+29    <uses-permission android:name="android.permission.USE_CREDENTIALS" />
+29-->/home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:26:5-74
+29-->/home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:26:22-71
+30    <uses-permission android:name="android.permission.VIBRATE" />
+30-->/home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:27:5-66
+30-->/home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:27:22-63
+31    <uses-permission android:name="android.permission.WAKE_LOCK" />
+31-->/home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:28:5-68
+31-->/home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:28:22-65
+32    <uses-permission android:name="android.permission.MANAGE_EXTERNAL_STORAGE" />
+32-->/home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:29:5-30:40
+32-->/home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:29:22-79
+33    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+33-->/home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:31:5-80
+33-->/home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:31:22-77
+34    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+34-->/home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:32:5-33:40
+34-->/home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:32:22-78
+35    <uses-permission android:name="android.permission.WRITE_SETTINGS" />
+35-->/home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:34:5-35:47
+35-->/home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:34:22-70
+36    <uses-permission android:name="android.permission.WRITE_SYNC_SETTINGS" />
+36-->/home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:36:5-78
+36-->/home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:36:22-75
+37    <uses-permission android:name="com.android.gallery3d.permission.GALLERY_PROVIDER" />
+37-->/home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:37:5-89
+37-->/home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:37:22-86
+38
+39    <supports-screens
+39-->/home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:39:5-41:41
+40        android:anyDensity="true"
+40-->/home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:41:13-38
+41        android:largeScreens="true"
+41-->/home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:40:42-69
+42        android:normalScreens="true"
+42-->/home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:40:13-41
+43        android:smallScreens="false" />
+43-->/home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:39:23-51
+44
+45    <application
+45-->/home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:43:5-390:19
+46        android:name="com.android.gallery3d.app.GalleryAppImpl"
+46-->/home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:45:13-68
+47        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+47-->[androidx.core:core:1.6.0] /home/tungvd/.gradle/caches/transforms-3/f5951a4f607dc653401bac0adaefbb08/transformed/core-1.6.0/AndroidManifest.xml:24:18-86
+48        android:debuggable="true"
+49        android:extractNativeLibs="false"
+50        android:hardwareAccelerated="true"
+50-->/home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:48:13-47
+51        android:icon="@mipmap/ic_launcher_gallery"
+51-->/home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:44:9-51
+52        android:label="@string/app_name"
+52-->/home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:44:52-84
+53        android:largeHeap="true"
+53-->/home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:49:13-37
+54        android:logo="@mipmap/ic_launcher_gallery"
+54-->/home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:47:13-55
+55        android:requestLegacyExternalStorage="true"
+55-->/home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:52:13-56
+56        android:restoreAnyVersion="true"
+56-->/home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:50:13-45
+57        android:supportsRtl="true"
+57-->/home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:51:13-39
+58        android:testOnly="true"
+59        android:theme="@style/Theme.Gallery" >
+59-->/home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:46:13-49
+60        <uses-library
+60-->/home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:53:9-88
+61            android:name="org.apache.http.legacy"
+61-->/home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:53:23-60
+62            android:required="false" />
+62-->/home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:53:61-85
+63
+64        <activity
+64-->/home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:54:9-94:20
+65            android:name="com.android.gallery3d.app.MovieActivity"
+65-->/home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:55:13-67
+66            android:configChanges="orientation|keyboardHidden|screenSize"
+66-->/home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:57:17-78
+67            android:exported="true"
+67-->/home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:58:13-36
+68            android:label="@string/movie_view_label" >
+68-->/home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:56:17-57
+69            <intent-filter>
+69-->/home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:60:13-65:30
+70                <action android:name="android.intent.action.VIEW" />
+70-->/home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:61:17-69
+70-->/home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:61:25-66
+71
+72                <category android:name="android.intent.category.DEFAULT" />
+72-->/home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:62:17-76
+72-->/home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:62:27-73
+73                <category android:name="android.intent.category.BROWSABLE" />
+73-->/home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:63:17-78
+73-->/home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:63:27-75
+74
+75                <data android:scheme="rtsp" />
+75-->/home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:64:17-47
+75-->/home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:64:23-44
+76            </intent-filter>
+77            <intent-filter>
+77-->/home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:66:14-81:30
+78                <action android:name="android.intent.action.VIEW" />
+78-->/home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:61:17-69
+78-->/home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:61:25-66
+79
+80                <category android:name="android.intent.category.DEFAULT" />
+80-->/home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:62:17-76
+80-->/home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:62:27-73
+81                <category android:name="android.intent.category.BROWSABLE" />
+81-->/home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:63:17-78
+81-->/home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:63:27-75
+82
+83                <data android:scheme="http" />
+83-->/home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:64:17-47
+83-->/home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:64:23-44
+84                <data android:scheme="https" />
+84-->/home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:64:17-47
+84-->/home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:64:23-44
+85                <data android:scheme="content" />
+85-->/home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:64:17-47
+85-->/home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:64:23-44
+86                <data android:scheme="file" />
+86-->/home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:64:17-47
+86-->/home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:64:23-44
+87                <data android:mimeType="video/mpeg4" />
+87-->/home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:64:17-47
+87-->/home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:74:23-53
+88                <data android:mimeType="video/mp4" />
+88-->/home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:64:17-47
+88-->/home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:74:23-53
+89                <data android:mimeType="video/3gp" />
+89-->/home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:64:17-47
+89-->/home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:74:23-53
+90                <data android:mimeType="video/3gpp" />
+90-->/home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:64:17-47
+90-->/home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:74:23-53
+91                <data android:mimeType="video/3gpp2" />
+91-->/home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:64:17-47
+91-->/home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:74:23-53
+92                <data android:mimeType="video/webm" />
+92-->/home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:64:17-47
+92-->/home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:74:23-53
+93                <data android:mimeType="video/avi" />
+93-->/home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:64:17-47
+93-->/home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:74:23-53
+94            </intent-filter>
+95            <intent-filter>
+95-->/home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:82:14-93:30
+96
+97                <!-- HTTP live support -->
+98                <action android:name="android.intent.action.VIEW" />
+98-->/home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:61:17-69
+98-->/home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:61:25-66
+99
+100                <category android:name="android.intent.category.DEFAULT" />
+100-->/home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:62:17-76
+100-->/home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:62:27-73
+101                <category android:name="android.intent.category.BROWSABLE" />
+101-->/home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:63:17-78
+101-->/home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:63:27-75
+102
+103                <data android:scheme="http" />
+103-->/home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:64:17-47
+103-->/home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:64:23-44
+104                <data android:scheme="https" />
+104-->/home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:64:17-47
+104-->/home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:64:23-44
+105                <data android:mimeType="audio/x-mpegurl" />
+105-->/home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:64:17-47
+105-->/home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:74:23-53
+106                <data android:mimeType="audio/mpegurl" />
+106-->/home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:64:17-47
+106-->/home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:74:23-53
+107                <data android:mimeType="application/vnd.apple.mpegurl" />
+107-->/home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:64:17-47
+107-->/home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:74:23-53
+108                <data android:mimeType="application/x-mpegurl" />
+108-->/home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:64:17-47
+108-->/home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:74:23-53
+109            </intent-filter>
+110        </activity>
+111        <activity
+111-->/home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:96:9-166:20
+112            android:name="com.android.gallery3d.app.GalleryActivity"
+112-->/home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:99:13-69
+113            android:configChanges="keyboardHidden|orientation|screenSize"
+113-->/home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:100:17-78
+114            android:exported="true"
+114-->/home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:97:13-36
+115            android:label="@string/app_name" >
+115-->/home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:99:70-102
+116            <intent-filter>
+116-->/home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:101:13-106:29
+117                <action android:name="android.intent.action.MAIN" />
+117-->/home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:102:17-69
+117-->/home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:102:25-66
+118
+119                <category android:name="android.intent.category.DEFAULT" />
+119-->/home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:62:17-76
+119-->/home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:62:27-73
+120                <category android:name="android.intent.category.LAUNCHER" />
+120-->/home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:104:17-77
+120-->/home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:104:27-74
+121                <category android:name="android.intent.category.APP_GALLERY" />
+121-->/home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:105:17-80
+121-->/home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:105:27-77
+122            </intent-filter>
+123            <intent-filter>
+123-->/home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:107:13-111:29
+124                <action android:name="android.intent.action.GET_CONTENT" />
+124-->/home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:108:17-76
+124-->/home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:108:25-73
+125
+126                <category android:name="android.intent.category.OPENABLE" />
+126-->/home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:109:17-77
+126-->/home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:109:27-74
+127
+128                <data android:mimeType="vnd.android.cursor.dir/image" />
+128-->/home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:64:17-47
+128-->/home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:74:23-53
+129            </intent-filter>
+130            <intent-filter>
+130-->/home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:112:13-118:29
+131                <action android:name="android.intent.action.GET_CONTENT" />
+131-->/home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:108:17-76
+131-->/home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:108:25-73
+132
+133                <category android:name="android.intent.category.OPENABLE" />
+133-->/home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:109:17-77
+133-->/home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:109:27-74
+134                <category android:name="android.intent.category.DEFAULT" />
+134-->/home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:62:17-76
+134-->/home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:62:27-73
+135
+136                <data android:mimeType="image/*" />
+136-->/home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:64:17-47
+136-->/home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:74:23-53
+137                <data android:mimeType="video/*" />
+137-->/home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:64:17-47
+137-->/home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:74:23-53
+138            </intent-filter>
+139            <!--
+140                 We do NOT support the PICK intent, we add these intent-filter for
+141                 backward compatibility. Handle it as GET_CONTENT.
+142            -->
+143            <intent-filter>
+143-->/home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:121:13-126:29
+144                <action android:name="android.intent.action.PICK" />
+144-->/home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:122:17-69
+144-->/home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:122:25-66
+145
+146                <category android:name="android.intent.category.DEFAULT" />
+146-->/home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:62:17-76
+146-->/home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:62:27-73
+147
+148                <data android:mimeType="image/*" />
+148-->/home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:64:17-47
+148-->/home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:74:23-53
+149                <data android:mimeType="video/*" />
+149-->/home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:64:17-47
+149-->/home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:74:23-53
+150            </intent-filter>
+151            <intent-filter>
+151-->/home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:127:13-132:29
+152                <action android:name="android.intent.action.PICK" />
+152-->/home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:122:17-69
+152-->/home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:122:25-66
+153
+154                <category android:name="android.intent.category.DEFAULT" />
+154-->/home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:62:17-76
+154-->/home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:62:27-73
+155
+156                <data android:mimeType="vnd.android.cursor.dir/image" />
+156-->/home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:64:17-47
+156-->/home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:74:23-53
+157                <data android:mimeType="vnd.android.cursor.dir/video" />
+157-->/home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:64:17-47
+157-->/home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:74:23-53
+158            </intent-filter>
+159            <intent-filter>
+159-->/home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:133:13-138:29
+160                <action android:name="android.intent.action.VIEW" />
+160-->/home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:61:17-69
+160-->/home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:61:25-66
+161
+162                <category android:name="android.intent.category.DEFAULT" />
+162-->/home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:62:17-76
+162-->/home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:62:27-73
+163
+164                <data android:mimeType="vnd.android.cursor.dir/image" />
+164-->/home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:64:17-47
+164-->/home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:74:23-53
+165                <data android:mimeType="vnd.android.cursor.dir/video" />
+165-->/home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:64:17-47
+165-->/home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:74:23-53
+166            </intent-filter>
+167            <intent-filter>
+167-->/home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:139:13-151:29
+168                <action android:name="android.intent.action.VIEW" />
+168-->/home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:61:17-69
+168-->/home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:61:25-66
+169                <action android:name="com.android.camera.action.REVIEW" />
+169-->/home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:141:17-75
+169-->/home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:141:25-72
+170
+171                <category android:name="android.intent.category.DEFAULT" />
+171-->/home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:62:17-76
+171-->/home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:62:27-73
+172                <category android:name="android.intent.category.BROWSABLE" />
+172-->/home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:63:17-78
+172-->/home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:63:27-75
+173
+174                <data android:scheme="" />
+174-->/home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:64:17-47
+174-->/home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:64:23-44
+175                <data android:scheme="http" />
+175-->/home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:64:17-47
+175-->/home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:64:23-44
+176                <data android:scheme="https" />
+176-->/home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:64:17-47
+176-->/home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:64:23-44
+177                <data android:scheme="content" />
+177-->/home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:64:17-47
+177-->/home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:64:23-44
+178                <data android:scheme="file" />
+178-->/home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:64:17-47
+178-->/home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:64:23-44
+179                <data android:mimeType="image/*" />
+179-->/home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:64:17-47
+179-->/home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:74:23-53
+180                <data android:mimeType="application/vnd.google.panorama360+jpg" />
+180-->/home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:64:17-47
+180-->/home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:74:23-53
+181            </intent-filter>
+182            <intent-filter>
+182-->/home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:152:13-165:29
+183                <action android:name="com.android.camera.action.REVIEW" />
+183-->/home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:141:17-75
+183-->/home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:141:25-72
+184
+185                <category android:name="android.intent.category.DEFAULT" />
+185-->/home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:62:17-76
+185-->/home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:62:27-73
+186                <category android:name="android.intent.category.BROWSABLE" />
+186-->/home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:63:17-78
+186-->/home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:63:27-75
+187
+188                <data android:scheme="http" />
+188-->/home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:64:17-47
+188-->/home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:64:23-44
+189                <data android:scheme="https" />
+189-->/home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:64:17-47
+189-->/home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:64:23-44
+190                <data android:scheme="content" />
+190-->/home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:64:17-47
+190-->/home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:64:23-44
+191                <data android:scheme="file" />
+191-->/home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:64:17-47
+191-->/home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:64:23-44
+192                <data android:mimeType="video/mpeg4" />
+192-->/home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:64:17-47
+192-->/home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:74:23-53
+193                <data android:mimeType="video/mp4" />
+193-->/home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:64:17-47
+193-->/home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:74:23-53
+194                <data android:mimeType="video/3gp" />
+194-->/home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:64:17-47
+194-->/home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:74:23-53
+195                <data android:mimeType="video/3gpp" />
+195-->/home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:64:17-47
+195-->/home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:74:23-53
+196                <data android:mimeType="video/3gpp2" />
+196-->/home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:64:17-47
+196-->/home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:74:23-53
+197            </intent-filter>
+198        </activity> <!-- we add this activity-alias for shortcut backward compatibility -->
+199        <!-- Note: The alias must put after the target activity -->
+200        <activity-alias
+200-->/home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:183:9-193:26
+201            android:name="com.cooliris.media.Gallery"
+201-->/home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:186:13-54
+202            android:configChanges="keyboardHidden|orientation|screenSize"
+202-->/home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:188:17-78
+203            android:exported="true"
+203-->/home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:184:13-36
+204            android:label="@string/app_name"
+204-->/home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:189:17-49
+205            android:targetActivity="com.android.gallery3d.app.GalleryActivity" >
+205-->/home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:187:17-83
+206            <intent-filter>
+206-->/home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:190:13-192:29
+207                <action android:name="android.intent.action.MAIN" />
+207-->/home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:102:17-69
+207-->/home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:102:25-66
+208            </intent-filter>
+209        </activity-alias>
+210
+211        <!--
+212             This activity acts as a trampoline to the new Gallery activity,
+213             so that existing shortcuts are preserved.
+214        -->
+215        <activity
+215-->/home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:170:9-179:20
+216            android:name="com.android.gallery3d.app.Gallery"
+216-->/home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:173:13-61
+217            android:exported="true"
+217-->/home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:171:13-36
+218            android:theme="@style/android:Theme.NoDisplay" >
+218-->/home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:174:13-59
+219            <intent-filter>
+219-->/home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:175:13-178:29
+220                <action android:name="android.intent.action.MAIN" />
+220-->/home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:102:17-69
+220-->/home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:102:25-66
+221
+222                <category android:name="android.intent.category.DEFAULT" />
+222-->/home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:62:17-76
+222-->/home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:62:27-73
+223            </intent-filter>
+224        </activity>
+225
+226        <!--
+227             This activity acts as a trampoline to the new Camera activity
+228             in com.android.camera2 package, so that existing shortcuts
+229             are preserved.
+230        -->
+231        <activity
+231-->/home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:198:9-205:62
+232            android:name="com.android.camera.CameraActivity"
+232-->/home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:201:13-61
+233            android:exported="true"
+233-->/home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:199:13-36
+234            android:icon="@mipmap/ic_launcher_camera"
+234-->/home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:202:13-54
+235            android:label="@string/camera_label"
+235-->/home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:203:13-49
+236            android:taskAffinity="com.android.camera.CameraActivity"
+236-->/home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:204:13-69
+237            android:theme="@style/android:Theme.NoDisplay" />
+237-->/home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:205:13-59
+238
+239        <activity-alias
+239-->/home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:206:9-216:26
+240            android:name="com.android.camera.CameraLauncher"
+240-->/home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:209:13-61
+241            android:exported="true"
+241-->/home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:207:13-36
+242            android:label="@string/camera_label"
+242-->/home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:210:13-49
+243            android:targetActivity="com.android.camera.CameraActivity" >
+243-->/home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:211:13-71
+244            <intent-filter>
+244-->/home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:175:13-178:29
+245                <action android:name="android.intent.action.MAIN" />
+245-->/home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:102:17-69
+245-->/home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:102:25-66
+246
+247                <category android:name="android.intent.category.DEFAULT" />
+247-->/home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:62:17-76
+247-->/home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:62:27-73
+248            </intent-filter>
+249        </activity-alias>
+250
+251        <!--
+252         This activity receives USB_DEVICE_ATTACHED intents and allows importing
+253         media from attached MTP devices, like cameras and camera phones
+254        -->
+255        <activity
+255-->/home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:220:9-232:20
+256            android:name="com.android.gallery3d.ingest.IngestActivity"
+256-->/home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:224:37-95
+257            android:configChanges="orientation|screenSize"
+257-->/home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:225:13-59
+258            android:exported="true"
+258-->/home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:221:13-36
+259            android:label="@string/app_name"
+259-->/home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:226:13-45
+260            android:launchMode="singleInstance"
+260-->/home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:223:13-48
+261            android:taskAffinity="" >
+261-->/home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:224:13-36
+262            <intent-filter>
+262-->/home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:227:13-229:29
+263                <action android:name="android.hardware.usb.action.USB_DEVICE_ATTACHED" />
+263-->/home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:228:17-90
+263-->/home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:228:25-87
+264            </intent-filter>
+265
+266            <meta-data
+266-->/home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:230:13-231:57
+267                android:name="android.hardware.usb.action.USB_DEVICE_ATTACHED"
+267-->/home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:230:24-86
+268                android:resource="@xml/device_filter" />
+268-->/home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:231:17-54
+269        </activity>
+270
+271        <service android:name="com.android.gallery3d.ingest.IngestService" />
+271-->/home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:233:9-78
+271-->/home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:233:18-75
+272
+273        <activity
+273-->/home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:235:9-252:20
+274            android:name="com.android.gallery3d.app.Wallpaper"
+274-->/home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:238:13-63
+275            android:configChanges="keyboardHidden|orientation|screenSize"
+275-->/home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:239:17-78
+276            android:exported="true"
+276-->/home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:236:13-36
+277            android:theme="@style/android:Theme.Translucent.NoTitleBar" >
+277-->/home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:240:17-76
+278            <intent-filter android:label="@string/camera_setas_wallpaper" >
+278-->/home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:241:13-245:29
+278-->/home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:241:28-74
+279                <action android:name="android.intent.action.ATTACH_DATA" />
+279-->/home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:242:17-76
+279-->/home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:242:25-73
+280
+281                <data android:mimeType="image/*" />
+281-->/home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:64:17-47
+281-->/home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:74:23-53
+282
+283                <category android:name="android.intent.category.DEFAULT" />
+283-->/home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:62:17-76
+283-->/home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:62:27-73
+284            </intent-filter>
+285            <intent-filter android:label="@string/app_name" >
+285-->/home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:246:13-249:29
+285-->/home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:246:28-60
+286                <action android:name="android.intent.action.SET_WALLPAPER" />
+286-->/home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:247:17-78
+286-->/home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:247:25-75
+287
+288                <category android:name="android.intent.category.DEFAULT" />
+288-->/home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:62:17-76
+288-->/home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:62:27-73
+289            </intent-filter>
+290
+291            <meta-data
+291-->/home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:250:13-251:72
+292                android:name="android.wallpaper.preview"
+292-->/home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:250:24-64
+293                android:resource="@xml/wallpaper_picker_preview" />
+293-->/home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:251:21-69
+294        </activity>
+295        <activity
+295-->/home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:253:9-265:20
+296            android:name="com.android.gallery3d.app.TrimVideo"
+296-->/home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:256:13-63
+297            android:exported="true"
+297-->/home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:254:13-36
+298            android:label="@string/trim_label" >
+298-->/home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:257:17-51
+299            <intent-filter android:label="@string/crop_label" >
+299-->/home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:258:13-264:29
+299-->/home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:258:28-62
+300                <action android:name="com.android.camera.action.TRIM" />
+300-->/home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:259:17-73
+300-->/home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:259:25-70
+301
+302                <category android:name="android.intent.category.DEFAULT" />
+302-->/home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:62:17-76
+302-->/home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:62:27-73
+303
+304                <data android:scheme="content" />
+304-->/home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:64:17-47
+304-->/home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:64:23-44
+305                <data android:scheme="file" />
+305-->/home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:64:17-47
+305-->/home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:64:23-44
+306                <data android:mimeType="video/*" />
+306-->/home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:64:17-47
+306-->/home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:74:23-53
+307            </intent-filter>
+308        </activity>
+309
+310        <provider
+310-->/home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:267:9-272:91
+311            android:name="com.android.gallery3d.filtershow.provider.SharedImageProvider"
+311-->/home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:268:13-89
+312            android:authorities="com.android.gallery3d.filtershow.provider.SharedImageProvider"
+312-->/home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:269:13-96
+313            android:grantUriPermissions="true"
+313-->/home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:270:13-47
+314            android:readPermission="com.android.gallery3d.filtershow.permission.READ"
+314-->/home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:271:13-86
+315            android:writePermission="com.android.gallery3d.filtershow.permission.WRITE" />
+315-->/home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:272:13-88
+316
+317        <service
+317-->/home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:274:9-276:44
+318            android:name="com.android.gallery3d.filtershow.pipeline.ProcessingService"
+318-->/home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:275:17-70
+319            android:exported="false" />
+319-->/home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:276:17-41
+320
+321        <activity
+321-->/home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:278:9-295:20
+322            android:name="com.android.gallery3d.filtershow.FilterShowActivity"
+322-->/home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:281:13-79
+323            android:configChanges="keyboardHidden|orientation|screenSize"
+323-->/home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:284:13-74
+324            android:exported="true"
+324-->/home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:279:13-36
+325            android:label="@string/title_activity_filter_show"
+325-->/home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:282:13-63
+326            android:theme="@style/Theme.FilterShow" >
+326-->/home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:283:13-52
+327            <intent-filter>
+327-->/home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:285:13-289:29
+328                <action android:name="android.intent.action.EDIT" />
+328-->/home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:286:17-69
+328-->/home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:286:25-66
+329
+330                <category android:name="android.intent.category.DEFAULT" />
+330-->/home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:62:17-76
+330-->/home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:62:27-73
+331
+332                <data android:mimeType="image/*" />
+332-->/home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:64:17-47
+332-->/home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:74:23-53
+333            </intent-filter>
+334            <intent-filter>
+334-->/home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:290:13-294:29
+335                <action android:name="action_nextgen_edit" />
+335-->/home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:291:17-62
+335-->/home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:291:25-59
+336
+337                <category android:name="android.intent.category.DEFAULT" />
+337-->/home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:62:17-76
+337-->/home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:62:27-73
+338
+339                <data android:mimeType="image/*" />
+339-->/home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:64:17-47
+339-->/home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:74:23-53
+340            </intent-filter>
+341        </activity>
+342        <activity
+342-->/home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:297:9-313:20
+343            android:name="com.android.gallery3d.filtershow.crop.CropActivity"
+343-->/home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:300:13-78
+344            android:configChanges="keyboardHidden|orientation|screenSize"
+344-->/home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:303:13-74
+345            android:exported="true"
+345-->/home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:298:13-36
+346            android:label="@string/crop"
+346-->/home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:301:13-41
+347            android:theme="@style/Theme.Crop" >
+347-->/home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:302:13-46
+348            <intent-filter android:label="@string/crop_label" >
+348-->/home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:304:12-312:29
+348-->/home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:304:27-61
+349                <action android:name="com.android.camera.action.CROP" />
+349-->/home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:305:17-73
+349-->/home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:305:25-70
+350
+351                <data android:scheme="content" />
+351-->/home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:64:17-47
+351-->/home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:64:23-44
+352                <data android:scheme="file" />
+352-->/home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:64:17-47
+352-->/home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:64:23-44
+353                <data android:mimeType="image/*" />
+353-->/home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:64:17-47
+353-->/home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:74:23-53
+354
+355                <category android:name="android.intent.category.DEFAULT" />
+355-->/home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:62:17-76
+355-->/home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:62:27-73
+356                <category android:name="android.intent.category.ALTERNATIVE" />
+356-->/home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:310:17-80
+356-->/home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:310:27-77
+357                <category android:name="android.intent.category.SELECTED_ALTERNATIVE" />
+357-->/home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:311:17-89
+357-->/home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:311:27-86
+358            </intent-filter>
+359        </activity>
+360
+361        <uses-library
+361-->/home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:315:9-316:44
+362            android:name="com.google.android.media.effects"
+362-->/home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:315:23-70
+363            android:required="false" />
+363-->/home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:316:17-41
+364
+365        <activity
+365-->/home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:318:9-320:81
+366            android:name="com.android.gallery3d.settings.GallerySettings"
+366-->/home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:318:19-80
+367            android:configChanges="orientation|keyboardHidden|screenSize"
+367-->/home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:320:17-78
+368            android:theme="@style/Theme.Gallery" />
+368-->/home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:319:17-53
+369
+370        <provider
+370-->/home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:322:9-327:72
+371            android:name="com.android.gallery3d.provider.GalleryProvider"
+371-->/home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:322:19-80
+372            android:authorities="com.android.gallery3d.provider"
+372-->/home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:327:17-69
+373            android:exported="true"
+373-->/home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:325:17-40
+374            android:grantUriPermissions="true"
+374-->/home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:324:17-51
+375            android:permission="com.android.gallery3d.permission.GALLERY_PROVIDER"
+375-->/home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:326:17-87
+376            android:syncable="false" />
+376-->/home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:323:17-41
+377        <provider
+377-->/home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:328:9-332:43
+378            android:name="com.android.photos.data.PhotoProvider"
+378-->/home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:329:17-69
+379            android:authorities="com.android.gallery3d.photoprovider"
+379-->/home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:330:17-74
+380            android:exported="false"
+380-->/home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:332:17-41
+381            android:syncable="false" />
+381-->/home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:331:17-41
+382
+383        <activity android:name="com.android.gallery3d.gadget.WidgetClickHandler" />
+383-->/home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:333:9-84
+383-->/home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:333:19-81
+384        <activity
+384-->/home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:334:9-336:59
+385            android:name="com.android.gallery3d.app.DialogPicker"
+385-->/home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:334:19-72
+386            android:configChanges="keyboardHidden|orientation|screenSize"
+386-->/home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:335:17-78
+387            android:theme="@style/DialogPickerTheme" />
+387-->/home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:336:17-57
+388        <activity
+388-->/home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:337:9-339:59
+389            android:name="com.android.gallery3d.app.AlbumPicker"
+389-->/home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:337:19-71
+390            android:configChanges="keyboardHidden|orientation|screenSize"
+390-->/home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:338:17-78
+391            android:theme="@style/DialogPickerTheme" />
+391-->/home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:339:17-57
+392        <activity
+392-->/home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:340:9-342:62
+393            android:name="com.android.gallery3d.gadget.WidgetTypeChooser"
+393-->/home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:340:19-80
+394            android:configChanges="keyboardHidden|orientation|screenSize"
+394-->/home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:341:17-78
+395            android:theme="@style/Theme.Gallery.Dialog" />
+395-->/home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:342:17-60
+396
+397        <receiver
+397-->/home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:344:9-353:20
+398            android:name="com.android.gallery3d.gadget.PhotoAppWidgetProvider"
+398-->/home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:346:13-79
+399            android:exported="false"
+399-->/home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:345:13-37
+400            android:label="@string/appwidget_title" >
+400-->/home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:347:17-56
+401            <intent-filter>
+401-->/home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:348:13-350:29
+402                <action android:name="android.appwidget.action.APPWIDGET_UPDATE" />
+402-->/home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:349:17-84
+402-->/home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:349:25-81
+403            </intent-filter>
+404
+405            <meta-data
+405-->/home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:351:13-352:59
+406                android:name="android.appwidget.provider"
+406-->/home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:351:24-65
+407                android:resource="@xml/widget_info" />
+407-->/home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:352:21-56
+408        </receiver>
+409        <receiver
+409-->/home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:354:9-363:20
+410            android:name="com.android.gallery3d.app.PackagesMonitor"
+410-->/home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:356:13-69
+411            android:exported="false" >
+411-->/home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:355:13-37
+412            <intent-filter>
+412-->/home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:357:13-362:29
+413                <action android:name="android.intent.action.PACKAGE_ADDED" />
+413-->/home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:358:17-77
+413-->/home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:358:25-75
+414                <action android:name="android.intent.action.PACKAGE_REMOVED" />
+414-->/home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:359:17-79
+414-->/home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:359:25-77
+415                <action android:name="android.intent.action.PACKAGE_CHANGED" />
+415-->/home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:360:17-79
+415-->/home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:360:25-77
+416
+417                <data android:scheme="package" />
+417-->/home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:64:17-47
+417-->/home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:64:23-44
+418            </intent-filter>
+419        </receiver>
+420
+421        <service
+421-->/home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:364:9-366:43
+422            android:name="com.android.gallery3d.app.PackagesMonitor$AsyncService"
+422-->/home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:364:18-87
+423            android:exported="true"
+423-->/home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:366:18-41
+424            android:permission="android.permission.BIND_JOB_SERVICE" />
+424-->/home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:365:18-74
+425        <service
+425-->/home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:367:9-368:75
+426            android:name="com.android.gallery3d.gadget.WidgetService"
+426-->/home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:367:18-75
+427            android:permission="android.permission.BIND_REMOTEVIEWS" />
+427-->/home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:368:17-73
+428
+429        <activity
+429-->/home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:369:9-378:20
+430            android:name="com.android.gallery3d.gadget.WidgetConfigure"
+430-->/home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:372:13-72
+431            android:configChanges="keyboardHidden|orientation|screenSize"
+431-->/home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:373:17-78
+432            android:exported="true"
+432-->/home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:370:13-36
+433            android:theme="@style/android:Theme.Translucent.NoTitleBar" >
+433-->/home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:374:17-76
+434            <intent-filter>
+434-->/home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:375:13-377:29
+435                <action android:name="android.appwidget.action.APPWIDGET_CONFIGURE" />
+435-->/home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:376:17-87
+435-->/home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:376:25-84
+436            </intent-filter>
+437        </activity>
+438
+439        <service android:name="com.android.gallery3d.app.BatchService" />
+439-->/home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:379:9-74
+439-->/home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:379:18-71
+440
+441        <receiver
+441-->/home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:381:9-387:20
+442            android:name="com.android.camera.DisableCameraReceiver"
+442-->/home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:383:13-68
+443            android:exported="false" >
+443-->/home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:382:13-37
+444            <intent-filter>
+444-->/home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:384:13-386:29
+445                <action android:name="android.intent.action.BOOT_COMPLETED" />
+445-->/home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:385:17-79
+445-->/home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:385:25-76
+446            </intent-filter>
+447        </receiver>
+448
+449        <service android:name="com.android.camera.MediaSaveService" />
+449-->/home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:389:9-71
+449-->/home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:389:18-68
+450    </application>
+451
+452</manifest>

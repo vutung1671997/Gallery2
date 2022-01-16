@@ -1,0 +1,2 @@
+ninja: Entering directory `/home/tungvd/StudioProjects/Gallery2/gallerynativelib/.cxx/Debug/5u51j636/x86_64'
+ninja: no work to do.

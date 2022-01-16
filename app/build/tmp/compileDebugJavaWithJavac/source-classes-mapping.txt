@@ -1,0 +1,2214 @@
+com/android/gallery3d/data/ComboSource.java
+ com.android.gallery3d.data.ComboSource
+com/android/gallery3d/anim/CanvasAnimation.java
+ com.android.gallery3d.anim.CanvasAnimation
+com/coremedia/iso/boxes/apple/AppleStoreCountryCodeBox.java
+ com.coremedia.iso.boxes.apple.AppleStoreCountryCodeBox
+com/android/gallery3d/exif/ExifTag.java
+ com.android.gallery3d.exif.ExifTag
+com/android/gallery3d/filtershow/imageshow/ImageRotate.java
+ com.android.gallery3d.filtershow.imageshow.ImageRotate
+com/android/gallery3d/ui/SelectionMenu.java
+ com.android.gallery3d.ui.SelectionMenu
+com/android/gallery3d/filtershow/editors/EditorRotate.java
+ com.android.gallery3d.filtershow.editors.EditorRotate
+ com.android.gallery3d.filtershow.editors.EditorRotate$1
+com/coremedia/iso/boxes/apple/AppleNetworkBox.java
+ com.coremedia.iso.boxes.apple.AppleNetworkBox
+com/android/gallery3d/data/Log.java
+ com.android.gallery3d.data.Log
+com/android/gallery3d/filtershow/imageshow/ImageRedEye.java
+ com.android.gallery3d.filtershow.imageshow.ImageRedEye
+com/coremedia/iso/boxes/apple/AppleCoverBox.java
+ com.coremedia.iso.boxes.apple.AppleCoverBox
+com/android/photos/drawables/AutoThumbnailDrawable.java
+ com.android.photos.drawables.AutoThumbnailDrawable
+ com.android.photos.drawables.AutoThumbnailDrawable$1
+ com.android.photos.drawables.AutoThumbnailDrawable$2
+com/android/gallery3d/filtershow/pipeline/HighresRenderingRequestTask.java
+ com.android.gallery3d.filtershow.pipeline.HighresRenderingRequestTask
+ com.android.gallery3d.filtershow.pipeline.HighresRenderingRequestTask$Render
+ com.android.gallery3d.filtershow.pipeline.HighresRenderingRequestTask$RenderResult
+com/android/gallery3d/data/LocalSource.java
+ com.android.gallery3d.data.LocalSource
+ com.android.gallery3d.data.LocalSource$1
+ com.android.gallery3d.data.LocalSource$IdComparator
+com/android/gallery3d/settings/GallerySettings.java
+ com.android.gallery3d.settings.GallerySettings
+com/googlecode/mp4parser/boxes/mp4/ObjectDescriptorBox.java
+ com.googlecode.mp4parser.boxes.mp4.ObjectDescriptorBox
+com/android/gallery3d/exif/ExifInterface.java
+ com.android.gallery3d.exif.ExifInterface
+ com.android.gallery3d.exif.ExifInterface$ColorSpace
+ com.android.gallery3d.exif.ExifInterface$ComponentsConfiguration
+ com.android.gallery3d.exif.ExifInterface$Compression
+ com.android.gallery3d.exif.ExifInterface$Contrast
+ com.android.gallery3d.exif.ExifInterface$ExposureMode
+ com.android.gallery3d.exif.ExifInterface$ExposureProgram
+ com.android.gallery3d.exif.ExifInterface$FileSource
+ com.android.gallery3d.exif.ExifInterface$Flash
+ com.android.gallery3d.exif.ExifInterface$GainControl
+ com.android.gallery3d.exif.ExifInterface$GpsAltitudeRef
+ com.android.gallery3d.exif.ExifInterface$GpsDifferential
+ com.android.gallery3d.exif.ExifInterface$GpsLatitudeRef
+ com.android.gallery3d.exif.ExifInterface$GpsLongitudeRef
+ com.android.gallery3d.exif.ExifInterface$GpsMeasureMode
+ com.android.gallery3d.exif.ExifInterface$GpsSpeedRef
+ com.android.gallery3d.exif.ExifInterface$GpsStatus
+ com.android.gallery3d.exif.ExifInterface$GpsTrackRef
+ com.android.gallery3d.exif.ExifInterface$LightSource
+ com.android.gallery3d.exif.ExifInterface$MeteringMode
+ com.android.gallery3d.exif.ExifInterface$Orientation
+ com.android.gallery3d.exif.ExifInterface$PhotometricInterpretation
+ com.android.gallery3d.exif.ExifInterface$PlanarConfiguration
+ com.android.gallery3d.exif.ExifInterface$ResolutionUnit
+ com.android.gallery3d.exif.ExifInterface$Saturation
+ com.android.gallery3d.exif.ExifInterface$SceneCapture
+ com.android.gallery3d.exif.ExifInterface$SceneType
+ com.android.gallery3d.exif.ExifInterface$SensingMethod
+ com.android.gallery3d.exif.ExifInterface$Sharpness
+ com.android.gallery3d.exif.ExifInterface$SubjectDistance
+ com.android.gallery3d.exif.ExifInterface$WhiteBalance
+ com.android.gallery3d.exif.ExifInterface$YCbCrPositioning
+com/googlecode/mp4parser/h264/model/PictureParameterSet.java
+ com.googlecode.mp4parser.h264.model.PictureParameterSet
+ com.googlecode.mp4parser.h264.model.PictureParameterSet$PPSExt
+com/android/gallery3d/filtershow/controller/ColorChooser.java
+ com.android.gallery3d.filtershow.controller.ColorChooser
+ com.android.gallery3d.filtershow.controller.ColorChooser$1
+ com.android.gallery3d.filtershow.controller.ColorChooser$2
+ com.android.gallery3d.filtershow.controller.ColorChooser$3
+com/coremedia/iso/boxes/apple/AppleSynopsisBox.java
+ com.coremedia.iso.boxes.apple.AppleSynopsisBox
+com/coremedia/iso/boxes/apple/AppleReferenceMovieBox.java
+ com.coremedia.iso.boxes.apple.AppleReferenceMovieBox
+com/android/gallery3d/filtershow/provider/SharedImageProvider.java
+ com.android.gallery3d.filtershow.provider.SharedImageProvider
+com/android/gallery3d/filtershow/filters/ImageFilter.java
+ com.android.gallery3d.filtershow.filters.ImageFilter
+ com.android.gallery3d.filtershow.filters.ImageFilter$1
+android/util/Pools.java
+ android.util.Pools
+ android.util.Pools$Pool
+ android.util.Pools$SimplePool
+ android.util.Pools$SynchronizedPool
+com/googlecode/mp4parser/authoring/builder/Mp4Builder.java
+ com.googlecode.mp4parser.authoring.builder.Mp4Builder
+com/coremedia/iso/boxes/ContainerBox.java
+ com.coremedia.iso.boxes.ContainerBox
+com/android/gallery3d/ingest/data/SimpleDate.java
+ com.android.gallery3d.ingest.data.SimpleDate
+com/android/gallery3d/filtershow/editors/EditorCrop.java
+ com.android.gallery3d.filtershow.editors.EditorCrop
+ com.android.gallery3d.filtershow.editors.EditorCrop$1
+ com.android.gallery3d.filtershow.editors.EditorCrop$2
+ com.android.gallery3d.filtershow.editors.EditorCrop$AspectInfo
+com/android/gallery3d/filtershow/FilterShowActivity.java
+ com.android.gallery3d.filtershow.FilterShowActivity
+ com.android.gallery3d.filtershow.FilterShowActivity$1
+ com.android.gallery3d.filtershow.FilterShowActivity$2
+ com.android.gallery3d.filtershow.FilterShowActivity$3
+ com.android.gallery3d.filtershow.FilterShowActivity$4
+ com.android.gallery3d.filtershow.FilterShowActivity$5
+ com.android.gallery3d.filtershow.FilterShowActivity$6
+ com.android.gallery3d.filtershow.FilterShowActivity$7
+ com.android.gallery3d.filtershow.FilterShowActivity$LoadBitmapTask
+ com.android.gallery3d.filtershow.FilterShowActivity$LoadHighresBitmapTask
+com/coremedia/iso/boxes/TitleBox.java
+ com.coremedia.iso.boxes.TitleBox
+com/android/gallery3d/app/AlbumSetPage.java
+ com.android.gallery3d.app.AlbumSetPage
+ com.android.gallery3d.app.AlbumSetPage$1
+ com.android.gallery3d.app.AlbumSetPage$2
+ com.android.gallery3d.app.AlbumSetPage$3
+ com.android.gallery3d.app.AlbumSetPage$4
+ com.android.gallery3d.app.AlbumSetPage$5
+ com.android.gallery3d.app.AlbumSetPage$6
+ com.android.gallery3d.app.AlbumSetPage$7
+ com.android.gallery3d.app.AlbumSetPage$MyDetailsSource
+ com.android.gallery3d.app.AlbumSetPage$MyLoadingListener
+com/coremedia/iso/boxes/fragment/MovieFragmentRandomAccessOffsetBox.java
+ com.coremedia.iso.boxes.fragment.MovieFragmentRandomAccessOffsetBox
+com/googlecode/mp4parser/AbstractFullBox.java
+ com.googlecode.mp4parser.AbstractFullBox
+com/googlecode/mp4parser/authoring/tracks/AC3TrackImpl.java
+ com.googlecode.mp4parser.authoring.tracks.AC3TrackImpl
+com/android/gallery3d/filtershow/imageshow/ImageStraighten.java
+ com.android.gallery3d.filtershow.imageshow.ImageStraighten
+ com.android.gallery3d.filtershow.imageshow.ImageStraighten$1
+ com.android.gallery3d.filtershow.imageshow.ImageStraighten$MODES
+com/android/gallery3d/filtershow/editors/EditorColorBorder.java
+ com.android.gallery3d.filtershow.editors.EditorColorBorder
+ com.android.gallery3d.filtershow.editors.EditorColorBorder$1
+ com.android.gallery3d.filtershow.editors.EditorColorBorder$2
+com/coremedia/iso/boxes/SampleSizeBox.java
+ com.coremedia.iso.boxes.SampleSizeBox
+com/android/gallery3d/app/EyePosition.java
+ com.android.gallery3d.app.EyePosition
+ com.android.gallery3d.app.EyePosition$1
+ com.android.gallery3d.app.EyePosition$EyePositionListener
+ com.android.gallery3d.app.EyePosition$PositionListener
+com/android/gallery3d/app/Wallpaper.java
+ com.android.gallery3d.app.Wallpaper
+com/android/gallery3d/ingest/data/MtpBitmapFetch.java
+ com.android.gallery3d.ingest.data.MtpBitmapFetch
+com/googlecode/mp4parser/boxes/mp4/objectdescriptors/ObjectDescriptorBase.java
+ com.googlecode.mp4parser.boxes.mp4.objectdescriptors.ObjectDescriptorBase
+com/googlecode/mp4parser/h264/Debug.java
+ com.googlecode.mp4parser.h264.Debug
+com/android/photos/data/GalleryBitmapPool.java
+ com.android.photos.data.GalleryBitmapPool
+com/coremedia/iso/boxes/SampleAuxiliaryInformationOffsetsBox.java
+ com.coremedia.iso.boxes.SampleAuxiliaryInformationOffsetsBox
+com/android/gallery3d/glrenderer/RawTexture.java
+ com.android.gallery3d.glrenderer.RawTexture
+com/android/gallery3d/data/ClusterAlbumSet.java
+ com.android.gallery3d.data.ClusterAlbumSet
+ com.android.gallery3d.data.ClusterAlbumSet$1
+com/android/gallery3d/ingest/adapter/MtpPagerAdapter.java
+ com.android.gallery3d.ingest.adapter.MtpPagerAdapter
+com/googlecode/mp4parser/util/ByteBufferByteChannel.java
+ com.googlecode.mp4parser.util.ByteBufferByteChannel
+com/googlecode/mp4parser/boxes/mp4/AbstractDescriptorBox.java
+ com.googlecode.mp4parser.boxes.mp4.AbstractDescriptorBox
+com/android/gallery3d/glrenderer/MultiLineTexture.java
+ com.android.gallery3d.glrenderer.MultiLineTexture
+com/android/gallery3d/filtershow/controller/SliderHue.java
+ com.android.gallery3d.filtershow.controller.SliderHue
+ com.android.gallery3d.filtershow.controller.SliderHue$1
+com/android/gallery3d/util/XmpUtilHelper.java
+ com.android.gallery3d.util.XmpUtilHelper
+com/android/gallery3d/ui/DetailsAddressResolver.java
+ com.android.gallery3d.ui.DetailsAddressResolver
+ com.android.gallery3d.ui.DetailsAddressResolver$1
+ com.android.gallery3d.ui.DetailsAddressResolver$1$1
+ com.android.gallery3d.ui.DetailsAddressResolver$AddressLookupJob
+ com.android.gallery3d.ui.DetailsAddressResolver$AddressResolvingListener
+com/android/gallery3d/data/Path.java
+ com.android.gallery3d.data.Path
+com/android/gallery3d/app/TrimControllerOverlay.java
+ com.android.gallery3d.app.TrimControllerOverlay
+ com.android.gallery3d.app.TrimControllerOverlay$1
+com/android/photos/views/GalleryThumbnailView.java
+ com.android.photos.views.GalleryThumbnailView
+ com.android.photos.views.GalleryThumbnailView$1
+ com.android.photos.views.GalleryThumbnailView$AdapterDataSetObserver
+ com.android.photos.views.GalleryThumbnailView$GalleryThumbnailAdapter
+ com.android.photos.views.GalleryThumbnailView$LayoutParams
+ com.android.photos.views.GalleryThumbnailView$RecycleBin
+com/android/gallery3d/filtershow/filters/ImageFilterDownsample.java
+ com.android.gallery3d.filtershow.filters.ImageFilterDownsample
+com/android/photos/shims/MediaSetLoader.java
+ com.android.photos.shims.MediaSetLoader
+ com.android.photos.shims.MediaSetLoader$1
+ com.android.photos.shims.MediaSetLoader$2
+ com.android.photos.shims.MediaSetLoader$3
+com/android/gallery3d/filtershow/pipeline/CachingPipeline.java
+ com.android.gallery3d.filtershow.pipeline.CachingPipeline
+com/android/gallery3d/app/SinglePhotoPage.java
+ com.android.gallery3d.app.SinglePhotoPage
+com/googlecode/mp4parser/h264/model/ScalingList.java
+ com.googlecode.mp4parser.h264.model.ScalingList
+com/coremedia/iso/boxes/SampleDependencyTypeBox.java
+ com.coremedia.iso.boxes.SampleDependencyTypeBox
+ com.coremedia.iso.boxes.SampleDependencyTypeBox$Entry
+com/android/gallery3d/data/ComboAlbumSet.java
+ com.android.gallery3d.data.ComboAlbumSet
+com/coremedia/iso/boxes/CompositionShiftLeastGreatestAtom.java
+ com.coremedia.iso.boxes.CompositionShiftLeastGreatestAtom
+com/coremedia/iso/boxes/sampleentry/TextSampleEntry.java
+ com.coremedia.iso.boxes.sampleentry.TextSampleEntry
+ com.coremedia.iso.boxes.sampleentry.TextSampleEntry$BoxRecord
+ com.coremedia.iso.boxes.sampleentry.TextSampleEntry$StyleRecord
+com/android/gallery3d/filtershow/pipeline/RenderingRequestCaller.java
+ com.android.gallery3d.filtershow.pipeline.RenderingRequestCaller
+com/googlecode/mp4parser/boxes/apple/BaseMediaInfoAtom.java
+ com.googlecode.mp4parser.boxes.apple.BaseMediaInfoAtom
+com/android/photos/views/BlockingGLTextureView.java
+ com.android.photos.views.BlockingGLTextureView
+ com.android.photos.views.BlockingGLTextureView$1
+ com.android.photos.views.BlockingGLTextureView$EglHelper
+ com.android.photos.views.BlockingGLTextureView$RenderThread
+com/android/photos/views/TiledImageRenderer.java
+ com.android.photos.views.TiledImageRenderer
+ com.android.photos.views.TiledImageRenderer$1
+ com.android.photos.views.TiledImageRenderer$Tile
+ com.android.photos.views.TiledImageRenderer$TileDecoder
+ com.android.photos.views.TiledImageRenderer$TileQueue
+ com.android.photos.views.TiledImageRenderer$TileSource
+com/googlecode/mp4parser/boxes/mp4/objectdescriptors/BitReaderBuffer.java
+ com.googlecode.mp4parser.boxes.mp4.objectdescriptors.BitReaderBuffer
+com/android/gallery3d/filtershow/editors/EditorManager.java
+ com.android.gallery3d.filtershow.editors.EditorManager
+com/googlecode/mp4parser/boxes/mp4/objectdescriptors/UnknownDescriptor.java
+ com.googlecode.mp4parser.boxes.mp4.objectdescriptors.UnknownDescriptor
+com/android/gallery3d/util/IntArray.java
+ com.android.gallery3d.util.IntArray
+com/android/gallery3d/ui/SynchronizedHandler.java
+ com.android.gallery3d.ui.SynchronizedHandler
+com/android/gallery3d/filtershow/category/Action.java
+ com.android.gallery3d.filtershow.category.Action
+com/android/gallery3d/filtershow/category/CategoryPanel.java
+ com.android.gallery3d.filtershow.category.CategoryPanel
+com/android/gallery3d/app/AlbumDataLoader.java
+ com.android.gallery3d.app.AlbumDataLoader
+ com.android.gallery3d.app.AlbumDataLoader$1
+ com.android.gallery3d.app.AlbumDataLoader$DataListener
+ com.android.gallery3d.app.AlbumDataLoader$GetUpdateInfo
+ com.android.gallery3d.app.AlbumDataLoader$MySourceListener
+ com.android.gallery3d.app.AlbumDataLoader$ReloadTask
+ com.android.gallery3d.app.AlbumDataLoader$UpdateContent
+ com.android.gallery3d.app.AlbumDataLoader$UpdateInfo
+com/android/gallery3d/common/EntrySchema.java
+ com.android.gallery3d.common.EntrySchema
+ com.android.gallery3d.common.EntrySchema$ColumnInfo
+com/googlecode/mp4parser/util/UUIDConverter.java
+ com.googlecode.mp4parser.util.UUIDConverter
+com/android/gallery3d/app/SlideshowDataAdapter.java
+ com.android.gallery3d.app.SlideshowDataAdapter
+ com.android.gallery3d.app.SlideshowDataAdapter$1
+ com.android.gallery3d.app.SlideshowDataAdapter$ReloadTask
+ com.android.gallery3d.app.SlideshowDataAdapter$SlideshowSource
+ com.android.gallery3d.app.SlideshowDataAdapter$SourceListener
+com/android/gallery3d/filtershow/imageshow/ImageMirror.java
+ com.android.gallery3d.filtershow.imageshow.ImageMirror
+com/android/gallery3d/data/BytesBufferPool.java
+ com.android.gallery3d.data.BytesBufferPool
+ com.android.gallery3d.data.BytesBufferPool$1
+ com.android.gallery3d.data.BytesBufferPool$BytesBuffer
+com/android/gallery3d/app/SinglePhotoDataAdapter.java
+ com.android.gallery3d.app.SinglePhotoDataAdapter
+ com.android.gallery3d.app.SinglePhotoDataAdapter$1
+ com.android.gallery3d.app.SinglePhotoDataAdapter$2
+ com.android.gallery3d.app.SinglePhotoDataAdapter$3
+ com.android.gallery3d.app.SinglePhotoDataAdapter$ImageBundle
+com/android/gallery3d/filtershow/imageshow/EclipseControl.java
+ com.android.gallery3d.filtershow.imageshow.EclipseControl
+com/android/photos/data/PhotoProvider.java
+ com.android.photos.data.PhotoProvider
+ com.android.photos.data.PhotoProvider$Accounts
+ com.android.photos.data.PhotoProvider$Albums
+ com.android.photos.data.PhotoProvider$ChangeNotification
+ com.android.photos.data.PhotoProvider$Metadata
+ com.android.photos.data.PhotoProvider$Photos
+com/coremedia/iso/boxes/apple/AppleGenericBox.java
+ com.coremedia.iso.boxes.apple.AppleGenericBox
+com/android/gallery3d/glrenderer/BasicTexture.java
+ com.android.gallery3d.glrenderer.BasicTexture
+com/android/gallery3d/exif/IfdData.java
+ com.android.gallery3d.exif.IfdData
+com/android/gallery3d/filtershow/pipeline/FilterEnvironment.java
+ com.android.gallery3d.filtershow.pipeline.FilterEnvironment
+com/android/gallery3d/data/DownloadEntry.java
+ com.android.gallery3d.data.DownloadEntry
+ com.android.gallery3d.data.DownloadEntry$Columns
+com/android/gallery3d/data/Clustering.java
+ com.android.gallery3d.data.Clustering
+com/coremedia/iso/boxes/SubSampleInformationBox.java
+ com.coremedia.iso.boxes.SubSampleInformationBox
+ com.coremedia.iso.boxes.SubSampleInformationBox$SampleEntry
+ com.coremedia.iso.boxes.SubSampleInformationBox$SampleEntry$SubsampleEntry
+com/android/gallery3d/common/AsyncTaskUtil.java
+ com.android.gallery3d.common.AsyncTaskUtil
+com/googlecode/mp4parser/boxes/DTSSpecificBox.java
+ com.googlecode.mp4parser.boxes.DTSSpecificBox
+com/android/gallery3d/filtershow/filters/ImageFilterHue.java
+ com.android.gallery3d.filtershow.filters.ImageFilterHue
+com/coremedia/iso/boxes/apple/AppleStoreAccountTypeBox.java
+ com.coremedia.iso.boxes.apple.AppleStoreAccountTypeBox
+com/android/gallery3d/glrenderer/GLES11Canvas.java
+ com.android.gallery3d.glrenderer.GLES11Canvas
+ com.android.gallery3d.glrenderer.GLES11Canvas$1
+ com.android.gallery3d.glrenderer.GLES11Canvas$ConfigState
+ com.android.gallery3d.glrenderer.GLES11Canvas$GLState
+com/android/gallery3d/app/MovieActivity.java
+ com.android.gallery3d.app.MovieActivity
+ com.android.gallery3d.app.MovieActivity$1
+ com.android.gallery3d.app.MovieActivity$2
+com/android/gallery3d/filtershow/editors/BasicEditor.java
+ com.android.gallery3d.filtershow.editors.BasicEditor
+com/coremedia/iso/boxes/MovieHeaderBox.java
+ com.coremedia.iso.boxes.MovieHeaderBox
+com/android/gallery3d/filtershow/editors/EditorRedEye.java
+ com.android.gallery3d.filtershow.editors.EditorRedEye
+com/coremedia/iso/boxes/ClassificationBox.java
+ com.coremedia.iso.boxes.ClassificationBox
+com/googlecode/mp4parser/boxes/mp4/objectdescriptors/ExtensionDescriptor.java
+ com.googlecode.mp4parser.boxes.mp4.objectdescriptors.ExtensionDescriptor
+com/android/gallery3d/data/FilterSource.java
+ com.android.gallery3d.data.FilterSource
+com/android/gallery3d/filtershow/pipeline/SharedPreset.java
+ com.android.gallery3d.filtershow.pipeline.SharedPreset
+com/googlecode/mp4parser/boxes/mp4/objectdescriptors/ESDescriptor.java
+ com.googlecode.mp4parser.boxes.mp4.objectdescriptors.ESDescriptor
+com/android/gallery3d/filtershow/controller/StyleChooser.java
+ com.android.gallery3d.filtershow.controller.StyleChooser
+ com.android.gallery3d.filtershow.controller.StyleChooser$1
+ com.android.gallery3d.filtershow.controller.StyleChooser$2
+com/android/gallery3d/ingest/adapter/MtpAdapter.java
+ com.android.gallery3d.ingest.adapter.MtpAdapter
+com/coremedia/iso/boxes/SampleTableBox.java
+ com.coremedia.iso.boxes.SampleTableBox
+com/android/gallery3d/filtershow/pipeline/ProcessingTask.java
+ com.android.gallery3d.filtershow.pipeline.ProcessingTask
+ com.android.gallery3d.filtershow.pipeline.ProcessingTask$Request
+ com.android.gallery3d.filtershow.pipeline.ProcessingTask$Result
+ com.android.gallery3d.filtershow.pipeline.ProcessingTask$Update
+com/android/gallery3d/ingest/adapter/CheckBroker.java
+ com.android.gallery3d.ingest.adapter.CheckBroker
+ com.android.gallery3d.ingest.adapter.CheckBroker$OnCheckedChangedListener
+com/coremedia/iso/boxes/apple/AppleGaplessPlaybackBox.java
+ com.coremedia.iso.boxes.apple.AppleGaplessPlaybackBox
+com/googlecode/mp4parser/authoring/adaptivestreaming/ManifestWriter.java
+ com.googlecode.mp4parser.authoring.adaptivestreaming.ManifestWriter
+com/android/gallery3d/glrenderer/GLES20IdImpl.java
+ com.android.gallery3d.glrenderer.GLES20IdImpl
+com/android/gallery3d/filtershow/imageshow/ImageTinyPlanet.java
+ com.android.gallery3d.filtershow.imageshow.ImageTinyPlanet
+ com.android.gallery3d.filtershow.imageshow.ImageTinyPlanet$1
+com/android/gallery3d/ui/AlbumSlidingWindow.java
+ com.android.gallery3d.ui.AlbumSlidingWindow
+ com.android.gallery3d.ui.AlbumSlidingWindow$1
+ com.android.gallery3d.ui.AlbumSlidingWindow$AlbumEntry
+ com.android.gallery3d.ui.AlbumSlidingWindow$Listener
+ com.android.gallery3d.ui.AlbumSlidingWindow$PanoSupportListener
+ com.android.gallery3d.ui.AlbumSlidingWindow$ThumbnailLoader
+com/android/gallery3d/onetimeinitializer/GalleryWidgetMigrator.java
+ com.android.gallery3d.onetimeinitializer.GalleryWidgetMigrator
+com/android/gallery3d/filtershow/filters/FilterImageBorderRepresentation.java
+ com.android.gallery3d.filtershow.filters.FilterImageBorderRepresentation
+com/android/gallery3d/ui/DownUpDetector.java
+ com.android.gallery3d.ui.DownUpDetector
+ com.android.gallery3d.ui.DownUpDetector$DownUpListener
+com/android/gallery3d/util/GalleryUtils.java
+ com.android.gallery3d.util.GalleryUtils
+ com.android.gallery3d.util.GalleryUtils$1
+com/android/gallery3d/filtershow/state/StatePanel.java
+ com.android.gallery3d.filtershow.state.StatePanel
+com/android/photos/GalleryActivity.java
+ com.android.photos.GalleryActivity
+ com.android.photos.GalleryActivity$TabsAdapter
+ com.android.photos.GalleryActivity$TabsAdapter$TabInfo
+com/android/gallery3d/exif/ByteBufferInputStream.java
+ com.android.gallery3d.exif.ByteBufferInputStream
+com/googlecode/mp4parser/h264/model/ChromaFormat.java
+ com.googlecode.mp4parser.h264.model.ChromaFormat
+com/android/gallery3d/filtershow/colorpicker/ColorValueView.java
+ com.android.gallery3d.filtershow.colorpicker.ColorValueView
+com/coremedia/iso/boxes/VideoMediaHeaderBox.java
+ com.coremedia.iso.boxes.VideoMediaHeaderBox
+com/coremedia/iso/boxes/apple/AppleTvEpisodeNumberBox.java
+ com.coremedia.iso.boxes.apple.AppleTvEpisodeNumberBox
+com/coremedia/iso/boxes/AlbumBox.java
+ com.coremedia.iso.boxes.AlbumBox
+com/android/gallery3d/glrenderer/GLES11IdImpl.java
+ com.android.gallery3d.glrenderer.GLES11IdImpl
+com/android/gallery3d/ui/PhotoFallbackEffect.java
+ com.android.gallery3d.ui.PhotoFallbackEffect
+ com.android.gallery3d.ui.PhotoFallbackEffect$Entry
+ com.android.gallery3d.ui.PhotoFallbackEffect$PositionProvider
+com/android/gallery3d/filtershow/controller/ParameterStyles.java
+ com.android.gallery3d.filtershow.controller.ParameterStyles
+com/googlecode/mp4parser/boxes/mp4/objectdescriptors/InitialObjectDescriptor.java
+ com.googlecode.mp4parser.boxes.mp4.objectdescriptors.InitialObjectDescriptor
+com/android/gallery3d/ui/CacheStorageUsageInfo.java
+ com.android.gallery3d.ui.CacheStorageUsageInfo
+com/googlecode/mp4parser/boxes/piff/TfxdBox.java
+ com.googlecode.mp4parser.boxes.piff.TfxdBox
+com/android/gallery3d/util/ReverseGeocoder.java
+ com.android.gallery3d.util.ReverseGeocoder
+ com.android.gallery3d.util.ReverseGeocoder$SetLatLong
+com/android/gallery3d/ui/UndoBarView.java
+ com.android.gallery3d.ui.UndoBarView
+com/android/gallery3d/filtershow/filters/ImageFilterVibrance.java
+ com.android.gallery3d.filtershow.filters.ImageFilterVibrance
+com/coremedia/iso/boxes/FullBox.java
+ com.coremedia.iso.boxes.FullBox
+com/android/gallery3d/ui/CaptureAnimation.java
+ com.android.gallery3d.ui.CaptureAnimation
+com/android/gallery3d/exif/JpegHeader.java
+ com.android.gallery3d.exif.JpegHeader
+com/android/gallery3d/util/JobLimiter.java
+ com.android.gallery3d.util.JobLimiter
+ com.android.gallery3d.util.JobLimiter$JobWrapper
+com/googlecode/mp4parser/authoring/Movie.java
+ com.googlecode.mp4parser.authoring.Movie
+com/coremedia/iso/boxes/DataInformationBox.java
+ com.coremedia.iso.boxes.DataInformationBox
+com/googlecode/mp4parser/authoring/container/mp4/MovieCreator.java
+ com.googlecode.mp4parser.authoring.container.mp4.MovieCreator
+com/android/gallery3d/app/AlbumSetDataLoader.java
+ com.android.gallery3d.app.AlbumSetDataLoader
+ com.android.gallery3d.app.AlbumSetDataLoader$1
+ com.android.gallery3d.app.AlbumSetDataLoader$DataListener
+ com.android.gallery3d.app.AlbumSetDataLoader$GetUpdateInfo
+ com.android.gallery3d.app.AlbumSetDataLoader$MySourceListener
+ com.android.gallery3d.app.AlbumSetDataLoader$ReloadTask
+ com.android.gallery3d.app.AlbumSetDataLoader$UpdateContent
+ com.android.gallery3d.app.AlbumSetDataLoader$UpdateInfo
+com/android/gallery3d/data/ClusterSource.java
+ com.android.gallery3d.data.ClusterSource
+com/android/gallery3d/jpegstream/JpegConfig.java
+ com.android.gallery3d.jpegstream.JpegConfig
+com/googlecode/mp4parser/boxes/mp4/objectdescriptors/BitWriterBuffer.java
+ com.googlecode.mp4parser.boxes.mp4.objectdescriptors.BitWriterBuffer
+com/android/gallery3d/data/SecureAlbum.java
+ com.android.gallery3d.data.SecureAlbum
+ com.android.gallery3d.data.SecureAlbum$1
+com/coremedia/iso/boxes/apple/AppleTrackAuthorBox.java
+ com.coremedia.iso.boxes.apple.AppleTrackAuthorBox
+com/googlecode/mp4parser/Version.java
+ com.googlecode.mp4parser.Version
+com/android/gallery3d/common/Fingerprint.java
+ com.android.gallery3d.common.Fingerprint
+com/googlecode/mp4parser/h264/read/CAVLCReader.java
+ com.googlecode.mp4parser.h264.read.CAVLCReader
+com/android/gallery3d/util/PanoramaViewHelper.java
+ com.android.gallery3d.util.PanoramaViewHelper
+com/android/gallery3d/filtershow/filters/SimpleImageFilter.java
+ com.android.gallery3d.filtershow.filters.SimpleImageFilter
+com/android/gallery3d/app/MuteVideo.java
+ com.android.gallery3d.app.MuteVideo
+ com.android.gallery3d.app.MuteVideo$1
+ com.android.gallery3d.app.MuteVideo$1$1
+com/android/gallery3d/app/GalleryActivity.java
+ com.android.gallery3d.app.GalleryActivity
+com/android/gallery3d/filtershow/imageshow/ImagePoint.java
+ com.android.gallery3d.filtershow.imageshow.ImagePoint
+com/android/gallery3d/filtershow/category/MainPanel.java
+ com.android.gallery3d.filtershow.category.MainPanel
+ com.android.gallery3d.filtershow.category.MainPanel$1
+ com.android.gallery3d.filtershow.category.MainPanel$2
+ com.android.gallery3d.filtershow.category.MainPanel$3
+ com.android.gallery3d.filtershow.category.MainPanel$4
+ com.android.gallery3d.filtershow.category.MainPanel$5
+com/android/gallery3d/app/ControllerOverlay.java
+ com.android.gallery3d.app.ControllerOverlay
+ com.android.gallery3d.app.ControllerOverlay$Listener
+com/googlecode/mp4parser/boxes/adobe/ActionMessageFormat0SampleEntryBox.java
+ com.googlecode.mp4parser.boxes.adobe.ActionMessageFormat0SampleEntryBox
+com/android/gallery3d/filtershow/filters/ImageFilterHighlights.java
+ com.android.gallery3d.filtershow.filters.ImageFilterHighlights
+com/android/gallery3d/ingest/data/ImportTask.java
+ com.android.gallery3d.ingest.data.ImportTask
+ com.android.gallery3d.ingest.data.ImportTask$Listener
+com/googlecode/mp4parser/boxes/mp4/objectdescriptors/ObjectDescriptorFactory.java
+ com.googlecode.mp4parser.boxes.mp4.objectdescriptors.ObjectDescriptorFactory
+com/coremedia/iso/boxes/apple/AppleDataRateBox.java
+ com.coremedia.iso.boxes.apple.AppleDataRateBox
+com/coremedia/iso/boxes/dece/TrickPlayBox.java
+ com.coremedia.iso.boxes.dece.TrickPlayBox
+ com.coremedia.iso.boxes.dece.TrickPlayBox$Entry
+com/coremedia/iso/boxes/apple/AppleEncoderBox.java
+ com.coremedia.iso.boxes.apple.AppleEncoderBox
+com/coremedia/iso/boxes/ProgressiveDownloadInformationBox.java
+ com.coremedia.iso.boxes.ProgressiveDownloadInformationBox
+ com.coremedia.iso.boxes.ProgressiveDownloadInformationBox$Entry
+com/android/gallery3d/filtershow/filters/FilterCropRepresentation.java
+ com.android.gallery3d.filtershow.filters.FilterCropRepresentation
+com/android/photos/BitmapRegionTileSource.java
+ com.android.photos.BitmapRegionTileSource
+com/android/gallery3d/util/LightCycleHelper.java
+ com.android.gallery3d.util.LightCycleHelper
+ com.android.gallery3d.util.LightCycleHelper$PanoramaMetadata
+com/android/gallery3d/filtershow/filters/FilterPoint.java
+ com.android.gallery3d.filtershow.filters.FilterPoint
+com/android/gallery3d/filtershow/filters/FilterDrawRepresentation.java
+ com.android.gallery3d.filtershow.filters.FilterDrawRepresentation
+ com.android.gallery3d.filtershow.filters.FilterDrawRepresentation$StrokeData
+com/coremedia/iso/boxes/fragment/TrackFragmentBox.java
+ com.coremedia.iso.boxes.fragment.TrackFragmentBox
+com/coremedia/iso/boxes/ItemDataBox.java
+ com.coremedia.iso.boxes.ItemDataBox
+com/android/gallery3d/exif/CountedDataInputStream.java
+ com.android.gallery3d.exif.CountedDataInputStream
+com/android/gallery3d/ingest/data/MtpDeviceIndexRunnable.java
+ com.android.gallery3d.ingest.data.MtpDeviceIndexRunnable
+ com.android.gallery3d.ingest.data.MtpDeviceIndexRunnable$Factory
+ com.android.gallery3d.ingest.data.MtpDeviceIndexRunnable$IndexingException
+ com.android.gallery3d.ingest.data.MtpDeviceIndexRunnable$Results
+com/android/gallery3d/filtershow/filters/ImageFilterDraw.java
+ com.android.gallery3d.filtershow.filters.ImageFilterDraw
+ com.android.gallery3d.filtershow.filters.ImageFilterDraw$Brush
+ com.android.gallery3d.filtershow.filters.ImageFilterDraw$DrawStyle
+ com.android.gallery3d.filtershow.filters.ImageFilterDraw$SimpleDraw
+com/coremedia/iso/boxes/sampleentry/SubtitleSampleEntry.java
+ com.coremedia.iso.boxes.sampleentry.SubtitleSampleEntry
+com/googlecode/mp4parser/authoring/builder/ByteBufferHelper.java
+ com.googlecode.mp4parser.authoring.builder.ByteBufferHelper
+com/googlecode/mp4parser/authoring/Mp4TrackImpl.java
+ com.googlecode.mp4parser.authoring.Mp4TrackImpl
+com/coremedia/iso/boxes/fragment/TrackFragmentBaseMediaDecodeTimeBox.java
+ com.coremedia.iso.boxes.fragment.TrackFragmentBaseMediaDecodeTimeBox
+com/googlecode/mp4parser/boxes/mp4/objectdescriptors/BaseDescriptor.java
+ com.googlecode.mp4parser.boxes.mp4.objectdescriptors.BaseDescriptor
+com/android/gallery3d/gadget/WidgetService.java
+ com.android.gallery3d.gadget.WidgetService
+ com.android.gallery3d.gadget.WidgetService$PhotoRVFactory
+com/android/gallery3d/jpegstream/StreamUtils.java
+ com.android.gallery3d.jpegstream.StreamUtils
+com/android/photos/FullscreenViewer.java
+ com.android.photos.FullscreenViewer
+com/android/gallery3d/filtershow/imageshow/Oval.java
+ com.android.gallery3d.filtershow.imageshow.Oval
+com/android/gallery3d/app/FilmstripPage.java
+ com.android.gallery3d.app.FilmstripPage
+com/android/photos/PhotoSetFragment.java
+ com.android.photos.PhotoSetFragment
+com/coremedia/iso/boxes/AuthorBox.java
+ com.coremedia.iso.boxes.AuthorBox
+com/android/gallery3d/data/LocalImage.java
+ com.android.gallery3d.data.LocalImage
+ com.android.gallery3d.data.LocalImage$LocalImageRequest
+ com.android.gallery3d.data.LocalImage$LocalLargeImageRequest
+com/android/gallery3d/common/OverScroller.java
+ com.android.gallery3d.common.OverScroller
+ com.android.gallery3d.common.OverScroller$SplineOverScroller
+com/coremedia/iso/boxes/apple/AppleCustomGenreBox.java
+ com.coremedia.iso.boxes.apple.AppleCustomGenreBox
+com/coremedia/iso/boxes/sampleentry/AmrSpecificBox.java
+ com.coremedia.iso.boxes.sampleentry.AmrSpecificBox
+com/android/gallery3d/filtershow/filters/ColorSpaceMatrix.java
+ com.android.gallery3d.filtershow.filters.ColorSpaceMatrix
+com/android/gallery3d/exif/ExifOutputStream.java
+ com.android.gallery3d.exif.ExifOutputStream
+com/googlecode/mp4parser/boxes/mp4/objectdescriptors/SLConfigDescriptor.java
+ com.googlecode.mp4parser.boxes.mp4.objectdescriptors.SLConfigDescriptor
+com/coremedia/iso/boxes/ItemLocationBox.java
+ com.coremedia.iso.boxes.ItemLocationBox
+ com.coremedia.iso.boxes.ItemLocationBox$Extent
+ com.coremedia.iso.boxes.ItemLocationBox$Item
+com/coremedia/iso/boxes/StaticChunkOffsetBox.java
+ com.coremedia.iso.boxes.StaticChunkOffsetBox
+com/android/gallery3d/exif/ExifReader.java
+ com.android.gallery3d.exif.ExifReader
+com/android/gallery3d/glrenderer/ResourceTexture.java
+ com.android.gallery3d.glrenderer.ResourceTexture
+com/android/gallery3d/filtershow/editors/ImageOnlyEditor.java
+ com.android.gallery3d.filtershow.editors.ImageOnlyEditor
+com/googlecode/mp4parser/AbstractContainerBox.java
+ com.googlecode.mp4parser.AbstractContainerBox
+com/googlecode/mp4parser/authoring/adaptivestreaming/FlatPackageWriterImpl.java
+ com.googlecode.mp4parser.authoring.adaptivestreaming.FlatPackageWriterImpl
+com/android/gallery3d/filtershow/CenteredLinearLayout.java
+ com.android.gallery3d.filtershow.CenteredLinearLayout
+com/android/gallery3d/filtershow/data/FilterStackDBHelper.java
+ com.android.gallery3d.filtershow.data.FilterStackDBHelper
+ com.android.gallery3d.filtershow.data.FilterStackDBHelper$FilterStack
+com/android/gallery3d/glrenderer/GLId.java
+ com.android.gallery3d.glrenderer.GLId
+com/android/camera/CameraActivity.java
+ com.android.camera.CameraActivity
+com/coremedia/iso/boxes/RecordingYearBox.java
+ com.coremedia.iso.boxes.RecordingYearBox
+com/coremedia/iso/boxes/NullMediaHeaderBox.java
+ com.coremedia.iso.boxes.NullMediaHeaderBox
+com/coremedia/iso/boxes/FreeBox.java
+ com.coremedia.iso.boxes.FreeBox
+com/android/gallery3d/exif/IfdId.java
+ com.android.gallery3d.exif.IfdId
+com/android/gallery3d/ui/ProgressSpinner.java
+ com.android.gallery3d.ui.ProgressSpinner
+com/googlecode/mp4parser/authoring/builder/FragmentIntersectionFinder.java
+ com.googlecode.mp4parser.authoring.builder.FragmentIntersectionFinder
+com/android/gallery3d/filtershow/imageshow/ControlPoint.java
+ com.android.gallery3d.filtershow.imageshow.ControlPoint
+com/coremedia/iso/boxes/CopyrightBox.java
+ com.coremedia.iso.boxes.CopyrightBox
+com/android/photos/AlbumFragment.java
+ com.android.photos.AlbumFragment
+com/android/gallery3d/data/SnailSource.java
+ com.android.gallery3d.data.SnailSource
+com/android/gallery3d/filtershow/colorpicker/ColorPickerDialog.java
+ com.android.gallery3d.filtershow.colorpicker.ColorPickerDialog
+ com.android.gallery3d.filtershow.colorpicker.ColorPickerDialog$1
+ com.android.gallery3d.filtershow.colorpicker.ColorPickerDialog$2
+ com.android.gallery3d.filtershow.colorpicker.ColorPickerDialog$3
+com/android/gallery3d/filtershow/controller/ActionSlider.java
+ com.android.gallery3d.filtershow.controller.ActionSlider
+ com.android.gallery3d.filtershow.controller.ActionSlider$1
+ com.android.gallery3d.filtershow.controller.ActionSlider$2
+com/googlecode/mp4parser/authoring/builder/DefaultMp4Builder.java
+ com.googlecode.mp4parser.authoring.builder.DefaultMp4Builder
+ com.googlecode.mp4parser.authoring.builder.DefaultMp4Builder$1
+ com.googlecode.mp4parser.authoring.builder.DefaultMp4Builder$InterleaveChunkMdat
+com/android/gallery3d/util/RangeIntArray.java
+ com.android.gallery3d.util.RangeIntArray
+com/googlecode/mp4parser/boxes/mp4/samplegrouping/UnknownEntry.java
+ com.googlecode.mp4parser.boxes.mp4.samplegrouping.UnknownEntry
+com/googlecode/mp4parser/authoring/adaptivestreaming/PackageWriter.java
+ com.googlecode.mp4parser.authoring.adaptivestreaming.PackageWriter
+com/android/gallery3d/ui/GLRoot.java
+ com.android.gallery3d.ui.GLRoot
+ com.android.gallery3d.ui.GLRoot$OnGLIdleListener
+com/googlecode/mp4parser/authoring/tracks/TextTrackImpl.java
+ com.googlecode.mp4parser.authoring.tracks.TextTrackImpl
+ com.googlecode.mp4parser.authoring.tracks.TextTrackImpl$Line
+com/android/gallery3d/filtershow/filters/ImageFilterFx.java
+ com.android.gallery3d.filtershow.filters.ImageFilterFx
+com/android/gallery3d/util/CacheManager.java
+ com.android.gallery3d.util.CacheManager
+com/android/gallery3d/filtershow/filters/FilterColorBorderRepresentation.java
+ com.android.gallery3d.filtershow.filters.FilterColorBorderRepresentation
+com/googlecode/mp4parser/boxes/mp4/objectdescriptors/Descriptor.java
+ com.googlecode.mp4parser.boxes.mp4.objectdescriptors.Descriptor
+com/android/gallery3d/common/HttpClientFactory.java
+ com.android.gallery3d.common.HttpClientFactory
+com/android/gallery3d/filtershow/filters/FilterPointRepresentation.java
+ com.android.gallery3d.filtershow.filters.FilterPointRepresentation
+com/coremedia/iso/boxes/MediaBox.java
+ com.coremedia.iso.boxes.MediaBox
+com/android/photos/data/SQLiteContentProvider.java
+ com.android.photos.data.SQLiteContentProvider
+com/android/gallery3d/data/BucketHelper.java
+ com.android.gallery3d.data.BucketHelper
+ com.android.gallery3d.data.BucketHelper$1
+ com.android.gallery3d.data.BucketHelper$BucketEntry
+com/android/gallery3d/filtershow/filters/ImageFilterBwFilter.java
+ com.android.gallery3d.filtershow.filters.ImageFilterBwFilter
+com/android/gallery3d/common/Scroller.java
+ com.android.gallery3d.common.Scroller
+com/android/gallery3d/data/LocationClustering.java
+ com.android.gallery3d.data.LocationClustering
+ com.android.gallery3d.data.LocationClustering$1
+ com.android.gallery3d.data.LocationClustering$2
+ com.android.gallery3d.data.LocationClustering$Point
+ com.android.gallery3d.data.LocationClustering$SmallItem
+com/googlecode/mp4parser/authoring/adaptivestreaming/FlatManifestWriterImpl.java
+ com.googlecode.mp4parser.authoring.adaptivestreaming.FlatManifestWriterImpl
+ com.googlecode.mp4parser.authoring.adaptivestreaming.FlatManifestWriterImpl$DependentSubstreamMask
+com/android/gallery3d/data/MediaSource.java
+ com.android.gallery3d.data.MediaSource
+ com.android.gallery3d.data.MediaSource$PathId
+com/coremedia/iso/boxes/fragment/TrackFragmentRandomAccessBox.java
+ com.coremedia.iso.boxes.fragment.TrackFragmentRandomAccessBox
+ com.coremedia.iso.boxes.fragment.TrackFragmentRandomAccessBox$Entry
+com/android/gallery3d/data/ImageCacheService.java
+ com.android.gallery3d.data.ImageCacheService
+com/coremedia/iso/boxes/TrackHeaderBox.java
+ com.coremedia.iso.boxes.TrackHeaderBox
+com/android/gallery3d/data/FilterTypeSet.java
+ com.android.gallery3d.data.FilterTypeSet
+ com.android.gallery3d.data.FilterTypeSet$1
+ com.android.gallery3d.data.FilterTypeSet$2
+com/android/gallery3d/filtershow/editors/EditorPanel.java
+ com.android.gallery3d.filtershow.editors.EditorPanel
+ com.android.gallery3d.filtershow.editors.EditorPanel$1
+ com.android.gallery3d.filtershow.editors.EditorPanel$2
+com/android/gallery3d/data/SnailItem.java
+ com.android.gallery3d.data.SnailItem
+ com.android.gallery3d.data.SnailItem$1
+ com.android.gallery3d.data.SnailItem$2
+com/googlecode/mp4parser/boxes/mp4/samplegrouping/GroupEntry.java
+ com.googlecode.mp4parser.boxes.mp4.samplegrouping.GroupEntry
+com/android/gallery3d/ui/SlideshowView.java
+ com.android.gallery3d.ui.SlideshowView
+ com.android.gallery3d.ui.SlideshowView$SlideshowAnimation
+com/android/gallery3d/data/DecodeUtils.java
+ com.android.gallery3d.data.DecodeUtils
+ com.android.gallery3d.data.DecodeUtils$DecodeCanceller
+com/googlecode/mp4parser/boxes/piff/PiffTrackEncryptionBox.java
+ com.googlecode.mp4parser.boxes.piff.PiffTrackEncryptionBox
+com/android/gallery3d/filtershow/filters/FilterCurvesRepresentation.java
+ com.android.gallery3d.filtershow.filters.FilterCurvesRepresentation
+com/coremedia/iso/boxes/apple/AppleDataBox.java
+ com.coremedia.iso.boxes.apple.AppleDataBox
+com/android/gallery3d/util/LinkedNode.java
+ com.android.gallery3d.util.LinkedNode
+ com.android.gallery3d.util.LinkedNode$List
+com/android/gallery3d/app/PhotoPageProgressBar.java
+ com.android.gallery3d.app.PhotoPageProgressBar
+com/coremedia/iso/IsoTypeWriter.java
+ com.coremedia.iso.IsoTypeWriter
+com/android/photos/data/PhotoSetLoader.java
+ com.android.photos.data.PhotoSetLoader
+com/android/gallery3d/filtershow/controller/BasicParameterStyle.java
+ com.android.gallery3d.filtershow.controller.BasicParameterStyle
+com/googlecode/mp4parser/boxes/piff/PiffSampleEncryptionBox.java
+ com.googlecode.mp4parser.boxes.piff.PiffSampleEncryptionBox
+com/android/gallery3d/gadget/WidgetSource.java
+ com.android.gallery3d.gadget.WidgetSource
+com/android/gallery3d/data/LocalVideo.java
+ com.android.gallery3d.data.LocalVideo
+ com.android.gallery3d.data.LocalVideo$LocalVideoRequest
+com/android/gallery3d/ui/TileImageViewAdapter.java
+ com.android.gallery3d.ui.TileImageViewAdapter
+com/android/gallery3d/exif/ExifInvalidFormatException.java
+ com.android.gallery3d.exif.ExifInvalidFormatException
+com/android/gallery3d/data/PathMatcher.java
+ com.android.gallery3d.data.PathMatcher
+ com.android.gallery3d.data.PathMatcher$1
+ com.android.gallery3d.data.PathMatcher$Node
+com/googlecode/mp4parser/h264/model/ScalingMatrix.java
+ com.googlecode.mp4parser.h264.model.ScalingMatrix
+com/android/gallery3d/util/InterruptableOutputStream.java
+ com.android.gallery3d.util.InterruptableOutputStream
+com/android/gallery3d/jpegstream/JPEGOutputStream.java
+ com.android.gallery3d.jpegstream.JPEGOutputStream
+com/android/gallery3d/data/ChangeNotifier.java
+ com.android.gallery3d.data.ChangeNotifier
+com/android/gallery3d/app/PickerActivity.java
+ com.android.gallery3d.app.PickerActivity
+com/android/gallery3d/filtershow/pipeline/PipelineInterface.java
+ com.android.gallery3d.filtershow.pipeline.PipelineInterface
+com/android/gallery3d/ui/Log.java
+ com.android.gallery3d.ui.Log
+com/android/gallery3d/app/Config.java
+ com.android.gallery3d.app.Config
+ com.android.gallery3d.app.Config$1
+ com.android.gallery3d.app.Config$AlbumPage
+ com.android.gallery3d.app.Config$AlbumSetPage
+ com.android.gallery3d.app.Config$ManageCachePage
+com/coremedia/iso/boxes/apple/AppleWaveBox.java
+ com.coremedia.iso.boxes.apple.AppleWaveBox
+com/android/gallery3d/filtershow/state/State.java
+ com.android.gallery3d.filtershow.state.State
+com/android/gallery3d/filtershow/pipeline/CacheProcessing.java
+ com.android.gallery3d.filtershow.pipeline.CacheProcessing
+ com.android.gallery3d.filtershow.pipeline.CacheProcessing$CacheStep
+com/coremedia/iso/boxes/fragment/MovieFragmentRandomAccessBox.java
+ com.coremedia.iso.boxes.fragment.MovieFragmentRandomAccessBox
+com/android/gallery3d/data/DataManager.java
+ com.android.gallery3d.data.DataManager
+ com.android.gallery3d.data.DataManager$1
+ com.android.gallery3d.data.DataManager$DateTakenComparator
+ com.android.gallery3d.data.DataManager$NotifyBroker
+com/android/gallery3d/app/GalleryApp.java
+ com.android.gallery3d.app.GalleryApp
+com/coremedia/iso/boxes/apple/AppleSortAlbumBox.java
+ com.coremedia.iso.boxes.apple.AppleSortAlbumBox
+com/googlecode/mp4parser/authoring/builder/TwoSecondIntersectionFinder.java
+ com.googlecode.mp4parser.authoring.builder.TwoSecondIntersectionFinder
+com/android/gallery3d/glrenderer/GLES20Canvas.java
+ com.android.gallery3d.glrenderer.GLES20Canvas
+ com.android.gallery3d.glrenderer.GLES20Canvas$AttributeShaderParameter
+ com.android.gallery3d.glrenderer.GLES20Canvas$ShaderParameter
+ com.android.gallery3d.glrenderer.GLES20Canvas$UniformShaderParameter
+com/android/gallery3d/ui/EdgeView.java
+ com.android.gallery3d.ui.EdgeView
+com/googlecode/mp4parser/boxes/mp4/objectdescriptors/AudioSpecificConfig.java
+ com.googlecode.mp4parser.boxes.mp4.objectdescriptors.AudioSpecificConfig
+com/android/gallery3d/app/MoviePlayer.java
+ com.android.gallery3d.app.Bookmarker
+ com.android.gallery3d.app.MoviePlayer
+ com.android.gallery3d.app.MoviePlayer$1
+ com.android.gallery3d.app.MoviePlayer$2
+ com.android.gallery3d.app.MoviePlayer$3
+ com.android.gallery3d.app.MoviePlayer$4
+ com.android.gallery3d.app.MoviePlayer$5
+ com.android.gallery3d.app.MoviePlayer$6
+ com.android.gallery3d.app.MoviePlayer$7
+ com.android.gallery3d.app.MoviePlayer$8
+ com.android.gallery3d.app.MoviePlayer$9
+ com.android.gallery3d.app.MoviePlayer$AudioBecomingNoisyReceiver
+com/android/gallery3d/app/StitchingChangeListener.java
+ com.android.gallery3d.app.StitchingChangeListener
+com/android/gallery3d/glrenderer/TiledTexture.java
+ com.android.gallery3d.glrenderer.TiledTexture
+ com.android.gallery3d.glrenderer.TiledTexture$1
+ com.android.gallery3d.glrenderer.TiledTexture$Tile
+ com.android.gallery3d.glrenderer.TiledTexture$Uploader
+com/android/gallery3d/filtershow/state/StateAdapter.java
+ com.android.gallery3d.filtershow.state.StateAdapter
+com/android/photos/data/PhotoProviderAuthority.java
+ com.android.photos.data.PhotoProviderAuthority
+com/android/gallery3d/filtershow/colorpicker/ColorSVRectView.java
+ com.android.gallery3d.filtershow.colorpicker.ColorSVRectView
+com/android/photos/views/SquareImageView.java
+ com.android.photos.views.SquareImageView
+com/android/gallery3d/app/DialogPicker.java
+ com.android.gallery3d.app.DialogPicker
+com/android/photos/data/PhotoDatabase.java
+ com.android.photos.data.PhotoDatabase
+com/android/photos/adapters/PhotoThumbnailAdapter.java
+ com.android.photos.adapters.PhotoThumbnailAdapter
+com/coremedia/iso/boxes/KeywordsBox.java
+ com.coremedia.iso.boxes.KeywordsBox
+com/googlecode/mp4parser/boxes/EC3SpecificBox.java
+ com.googlecode.mp4parser.boxes.EC3SpecificBox
+ com.googlecode.mp4parser.boxes.EC3SpecificBox$Entry
+com/android/gallery3d/data/SizeClustering.java
+ com.android.gallery3d.data.SizeClustering
+ com.android.gallery3d.data.SizeClustering$1
+com/android/gallery3d/exif/Rational.java
+ com.android.gallery3d.exif.Rational
+com/coremedia/iso/boxes/apple/AppleCommentBox.java
+ com.coremedia.iso.boxes.apple.AppleCommentBox
+com/android/gallery3d/glrenderer/StringTexture.java
+ com.android.gallery3d.glrenderer.StringTexture
+com/android/gallery3d/filtershow/pipeline/RenderingRequest.java
+ com.android.gallery3d.filtershow.pipeline.RenderingRequest
+com/coremedia/iso/boxes/vodafone/AlbumArtistBox.java
+ com.coremedia.iso.boxes.vodafone.AlbumArtistBox
+com/android/gallery3d/app/CommonControllerOverlay.java
+ com.android.gallery3d.app.CommonControllerOverlay
+ com.android.gallery3d.app.CommonControllerOverlay$State
+com/android/photos/shims/BitmapJobDrawable.java
+ com.android.photos.shims.BitmapJobDrawable
+ com.android.photos.shims.BitmapJobDrawable$ThumbnailLoader
+com/android/gallery3d/filtershow/controller/ParameterBrightness.java
+ com.android.gallery3d.filtershow.controller.ParameterBrightness
+com/coremedia/iso/PropertyBoxParserImpl.java
+ com.coremedia.iso.PropertyBoxParserImpl
+ com.coremedia.iso.PropertyBoxParserImpl$FourCcToBox
+com/googlecode/mp4parser/util/CastUtils.java
+ com.googlecode.mp4parser.util.CastUtils
+com/android/gallery3d/util/MotionEventHelper.java
+ com.android.gallery3d.util.MotionEventHelper
+com/android/gallery3d/app/VideoUtils.java
+ com.android.gallery3d.app.VideoUtils
+com/android/gallery3d/ingest/ui/MtpImageView.java
+ com.android.gallery3d.ingest.ui.MtpImageView
+ com.android.gallery3d.ingest.ui.MtpImageView$1
+ com.android.gallery3d.ingest.ui.MtpImageView$FetchImageHandler
+ com.android.gallery3d.ingest.ui.MtpImageView$ShowImageHandler
+com/googlecode/mp4parser/boxes/ultraviolet/BaseLocationBox.java
+ com.googlecode.mp4parser.boxes.ultraviolet.BaseLocationBox
+com/android/gallery3d/ingest/ui/MtpThumbnailTileView.java
+ com.android.gallery3d.ingest.ui.MtpThumbnailTileView
+com/coremedia/iso/boxes/EditBox.java
+ com.coremedia.iso.boxes.EditBox
+com/android/gallery3d/filtershow/data/FilterStackSource.java
+ com.android.gallery3d.filtershow.data.FilterStackSource
+com/googlecode/mp4parser/authoring/adaptivestreaming/VideoQuality.java
+ com.googlecode.mp4parser.authoring.adaptivestreaming.VideoQuality
+com/android/gallery3d/filtershow/state/StatePanelTrack.java
+ com.android.gallery3d.filtershow.state.StatePanelTrack
+ com.android.gallery3d.filtershow.state.StatePanelTrack$1
+ com.android.gallery3d.filtershow.state.StatePanelTrack$2
+com/android/gallery3d/filtershow/controller/ParameterOpacity.java
+ com.android.gallery3d.filtershow.controller.ParameterOpacity
+com/android/gallery3d/filtershow/crop/BoundedRect.java
+ com.android.gallery3d.filtershow.crop.BoundedRect
+com/googlecode/mp4parser/authoring/adaptivestreaming/AbstractManifestWriter.java
+ com.googlecode.mp4parser.authoring.adaptivestreaming.AbstractManifestWriter
+com/android/gallery3d/ui/PopupList.java
+ com.android.gallery3d.ui.PopupList
+ com.android.gallery3d.ui.PopupList$1
+ com.android.gallery3d.ui.PopupList$2
+ com.android.gallery3d.ui.PopupList$3
+ com.android.gallery3d.ui.PopupList$Item
+ com.android.gallery3d.ui.PopupList$ItemDataAdapter
+ com.android.gallery3d.ui.PopupList$OnPopupItemClickListener
+com/android/gallery3d/filtershow/category/IconView.java
+ com.android.gallery3d.filtershow.category.IconView
+com/coremedia/iso/boxes/vodafone/LyricsUriBox.java
+ com.coremedia.iso.boxes.vodafone.LyricsUriBox
+com/coremedia/iso/boxes/SampleToChunkBox.java
+ com.coremedia.iso.boxes.SampleToChunkBox
+ com.coremedia.iso.boxes.SampleToChunkBox$Entry
+com/android/gallery3d/util/PriorityThreadFactory.java
+ com.android.gallery3d.util.PriorityThreadFactory
+ com.android.gallery3d.util.PriorityThreadFactory$1
+com/googlecode/mp4parser/AbstractBox.java
+ com.googlecode.mp4parser.AbstractBox
+com/android/gallery3d/data/FaceClustering.java
+ com.android.gallery3d.data.FaceClustering
+ com.android.gallery3d.data.FaceClustering$1
+ com.android.gallery3d.data.FaceClustering$FaceCluster
+com/coremedia/iso/boxes/TrackReferenceTypeBox.java
+ com.coremedia.iso.boxes.TrackReferenceTypeBox
+com/coremedia/iso/boxes/apple/AppleTrackNumberBox.java
+ com.coremedia.iso.boxes.apple.AppleTrackNumberBox
+com/googlecode/mp4parser/boxes/piff/PlayReadyHeader.java
+ com.googlecode.mp4parser.boxes.piff.PlayReadyHeader
+ com.googlecode.mp4parser.boxes.piff.PlayReadyHeader$PlayReadyRecord
+ com.googlecode.mp4parser.boxes.piff.PlayReadyHeader$PlayReadyRecord$DefaulPlayReadyRecord
+ com.googlecode.mp4parser.boxes.piff.PlayReadyHeader$PlayReadyRecord$EmeddedLicenseStore
+ com.googlecode.mp4parser.boxes.piff.PlayReadyHeader$PlayReadyRecord$RMHeader
+com/android/gallery3d/app/PhotoPage.java
+ com.android.gallery3d.app.PhotoPage
+ com.android.gallery3d.app.PhotoPage$1
+ com.android.gallery3d.app.PhotoPage$10
+ com.android.gallery3d.app.PhotoPage$2
+ com.android.gallery3d.app.PhotoPage$3
+ com.android.gallery3d.app.PhotoPage$4
+ com.android.gallery3d.app.PhotoPage$5
+ com.android.gallery3d.app.PhotoPage$6
+ com.android.gallery3d.app.PhotoPage$7
+ com.android.gallery3d.app.PhotoPage$8
+ com.android.gallery3d.app.PhotoPage$9
+ com.android.gallery3d.app.PhotoPage$Model
+ com.android.gallery3d.app.PhotoPage$MyDetailsSource
+ com.android.gallery3d.app.PhotoPage$MyMenuVisibilityListener
+com/android/gallery3d/ui/MeasureHelper.java
+ com.android.gallery3d.ui.MeasureHelper
+com/android/gallery3d/util/Log.java
+ com.android.gallery3d.util.Log
+com/android/gallery3d/jpegstream/JPEGInputStream.java
+ com.android.gallery3d.jpegstream.JPEGInputStream
+com/coremedia/iso/boxes/fragment/TrackExtendsBox.java
+ com.coremedia.iso.boxes.fragment.TrackExtendsBox
+com/coremedia/iso/boxes/MovieBox.java
+ com.coremedia.iso.boxes.MovieBox
+com/googlecode/mp4parser/authoring/tracks/H264TrackImpl.java
+ com.googlecode.mp4parser.authoring.tracks.H264TrackImpl
+ com.googlecode.mp4parser.authoring.tracks.H264TrackImpl$1
+ com.googlecode.mp4parser.authoring.tracks.H264TrackImpl$NALActions
+ com.googlecode.mp4parser.authoring.tracks.H264TrackImpl$ReaderWrapper
+ com.googlecode.mp4parser.authoring.tracks.H264TrackImpl$SEIMessage
+ com.googlecode.mp4parser.authoring.tracks.H264TrackImpl$SliceHeader
+ com.googlecode.mp4parser.authoring.tracks.H264TrackImpl$SliceHeader$SliceType
+com/android/gallery3d/filtershow/colorpicker/ColorRectView.java
+ com.android.gallery3d.filtershow.colorpicker.ColorRectView
+com/android/gallery3d/app/TimeBar.java
+ com.android.gallery3d.app.TimeBar
+ com.android.gallery3d.app.TimeBar$Listener
+com/android/gallery3d/ui/GLView.java
+ com.android.gallery3d.ui.GLView
+ com.android.gallery3d.ui.GLView$OnClickListener
+com/android/gallery3d/filtershow/controller/ParameterColor.java
+ com.android.gallery3d.filtershow.controller.ParameterColor
+com/android/gallery3d/filtershow/imageshow/Line.java
+ com.android.gallery3d.filtershow.imageshow.Line
+com/coremedia/iso/boxes/PerformerBox.java
+ com.coremedia.iso.boxes.PerformerBox
+com/android/gallery3d/picasasource/PicasaSource.java
+ com.android.gallery3d.picasasource.PicasaSource
+ com.android.gallery3d.picasasource.PicasaSource$EmptyAlbumSet
+com/android/gallery3d/filtershow/controller/BitmapCaller.java
+ com.android.gallery3d.filtershow.controller.BitmapCaller
+com/android/gallery3d/app/StateManager.java
+ com.android.gallery3d.app.StateManager
+ com.android.gallery3d.app.StateManager$StateEntry
+com/googlecode/mp4parser/boxes/mp4/objectdescriptors/ExtensionProfileLevelDescriptor.java
+ com.googlecode.mp4parser.boxes.mp4.objectdescriptors.ExtensionProfileLevelDescriptor
+com/android/gallery3d/provider/GalleryProvider.java
+ com.android.gallery3d.provider.GalleryProvider
+ com.android.gallery3d.provider.GalleryProvider$1
+ com.android.gallery3d.provider.GalleryProvider$PicasaColumns
+ com.android.gallery3d.provider.GalleryProvider$PipeDataWriter
+com/googlecode/mp4parser/boxes/piff/TfrfBox.java
+ com.googlecode.mp4parser.boxes.piff.TfrfBox
+ com.googlecode.mp4parser.boxes.piff.TfrfBox$Entry
+com/googlecode/mp4parser/boxes/MLPSpecificBox.java
+ com.googlecode.mp4parser.boxes.MLPSpecificBox
+com/android/gallery3d/ui/DialogDetailsView.java
+ com.android.gallery3d.ui.DialogDetailsView
+ com.android.gallery3d.ui.DialogDetailsView$1
+ com.android.gallery3d.ui.DialogDetailsView$2
+ com.android.gallery3d.ui.DialogDetailsView$DetailsAdapter
+com/googlecode/mp4parser/boxes/apple/QuicktimeTextSampleEntry.java
+ com.googlecode.mp4parser.boxes.apple.QuicktimeTextSampleEntry
+com/android/gallery3d/filtershow/ui/SelectionRenderer.java
+ com.android.gallery3d.filtershow.ui.SelectionRenderer
+com/android/gallery3d/data/UriSource.java
+ com.android.gallery3d.data.UriSource
+com/coremedia/iso/boxes/OmaDrmAccessUnitFormatBox.java
+ com.coremedia.iso.boxes.OmaDrmAccessUnitFormatBox
+com/android/gallery3d/anim/StateTransitionAnimation.java
+ com.android.gallery3d.anim.StateTransitionAnimation
+ com.android.gallery3d.anim.StateTransitionAnimation$1
+ com.android.gallery3d.anim.StateTransitionAnimation$Spec
+ com.android.gallery3d.anim.StateTransitionAnimation$Transition
+com/coremedia/iso/boxes/DescriptionBox.java
+ com.coremedia.iso.boxes.DescriptionBox
+com/android/gallery3d/util/AccessibilityUtils.java
+ com.android.gallery3d.util.AccessibilityUtils
+com/android/gallery3d/gadget/WidgetUtils.java
+ com.android.gallery3d.gadget.WidgetUtils
+com/android/gallery3d/filtershow/info/HistogramView.java
+ com.android.gallery3d.filtershow.info.HistogramView
+ com.android.gallery3d.filtershow.info.HistogramView$ComputeHistogramTask
+com/android/gallery3d/filtershow/category/CategoryAdapter.java
+ com.android.gallery3d.filtershow.category.CategoryAdapter
+com/android/gallery3d/ui/AbstractSlotRenderer.java
+ com.android.gallery3d.ui.AbstractSlotRenderer
+com/android/gallery3d/data/LocalAlbumSet.java
+ com.android.gallery3d.data.LocalAlbumSet
+ com.android.gallery3d.data.LocalAlbumSet$1
+ com.android.gallery3d.data.LocalAlbumSet$AlbumsLoader
+com/android/gallery3d/filtershow/filters/ImageFilterTinyPlanet.java
+ com.android.gallery3d.filtershow.filters.ImageFilterTinyPlanet
+com/googlecode/mp4parser/boxes/piff/UuidBasedProtectionSystemSpecificHeaderBox.java
+ com.googlecode.mp4parser.boxes.piff.UuidBasedProtectionSystemSpecificHeaderBox
+com/coremedia/iso/boxes/HintMediaHeaderBox.java
+ com.coremedia.iso.boxes.HintMediaHeaderBox
+com/android/gallery3d/ingest/IngestActivity.java
+ com.android.gallery3d.ingest.IngestActivity
+ com.android.gallery3d.ingest.IngestActivity$1
+ com.android.gallery3d.ingest.IngestActivity$2
+ com.android.gallery3d.ingest.IngestActivity$3
+ com.android.gallery3d.ingest.IngestActivity$4
+ com.android.gallery3d.ingest.IngestActivity$ItemListHandler
+ com.android.gallery3d.ingest.IngestActivity$PositionMappingCheckBroker
+ com.android.gallery3d.ingest.IngestActivity$ProgressState
+com/coremedia/iso/boxes/apple/AppleGroupingBox.java
+ com.coremedia.iso.boxes.apple.AppleGroupingBox
+com/android/gallery3d/data/DataSourceType.java
+ com.android.gallery3d.data.DataSourceType
+com/coremedia/iso/boxes/fragment/MovieExtendsBox.java
+ com.coremedia.iso.boxes.fragment.MovieExtendsBox
+com/coremedia/iso/boxes/UserBox.java
+ com.coremedia.iso.boxes.UserBox
+com/android/gallery3d/app/GalleryActionBar.java
+ com.android.gallery3d.app.GalleryActionBar
+ com.android.gallery3d.app.GalleryActionBar$1
+ com.android.gallery3d.app.GalleryActionBar$ActionItem
+ com.android.gallery3d.app.GalleryActionBar$AlbumModeAdapter
+ com.android.gallery3d.app.GalleryActionBar$ClusterAdapter
+ com.android.gallery3d.app.GalleryActionBar$ClusterRunner
+ com.android.gallery3d.app.GalleryActionBar$OnAlbumModeSelectedListener
+com/googlecode/mp4parser/boxes/mp4/objectdescriptors/ProfileLevelIndicationDescriptor.java
+ com.googlecode.mp4parser.boxes.mp4.objectdescriptors.ProfileLevelIndicationDescriptor
+com/android/gallery3d/filtershow/crop/CropActivity.java
+ com.android.gallery3d.filtershow.crop.CropActivity
+ com.android.gallery3d.filtershow.crop.CropActivity$1
+ com.android.gallery3d.filtershow.crop.CropActivity$BitmapIOTask
+ com.android.gallery3d.filtershow.crop.CropActivity$LoadBitmapTask
+com/android/photos/AlbumSetFragment.java
+ com.android.photos.AlbumSetFragment
+com/android/gallery3d/filtershow/editors/EditorDrawTabletUI.java
+ com.android.gallery3d.filtershow.editors.EditorDrawTabletUI
+ com.android.gallery3d.filtershow.editors.EditorDrawTabletUI$1
+ com.android.gallery3d.filtershow.editors.EditorDrawTabletUI$2
+ com.android.gallery3d.filtershow.editors.EditorDrawTabletUI$3
+ com.android.gallery3d.filtershow.editors.EditorDrawTabletUI$4
+ com.android.gallery3d.filtershow.editors.EditorDrawTabletUI$5
+ com.android.gallery3d.filtershow.editors.EditorDrawTabletUI$6
+com/android/gallery3d/gadget/MediaSetSource.java
+ com.android.gallery3d.gadget.MediaSetSource
+ com.android.gallery3d.gadget.MediaSetSource$1
+ com.android.gallery3d.gadget.MediaSetSource$CheckedMediaSetSource
+ com.android.gallery3d.gadget.MediaSetSource$EmptySource
+com/coremedia/iso/boxes/apple/AppleDescriptionBox.java
+ com.coremedia.iso.boxes.apple.AppleDescriptionBox
+com/android/gallery3d/util/Profile.java
+ com.android.gallery3d.util.Profile
+ com.android.gallery3d.util.Profile$1
+ com.android.gallery3d.util.Profile$WatchEntry
+ com.android.gallery3d.util.Profile$Watchdog
+ com.android.gallery3d.util.Profile$Watchdog$1
+com/android/gallery3d/filtershow/filters/FilterDirectRepresentation.java
+ com.android.gallery3d.filtershow.filters.FilterDirectRepresentation
+com/android/gallery3d/glrenderer/Texture.java
+ com.android.gallery3d.glrenderer.Texture
+com/android/gallery3d/filtershow/filters/BaseFiltersManager.java
+ com.android.gallery3d.filtershow.filters.BaseFiltersManager
+com/android/gallery3d/ingest/data/IngestObjectInfo.java
+ com.android.gallery3d.ingest.data.IngestObjectInfo
+com/android/gallery3d/data/TagClustering.java
+ com.android.gallery3d.data.TagClustering
+ com.android.gallery3d.data.TagClustering$1
+com/coremedia/iso/boxes/XmlBox.java
+ com.coremedia.iso.boxes.XmlBox
+com/android/gallery3d/filtershow/tools/MatrixFit.java
+ com.android.gallery3d.filtershow.tools.MatrixFit
+com/android/gallery3d/glrenderer/FadeTexture.java
+ com.android.gallery3d.glrenderer.FadeTexture
+com/android/gallery3d/filtershow/colorpicker/ColorCompareView.java
+ com.android.gallery3d.filtershow.colorpicker.ColorCompareView
+com/android/gallery3d/data/MediaItem.java
+ com.android.gallery3d.data.MediaItem
+com/android/camera/DisableCameraReceiver.java
+ com.android.camera.DisableCameraReceiver
+com/android/photos/shims/LoaderCompatShim.java
+ com.android.photos.shims.LoaderCompatShim
+com/coremedia/iso/boxes/apple/AppleTvSeasonBox.java
+ com.coremedia.iso.boxes.apple.AppleTvSeasonBox
+com/android/gallery3d/filtershow/pipeline/ImageSavingTask.java
+ com.android.gallery3d.filtershow.pipeline.ImageSavingTask
+ com.android.gallery3d.filtershow.pipeline.ImageSavingTask$1
+ com.android.gallery3d.filtershow.pipeline.ImageSavingTask$SaveRequest
+ com.android.gallery3d.filtershow.pipeline.ImageSavingTask$URIResult
+ com.android.gallery3d.filtershow.pipeline.ImageSavingTask$UpdateBitmap
+ com.android.gallery3d.filtershow.pipeline.ImageSavingTask$UpdatePreviewSaved
+ com.android.gallery3d.filtershow.pipeline.ImageSavingTask$UpdateProgress
+com/coremedia/iso/boxes/apple/AppleShowBox.java
+ com.coremedia.iso.boxes.apple.AppleShowBox
+com/android/gallery3d/data/FilterEmptyPromptSet.java
+ com.android.gallery3d.data.FilterEmptyPromptSet
+com/android/gallery3d/data/MediaObject.java
+ com.android.gallery3d.data.MediaObject
+ com.android.gallery3d.data.MediaObject$PanoramaSupportCallback
+com/coremedia/iso/boxes/UnknownBox.java
+ com.coremedia.iso.boxes.UnknownBox
+com/googlecode/mp4parser/boxes/AbstractSampleEncryptionBox.java
+ com.googlecode.mp4parser.boxes.AbstractSampleEncryptionBox
+ com.googlecode.mp4parser.boxes.AbstractSampleEncryptionBox$Entry
+ com.googlecode.mp4parser.boxes.AbstractSampleEncryptionBox$Entry$Pair
+com/android/gallery3d/ui/PhotoView.java
+ com.android.gallery3d.ui.PhotoView
+ com.android.gallery3d.ui.PhotoView$1
+ com.android.gallery3d.ui.PhotoView$2
+ com.android.gallery3d.ui.PhotoView$FullPicture
+ com.android.gallery3d.ui.PhotoView$Listener
+ com.android.gallery3d.ui.PhotoView$Model
+ com.android.gallery3d.ui.PhotoView$MyGestureListener
+ com.android.gallery3d.ui.PhotoView$MyHandler
+ com.android.gallery3d.ui.PhotoView$Picture
+ com.android.gallery3d.ui.PhotoView$ScreenNailPicture
+ com.android.gallery3d.ui.PhotoView$Size
+ com.android.gallery3d.ui.PhotoView$ZInterpolator
+com/coremedia/iso/boxes/apple/AppleMeanBox.java
+ com.coremedia.iso.boxes.apple.AppleMeanBox
+com/android/gallery3d/filtershow/crop/CropView.java
+ com.android.gallery3d.filtershow.crop.CropView
+ com.android.gallery3d.filtershow.crop.CropView$Mode
+com/android/gallery3d/ui/ScrollerHelper.java
+ com.android.gallery3d.ui.ScrollerHelper
+com/android/gallery3d/filtershow/cache/ImageLoader.java
+ com.android.gallery3d.filtershow.cache.ImageLoader
+com/android/gallery3d/ui/ScreenNail.java
+ com.android.gallery3d.ui.ScreenNail
+com/android/gallery3d/filtershow/pipeline/ProcessingService.java
+ com.android.gallery3d.filtershow.pipeline.ProcessingService
+ com.android.gallery3d.filtershow.pipeline.ProcessingService$LocalBinder
+com/android/gallery3d/filtershow/filters/ImageFilterContrast.java
+ com.android.gallery3d.filtershow.filters.ImageFilterContrast
+com/coremedia/iso/boxes/Box.java
+ com.coremedia.iso.boxes.Box
+com/android/gallery3d/util/RangeBoolArray.java
+ com.android.gallery3d.util.RangeBoolArray
+com/android/gallery3d/app/TransitionStore.java
+ com.android.gallery3d.app.TransitionStore
+com/android/gallery3d/filtershow/controller/BasicParameterInt.java
+ com.android.gallery3d.filtershow.controller.BasicParameterInt
+com/android/gallery3d/data/TimeClustering.java
+ com.android.gallery3d.data.Cluster
+ com.android.gallery3d.data.SmallItem
+ com.android.gallery3d.data.TimeClustering
+ com.android.gallery3d.data.TimeClustering$1
+ com.android.gallery3d.data.TimeClustering$DateComparator
+com/googlecode/mp4parser/boxes/threegpp26245/FontTableBox.java
+ com.googlecode.mp4parser.boxes.threegpp26245.FontTableBox
+ com.googlecode.mp4parser.boxes.threegpp26245.FontTableBox$FontRecord
+com/android/gallery3d/filtershow/controller/TitledSlider.java
+ com.android.gallery3d.filtershow.controller.TitledSlider
+ com.android.gallery3d.filtershow.controller.TitledSlider$1
+com/android/gallery3d/ingest/data/DateBucket.java
+ com.android.gallery3d.ingest.data.DateBucket
+com/googlecode/mp4parser/h264/read/BitstreamReader.java
+ com.googlecode.mp4parser.h264.read.BitstreamReader
+com/android/gallery3d/filtershow/filters/SplineMath.java
+ com.android.gallery3d.filtershow.filters.SplineMath
+com/android/gallery3d/glrenderer/UploadedTexture.java
+ com.android.gallery3d.glrenderer.UploadedTexture
+ com.android.gallery3d.glrenderer.UploadedTexture$1
+ com.android.gallery3d.glrenderer.UploadedTexture$BorderKey
+com/coremedia/iso/boxes/apple/AppleRecordingYearBox.java
+ com.coremedia.iso.boxes.apple.AppleRecordingYearBox
+com/coremedia/iso/boxes/vodafone/ContentDistributorIdBox.java
+ com.coremedia.iso.boxes.vodafone.ContentDistributorIdBox
+com/android/gallery3d/filtershow/controller/ParameterHue.java
+ com.android.gallery3d.filtershow.controller.ParameterHue
+com/android/gallery3d/ui/OrientationSource.java
+ com.android.gallery3d.ui.OrientationSource
+com/coremedia/iso/boxes/GenreBox.java
+ com.coremedia.iso.boxes.GenreBox
+com/android/gallery3d/app/AlbumPage.java
+ com.android.gallery3d.app.AlbumPage
+ com.android.gallery3d.app.AlbumPage$1
+ com.android.gallery3d.app.AlbumPage$2
+ com.android.gallery3d.app.AlbumPage$3
+ com.android.gallery3d.app.AlbumPage$4
+ com.android.gallery3d.app.AlbumPage$5
+ com.android.gallery3d.app.AlbumPage$6
+ com.android.gallery3d.app.AlbumPage$7
+ com.android.gallery3d.app.AlbumPage$MyDetailsSource
+ com.android.gallery3d.app.AlbumPage$MyLoadingListener
+com/coremedia/iso/boxes/apple/AppleNameBox.java
+ com.coremedia.iso.boxes.apple.AppleNameBox
+com/googlecode/mp4parser/boxes/mp4/ESDescriptorBox.java
+ com.googlecode.mp4parser.boxes.mp4.ESDescriptorBox
+com/android/gallery3d/filtershow/crop/CropDrawingUtils.java
+ com.android.gallery3d.filtershow.crop.CropDrawingUtils
+com/android/gallery3d/gadget/WidgetConfigure.java
+ com.android.gallery3d.gadget.WidgetConfigure
+com/android/gallery3d/common/ApiHelper.java
+ com.android.gallery3d.common.ApiHelper
+ com.android.gallery3d.common.ApiHelper$VERSION_CODES
+com/android/gallery3d/filtershow/category/CategoryView.java
+ com.android.gallery3d.filtershow.category.CategoryView
+com/android/gallery3d/ui/SurfaceTextureScreenNail.java
+ com.android.gallery3d.ui.SurfaceTextureScreenNail
+com/coremedia/iso/boxes/ProtectionSchemeInformationBox.java
+ com.coremedia.iso.boxes.ProtectionSchemeInformationBox
+com/googlecode/mp4parser/authoring/builder/FragmentedMp4Builder.java
+ com.googlecode.mp4parser.authoring.builder.FragmentedMp4Builder
+ com.googlecode.mp4parser.authoring.builder.FragmentedMp4Builder$1
+ com.googlecode.mp4parser.authoring.builder.FragmentedMp4Builder$1Mdat
+com/android/gallery3d/filtershow/filters/ImageFilterShadows.java
+ com.android.gallery3d.filtershow.filters.ImageFilterShadows
+com/googlecode/mp4parser/h264/BTree.java
+ com.googlecode.mp4parser.h264.BTree
+com/coremedia/iso/boxes/fragment/MovieFragmentBox.java
+ com.coremedia.iso.boxes.fragment.MovieFragmentBox
+com/android/gallery3d/app/AppBridge.java
+ com.android.gallery3d.app.AppBridge
+ com.android.gallery3d.app.AppBridge$Server
+com/coremedia/iso/boxes/DataEntryUrnBox.java
+ com.coremedia.iso.boxes.DataEntryUrnBox
+com/android/gallery3d/glrenderer/GLCanvas.java
+ com.android.gallery3d.glrenderer.GLCanvas
+com/android/gallery3d/ui/GestureRecognizer.java
+ com.android.gallery3d.ui.GestureRecognizer
+ com.android.gallery3d.ui.GestureRecognizer$1
+ com.android.gallery3d.ui.GestureRecognizer$Listener
+ com.android.gallery3d.ui.GestureRecognizer$MyDownUpListener
+ com.android.gallery3d.ui.GestureRecognizer$MyGestureListener
+ com.android.gallery3d.ui.GestureRecognizer$MyScaleListener
+com/android/gallery3d/ui/AlbumSetSlidingWindow.java
+ com.android.gallery3d.ui.AlbumSetSlidingWindow
+ com.android.gallery3d.ui.AlbumSetSlidingWindow$1
+ com.android.gallery3d.ui.AlbumSetSlidingWindow$AlbumCoverLoader
+ com.android.gallery3d.ui.AlbumSetSlidingWindow$AlbumLabelLoader
+ com.android.gallery3d.ui.AlbumSetSlidingWindow$AlbumSetEntry
+ com.android.gallery3d.ui.AlbumSetSlidingWindow$EntryUpdater
+ com.android.gallery3d.ui.AlbumSetSlidingWindow$Listener
+com/coremedia/iso/boxes/DataReferenceBox.java
+ com.coremedia.iso.boxes.DataReferenceBox
+com/android/gallery3d/util/SaveVideoFileUtils.java
+ com.android.gallery3d.util.SaveVideoFileUtils
+ com.android.gallery3d.util.SaveVideoFileUtils$1
+ com.android.gallery3d.util.SaveVideoFileUtils$2
+com/googlecode/mp4parser/annotations/ParseDetail.java
+ com.googlecode.mp4parser.annotations.ParseDetail
+com/android/gallery3d/util/MediaSetUtils.java
+ com.android.gallery3d.util.MediaSetUtils
+ com.android.gallery3d.util.MediaSetUtils$NameComparator
+com/android/gallery3d/filtershow/filters/ImageFilterSaturated.java
+ com.android.gallery3d.filtershow.filters.ImageFilterSaturated
+com/android/gallery3d/filtershow/editors/EditorInfo.java
+ com.android.gallery3d.filtershow.editors.EditorInfo
+com/coremedia/iso/boxes/SchemeInformationBox.java
+ com.coremedia.iso.boxes.SchemeInformationBox
+com/android/gallery3d/filtershow/tools/XmpPresets.java
+ com.android.gallery3d.filtershow.tools.XmpPresets
+ com.android.gallery3d.filtershow.tools.XmpPresets$XMresults
+com/android/gallery3d/data/MtpClient.java
+ com.android.gallery3d.data.MtpClient
+ com.android.gallery3d.data.MtpClient$1
+ com.android.gallery3d.data.MtpClient$Listener
+com/android/gallery3d/filtershow/filters/FilterRedEyeRepresentation.java
+ com.android.gallery3d.filtershow.filters.FilterRedEyeRepresentation
+com/android/gallery3d/BuildConfig.java
+ com.android.gallery3d.BuildConfig
+com/googlecode/mp4parser/authoring/tracks/AppendTrack.java
+ com.googlecode.mp4parser.authoring.tracks.AppendTrack
+com/googlecode/mp4parser/authoring/builder/SyncSampleIntersectFinderImpl.java
+ com.googlecode.mp4parser.authoring.builder.SyncSampleIntersectFinderImpl
+ com.googlecode.mp4parser.authoring.builder.SyncSampleIntersectFinderImpl$CacheTuple
+com/android/gallery3d/filtershow/tools/SaveImage.java
+ com.android.gallery3d.filtershow.tools.SaveImage
+ com.android.gallery3d.filtershow.tools.SaveImage$1
+ com.android.gallery3d.filtershow.tools.SaveImage$2
+ com.android.gallery3d.filtershow.tools.SaveImage$3
+ com.android.gallery3d.filtershow.tools.SaveImage$4
+ com.android.gallery3d.filtershow.tools.SaveImage$5
+ com.android.gallery3d.filtershow.tools.SaveImage$Callback
+ com.android.gallery3d.filtershow.tools.SaveImage$ContentResolverQueryCallback
+com/android/gallery3d/data/DownloadCache.java
+ com.android.gallery3d.data.DownloadCache
+ com.android.gallery3d.data.DownloadCache$DatabaseHelper
+ com.android.gallery3d.data.DownloadCache$DownloadTask
+ com.android.gallery3d.data.DownloadCache$Entry
+ com.android.gallery3d.data.DownloadCache$TaskProxy
+ com.android.gallery3d.data.DownloadCache$TaskProxy$1
+com/android/gallery3d/data/Face.java
+ com.android.gallery3d.data.Face
+com/googlecode/mp4parser/h264/CharCache.java
+ com.googlecode.mp4parser.h264.CharCache
+com/googlecode/mp4parser/h264/write/CAVLCWriter.java
+ com.googlecode.mp4parser.h264.write.CAVLCWriter
+com/android/gallery3d/filtershow/filters/ParametericFilterRepresentation.java
+ com.android.gallery3d.filtershow.filters.ParametericFilterRepresentation
+com/android/gallery3d/ingest/data/MtpDeviceIndex.java
+ com.android.gallery3d.ingest.data.MtpDeviceIndex
+ com.android.gallery3d.ingest.data.MtpDeviceIndex$ProgressListener
+ com.android.gallery3d.ingest.data.MtpDeviceIndex$SortOrder
+com/android/gallery3d/filtershow/filters/FilterBasicRepresentation.java
+ com.android.gallery3d.filtershow.filters.FilterBasicRepresentation
+com/googlecode/mp4parser/boxes/basemediaformat/AvcNalUnitStorageBox.java
+ com.googlecode.mp4parser.boxes.basemediaformat.AvcNalUnitStorageBox
+com/android/gallery3d/common/FileCache.java
+ com.android.gallery3d.common.FileCache
+ com.android.gallery3d.common.FileCache$1
+ com.android.gallery3d.common.FileCache$CacheEntry
+ com.android.gallery3d.common.FileCache$DatabaseHelper
+ com.android.gallery3d.common.FileCache$FileEntry
+ com.android.gallery3d.common.FileCache$FileEntry$Columns
+com/android/gallery3d/filtershow/editors/SwapButton.java
+ com.android.gallery3d.filtershow.editors.SwapButton
+ com.android.gallery3d.filtershow.editors.SwapButton$SwapButtonListener
+com/coremedia/iso/boxes/AbstractMediaHeaderBox.java
+ com.coremedia.iso.boxes.AbstractMediaHeaderBox
+com/android/gallery3d/app/GalleryAppImpl.java
+ com.android.gallery3d.app.GalleryAppImpl
+com/android/gallery3d/anim/Animation.java
+ com.android.gallery3d.anim.Animation
+com/googlecode/mp4parser/boxes/mp4/samplegrouping/VisualRandomAccessEntry.java
+ com.googlecode.mp4parser.boxes.mp4.samplegrouping.VisualRandomAccessEntry
+com/android/gallery3d/ui/AnimationTime.java
+ com.android.gallery3d.ui.AnimationTime
+com/android/gallery3d/glrenderer/FadeOutTexture.java
+ com.android.gallery3d.glrenderer.FadeOutTexture
+com/android/gallery3d/common/Entry.java
+ com.android.gallery3d.common.Entry
+ com.android.gallery3d.common.Entry$Column
+ com.android.gallery3d.common.Entry$Columns
+ com.android.gallery3d.common.Entry$Table
+com/coremedia/iso/boxes/apple/AppleTrackTitleBox.java
+ com.coremedia.iso.boxes.apple.AppleTrackTitleBox
+com/coremedia/iso/boxes/apple/AppleLosslessSpecificBox.java
+ com.coremedia.iso.boxes.apple.AppleLosslessSpecificBox
+com/android/gallery3d/app/PackagesMonitor.java
+ com.android.gallery3d.app.PackagesMonitor
+ com.android.gallery3d.app.PackagesMonitor$AsyncService
+com/coremedia/iso/boxes/apple/ApplePurchaseDateBox.java
+ com.coremedia.iso.boxes.apple.ApplePurchaseDateBox
+com/android/gallery3d/filtershow/colorpicker/ColorHueView.java
+ com.android.gallery3d.filtershow.colorpicker.ColorHueView
+com/googlecode/mp4parser/authoring/tracks/QuicktimeTextTrackImpl.java
+ com.googlecode.mp4parser.authoring.tracks.QuicktimeTextTrackImpl
+ com.googlecode.mp4parser.authoring.tracks.QuicktimeTextTrackImpl$Line
+com/android/gallery3d/filtershow/presets/PresetManagementDialog.java
+ com.android.gallery3d.filtershow.presets.PresetManagementDialog
+com/android/gallery3d/filtershow/category/CategoryTrack.java
+ com.android.gallery3d.filtershow.category.CategoryTrack
+ com.android.gallery3d.filtershow.category.CategoryTrack$1
+com/android/gallery3d/filtershow/tools/IconFactory.java
+ com.android.gallery3d.filtershow.tools.IconFactory
+com/android/photos/shims/MediaItemsLoader.java
+ com.android.photos.shims.MediaItemsLoader
+ com.android.photos.shims.MediaItemsLoader$1
+ com.android.photos.shims.MediaItemsLoader$2
+ com.android.photos.shims.MediaItemsLoader$3
+com/googlecode/mp4parser/boxes/apple/TimeCodeBox.java
+ com.googlecode.mp4parser.boxes.apple.TimeCodeBox
+com/coremedia/iso/boxes/sampleentry/VisualSampleEntry.java
+ com.coremedia.iso.boxes.sampleentry.VisualSampleEntry
+com/android/gallery3d/filtershow/ui/FramedTextButton.java
+ com.android.gallery3d.filtershow.ui.FramedTextButton
+com/android/gallery3d/anim/FloatAnimation.java
+ com.android.gallery3d.anim.FloatAnimation
+com/android/gallery3d/filtershow/colorpicker/ColorOpacityView.java
+ com.android.gallery3d.filtershow.colorpicker.ColorOpacityView
+com/googlecode/mp4parser/util/Path.java
+ com.googlecode.mp4parser.util.Path
+com/googlecode/mp4parser/boxes/mp4/samplegrouping/RollRecoveryEntry.java
+ com.googlecode.mp4parser.boxes.mp4.samplegrouping.RollRecoveryEntry
+com/coremedia/iso/boxes/vodafone/CoverUriBox.java
+ com.coremedia.iso.boxes.vodafone.CoverUriBox
+com/android/gallery3d/filtershow/imageshow/ImageDraw.java
+ com.android.gallery3d.filtershow.imageshow.ImageDraw
+ com.android.gallery3d.filtershow.imageshow.ImageDraw$1
+com/android/gallery3d/filtershow/editors/Editor.java
+ com.android.gallery3d.filtershow.editors.Editor
+com/android/gallery3d/filtershow/controller/SliderBrightness.java
+ com.android.gallery3d.filtershow.controller.SliderBrightness
+ com.android.gallery3d.filtershow.controller.SliderBrightness$1
+com/android/gallery3d/app/AbstractGalleryActivity.java
+ com.android.gallery3d.app.AbstractGalleryActivity
+ com.android.gallery3d.app.AbstractGalleryActivity$1
+ com.android.gallery3d.app.AbstractGalleryActivity$2
+ com.android.gallery3d.app.AbstractGalleryActivity$3
+ com.android.gallery3d.app.AbstractGalleryActivity$4
+com/android/gallery3d/data/LocalMergeAlbum.java
+ com.android.gallery3d.data.LocalMergeAlbum
+ com.android.gallery3d.data.LocalMergeAlbum$FetchCache
+com/coremedia/iso/boxes/mdat/SampleList.java
+ com.coremedia.iso.boxes.mdat.SampleList
+com/coremedia/iso/boxes/TimeToSampleBox.java
+ com.coremedia.iso.boxes.TimeToSampleBox
+ com.coremedia.iso.boxes.TimeToSampleBox$Entry
+com/android/gallery3d/ui/AlbumSlotRenderer.java
+ com.android.gallery3d.ui.AlbumSlotRenderer
+ com.android.gallery3d.ui.AlbumSlotRenderer$1
+ com.android.gallery3d.ui.AlbumSlotRenderer$MyDataModelListener
+ com.android.gallery3d.ui.AlbumSlotRenderer$SlotFilter
+com/android/gallery3d/filtershow/filters/ImageFilterExposure.java
+ com.android.gallery3d.filtershow.filters.ImageFilterExposure
+com/coremedia/iso/boxes/ChunkOffset64BitBox.java
+ com.coremedia.iso.boxes.ChunkOffset64BitBox
+com/googlecode/mp4parser/boxes/AC3SpecificBox.java
+ com.googlecode.mp4parser.boxes.AC3SpecificBox
+com/android/gallery3d/util/RangeArray.java
+ com.android.gallery3d.util.RangeArray
+com/android/gallery3d/glrenderer/GLPaint.java
+ com.android.gallery3d.glrenderer.GLPaint
+com/coremedia/iso/boxes/apple/AbstractAppleMetaDataBox.java
+ com.coremedia.iso.boxes.apple.AbstractAppleMetaDataBox
+com/coremedia/iso/boxes/mdat/DummyMap.java
+ com.coremedia.iso.boxes.mdat.DummyMap
+com/googlecode/mp4parser/boxes/ultraviolet/AssetInformationBox.java
+ com.googlecode.mp4parser.boxes.ultraviolet.AssetInformationBox
+com/android/gallery3d/app/LoadingListener.java
+ com.android.gallery3d.app.LoadingListener
+com/coremedia/iso/Ascii.java
+ com.coremedia.iso.Ascii
+com/android/gallery3d/ui/EdgeEffect.java
+ com.android.gallery3d.ui.EdgeEffect
+ com.android.gallery3d.ui.EdgeEffect$Drawable
+com/android/gallery3d/data/CameraShortcutImage.java
+ com.android.gallery3d.data.CameraShortcutImage
+com/android/gallery3d/filtershow/imageshow/GeometryMathUtils.java
+ com.android.gallery3d.filtershow.imageshow.GeometryMathUtils
+ com.android.gallery3d.filtershow.imageshow.GeometryMathUtils$1
+ com.android.gallery3d.filtershow.imageshow.GeometryMathUtils$GeometryHolder
+com/googlecode/mp4parser/authoring/TrackMetaData.java
+ com.googlecode.mp4parser.authoring.TrackMetaData
+com/android/gallery3d/data/SingleItemAlbum.java
+ com.android.gallery3d.data.SingleItemAlbum
+com/android/gallery3d/ui/WakeLockHoldingProgressListener.java
+ com.android.gallery3d.ui.WakeLockHoldingProgressListener
+com/android/gallery3d/filtershow/controller/ParameterActionAndInt.java
+ com.android.gallery3d.filtershow.controller.ParameterActionAndInt
+com/coremedia/iso/BoxParser.java
+ com.coremedia.iso.BoxParser
+com/android/gallery3d/filtershow/controller/ParameterSaturation.java
+ com.android.gallery3d.filtershow.controller.ParameterSaturation
+com/android/gallery3d/ui/TileImageView.java
+ com.android.gallery3d.ui.TileImageView
+ com.android.gallery3d.ui.TileImageView$1
+ com.android.gallery3d.ui.TileImageView$Tile
+ com.android.gallery3d.ui.TileImageView$TileDecoder
+ com.android.gallery3d.ui.TileImageView$TileDecoder$1
+ com.android.gallery3d.ui.TileImageView$TileQueue
+ com.android.gallery3d.ui.TileImageView$TileSource
+ com.android.gallery3d.ui.TileImageView$TileUploader
+com/android/gallery3d/ingest/ui/DateTileView.java
+ com.android.gallery3d.ingest.ui.DateTileView
+com/android/gallery3d/filtershow/controller/ParameterSet.java
+ com.android.gallery3d.filtershow.controller.ParameterSet
+com/android/gallery3d/filtershow/history/HistoryItem.java
+ com.android.gallery3d.filtershow.history.HistoryItem
+com/android/gallery3d/glrenderer/ExtTexture.java
+ com.android.gallery3d.glrenderer.ExtTexture
+com/android/gallery3d/filtershow/colorpicker/ColorBrightnessView.java
+ com.android.gallery3d.filtershow.colorpicker.ColorBrightnessView
+com/android/gallery3d/filtershow/editors/EditorZoom.java
+ com.android.gallery3d.filtershow.editors.EditorZoom
+com/android/gallery3d/filtershow/cache/BitmapCache.java
+ com.android.gallery3d.filtershow.cache.BitmapCache
+ com.android.gallery3d.filtershow.cache.BitmapCache$BitmapTracking
+com/android/gallery3d/data/UriImage.java
+ com.android.gallery3d.data.UriImage
+ com.android.gallery3d.data.UriImage$1
+ com.android.gallery3d.data.UriImage$BitmapJob
+ com.android.gallery3d.data.UriImage$RegionDecoderJob
+com/android/gallery3d/filtershow/state/DragListener.java
+ com.android.gallery3d.filtershow.state.DragListener
+com/android/gallery3d/app/MovieControllerOverlay.java
+ com.android.gallery3d.app.MovieControllerOverlay
+ com.android.gallery3d.app.MovieControllerOverlay$1
+com/coremedia/iso/boxes/CompositionTimeToSample.java
+ com.coremedia.iso.boxes.CompositionTimeToSample
+ com.coremedia.iso.boxes.CompositionTimeToSample$Entry
+com/googlecode/mp4parser/boxes/mp4/samplegrouping/TemporalLevelEntry.java
+ com.googlecode.mp4parser.boxes.mp4.samplegrouping.TemporalLevelEntry
+com/coremedia/iso/boxes/apple/AppleArtistBox.java
+ com.coremedia.iso.boxes.apple.AppleArtistBox
+com/android/gallery3d/ui/UserInteractionListener.java
+ com.android.gallery3d.ui.UserInteractionListener
+com/android/gallery3d/ui/DetailsHelper.java
+ com.android.gallery3d.ui.DetailsHelper
+ com.android.gallery3d.ui.DetailsHelper$CloseListener
+ com.android.gallery3d.ui.DetailsHelper$DetailsSource
+ com.android.gallery3d.ui.DetailsHelper$DetailsViewContainer
+ com.android.gallery3d.ui.DetailsHelper$ResolutionResolvingListener
+com/android/photos/MultiSelectGridFragment.java
+ com.android.photos.MultiSelectGridFragment
+ com.android.photos.MultiSelectGridFragment$1
+com/android/gallery3d/exif/ExifParser.java
+ com.android.gallery3d.exif.ExifParser
+ com.android.gallery3d.exif.ExifParser$ExifTagEvent
+ com.android.gallery3d.exif.ExifParser$IfdEvent
+ com.android.gallery3d.exif.ExifParser$ImageEvent
+com/android/gallery3d/ui/MenuExecutor.java
+ com.android.gallery3d.ui.MenuExecutor
+ com.android.gallery3d.ui.MenuExecutor$1
+ com.android.gallery3d.ui.MenuExecutor$ConfirmDialogListener
+ com.android.gallery3d.ui.MenuExecutor$MediaOperation
+ com.android.gallery3d.ui.MenuExecutor$ProgressListener
+com/android/gallery3d/filtershow/pipeline/FullresRenderingRequestTask.java
+ com.android.gallery3d.filtershow.pipeline.FullresRenderingRequestTask
+ com.android.gallery3d.filtershow.pipeline.FullresRenderingRequestTask$Render
+ com.android.gallery3d.filtershow.pipeline.FullresRenderingRequestTask$RenderResult
+com/android/gallery3d/common/BitmapUtils.java
+ com.android.gallery3d.common.BitmapUtils
+com/coremedia/iso/boxes/apple/AppleMediaTypeBox.java
+ com.coremedia.iso.boxes.apple.AppleMediaTypeBox
+com/android/gallery3d/common/BlobCache.java
+ com.android.gallery3d.common.BlobCache
+ com.android.gallery3d.common.BlobCache$LookupRequest
+com/coremedia/iso/boxes/FreeSpaceBox.java
+ com.coremedia.iso.boxes.FreeSpaceBox
+com/android/gallery3d/data/MediaDetails.java
+ com.android.gallery3d.data.MediaDetails
+ com.android.gallery3d.data.MediaDetails$FlashState
+com/android/gallery3d/anim/AlphaAnimation.java
+ com.android.gallery3d.anim.AlphaAnimation
+com/android/gallery3d/filtershow/pipeline/ProcessingTaskController.java
+ com.android.gallery3d.filtershow.pipeline.ProcessingTaskController
+ com.android.gallery3d.filtershow.pipeline.ProcessingTaskController$1
+com/googlecode/mp4parser/authoring/tracks/ReplaceSampleTrack.java
+ com.googlecode.mp4parser.authoring.tracks.ReplaceSampleTrack
+ com.googlecode.mp4parser.authoring.tracks.ReplaceSampleTrack$1
+ com.googlecode.mp4parser.authoring.tracks.ReplaceSampleTrack$ReplaceASingleEntryList
+com/googlecode/mp4parser/authoring/tracks/SilenceTrackImpl.java
+ com.googlecode.mp4parser.authoring.tracks.SilenceTrackImpl
+com/android/gallery3d/util/UsageStatistics.java
+ com.android.gallery3d.util.UsageStatistics
+com/googlecode/mp4parser/boxes/mp4/objectdescriptors/DecoderConfigDescriptor.java
+ com.googlecode.mp4parser.boxes.mp4.objectdescriptors.DecoderConfigDescriptor
+com/android/gallery3d/filtershow/editors/EditorDraw.java
+ com.android.gallery3d.filtershow.editors.EditorDraw
+ com.android.gallery3d.filtershow.editors.EditorDraw$1
+ com.android.gallery3d.filtershow.editors.EditorDraw$2
+ com.android.gallery3d.filtershow.editors.EditorDraw$3
+com/android/gallery3d/exif/ExifData.java
+ com.android.gallery3d.exif.ExifData
+com/googlecode/mp4parser/annotations/DoNotParseDetail.java
+ com.googlecode.mp4parser.annotations.DoNotParseDetail
+com/coremedia/iso/boxes/SampleDescriptionBox.java
+ com.coremedia.iso.boxes.SampleDescriptionBox
+com/coremedia/iso/boxes/apple/AppleRatingBox.java
+ com.coremedia.iso.boxes.apple.AppleRatingBox
+com/android/gallery3d/util/ThreadPool.java
+ com.android.gallery3d.util.ThreadPool
+ com.android.gallery3d.util.ThreadPool$1
+ com.android.gallery3d.util.ThreadPool$CancelListener
+ com.android.gallery3d.util.ThreadPool$Job
+ com.android.gallery3d.util.ThreadPool$JobContext
+ com.android.gallery3d.util.ThreadPool$JobContextStub
+ com.android.gallery3d.util.ThreadPool$ResourceCounter
+ com.android.gallery3d.util.ThreadPool$Worker
+com/coremedia/iso/boxes/apple/AppleAlbumArtistBox.java
+ com.coremedia.iso.boxes.apple.AppleAlbumArtistBox
+com/android/gallery3d/ui/BitmapLoader.java
+ com.android.gallery3d.ui.BitmapLoader
+com/coremedia/iso/boxes/OriginalFormatBox.java
+ com.coremedia.iso.boxes.OriginalFormatBox
+com/coremedia/iso/boxes/MetaBox.java
+ com.coremedia.iso.boxes.MetaBox
+com/coremedia/iso/boxes/EditListBox.java
+ com.coremedia.iso.boxes.EditListBox
+ com.coremedia.iso.boxes.EditListBox$Entry
+com/coremedia/iso/boxes/SchemeTypeBox.java
+ com.coremedia.iso.boxes.SchemeTypeBox
+com/android/gallery3d/data/UnlockImage.java
+ com.android.gallery3d.data.UnlockImage
+com/android/gallery3d/ingest/IngestService.java
+ com.android.gallery3d.ingest.IngestService
+ com.android.gallery3d.ingest.IngestService$LocalBinder
+ com.android.gallery3d.ingest.IngestService$ScannerClient
+com/googlecode/mp4parser/boxes/mp4/samplegrouping/RateShareEntry.java
+ com.googlecode.mp4parser.boxes.mp4.samplegrouping.RateShareEntry
+ com.googlecode.mp4parser.boxes.mp4.samplegrouping.RateShareEntry$Entry
+com/android/gallery3d/data/LocalMediaItem.java
+ com.android.gallery3d.data.LocalMediaItem
+com/coremedia/iso/boxes/fragment/SegmentTypeBox.java
+ com.coremedia.iso.boxes.fragment.SegmentTypeBox
+com/coremedia/iso/boxes/threegpp26244/LocationInformationBox.java
+ com.coremedia.iso.boxes.threegpp26244.LocationInformationBox
+com/android/gallery3d/filtershow/colorpicker/ColorListener.java
+ com.android.gallery3d.filtershow.colorpicker.ColorListener
+com/android/gallery3d/filtershow/imageshow/ImageShow.java
+ com.android.gallery3d.filtershow.imageshow.ImageShow
+ com.android.gallery3d.filtershow.imageshow.ImageShow$1
+ com.android.gallery3d.filtershow.imageshow.ImageShow$2
+ com.android.gallery3d.filtershow.imageshow.ImageShow$3
+ com.android.gallery3d.filtershow.imageshow.ImageShow$4
+ com.android.gallery3d.filtershow.imageshow.ImageShow$InteractionMode
+com/android/gallery3d/app/ActivityState.java
+ com.android.gallery3d.app.ActivityState
+ com.android.gallery3d.app.ActivityState$1
+ com.android.gallery3d.app.ActivityState$ResultEntry
+com/android/gallery3d/filtershow/editors/ParametricEditor.java
+ com.android.gallery3d.filtershow.editors.ParametricEditor
+com/android/gallery3d/filtershow/controller/SliderSaturation.java
+ com.android.gallery3d.filtershow.controller.SliderSaturation
+ com.android.gallery3d.filtershow.controller.SliderSaturation$1
+com/coremedia/iso/boxes/MediaInformationBox.java
+ com.coremedia.iso.boxes.MediaInformationBox
+com/coremedia/iso/boxes/SubtitleMediaHeaderBox.java
+ com.coremedia.iso.boxes.SubtitleMediaHeaderBox
+com/android/gallery3d/ui/ManageCacheDrawer.java
+ com.android.gallery3d.ui.ManageCacheDrawer
+com/coremedia/iso/boxes/FileTypeBox.java
+ com.coremedia.iso.boxes.FileTypeBox
+com/android/gallery3d/gadget/WidgetTypeChooser.java
+ com.android.gallery3d.gadget.WidgetTypeChooser
+ com.android.gallery3d.gadget.WidgetTypeChooser$1
+ com.android.gallery3d.gadget.WidgetTypeChooser$2
+com/android/gallery3d/filtershow/editors/EditorCurves.java
+ com.android.gallery3d.filtershow.editors.EditorCurves
+com/android/gallery3d/filtershow/controller/FilterView.java
+ com.android.gallery3d.filtershow.controller.FilterView
+com/android/photos/data/NotificationWatcher.java
+ com.android.photos.data.NotificationWatcher
+com/android/gallery3d/filtershow/imageshow/ImageCurves.java
+ com.android.gallery3d.filtershow.imageshow.ImageCurves
+ com.android.gallery3d.filtershow.imageshow.ImageCurves$1
+ com.android.gallery3d.filtershow.imageshow.ImageCurves$2
+ com.android.gallery3d.filtershow.imageshow.ImageCurves$ComputeHistogramTask
+com/android/gallery3d/ui/ScrollBarView.java
+ com.android.gallery3d.ui.ScrollBarView
+com/android/gallery3d/filtershow/filters/FilterMirrorRepresentation.java
+ com.android.gallery3d.filtershow.filters.FilterMirrorRepresentation
+ com.android.gallery3d.filtershow.filters.FilterMirrorRepresentation$1
+ com.android.gallery3d.filtershow.filters.FilterMirrorRepresentation$Mirror
+com/android/gallery3d/util/FutureListener.java
+ com.android.gallery3d.util.FutureListener
+com/android/gallery3d/filtershow/filters/RedEyeCandidate.java
+ com.android.gallery3d.filtershow.filters.RedEyeCandidate
+com/android/gallery3d/filtershow/imageshow/MasterImage.java
+ com.android.gallery3d.filtershow.imageshow.MasterImage
+ com.android.gallery3d.filtershow.imageshow.MasterImage$1
+ com.android.gallery3d.filtershow.imageshow.MasterImage$2
+ com.android.gallery3d.filtershow.imageshow.MasterImage$3
+com/googlecode/mp4parser/boxes/threegpp26244/SegmentIndexBox.java
+ com.googlecode.mp4parser.boxes.threegpp26244.SegmentIndexBox
+ com.googlecode.mp4parser.boxes.threegpp26244.SegmentIndexBox$Entry
+com/android/gallery3d/data/FilterDeleteSet.java
+ com.android.gallery3d.data.FilterDeleteSet
+ com.android.gallery3d.data.FilterDeleteSet$Deletion
+ com.android.gallery3d.data.FilterDeleteSet$Request
+com/android/gallery3d/ui/RelativePosition.java
+ com.android.gallery3d.ui.RelativePosition
+com/googlecode/mp4parser/boxes/apple/GenericMediaHeaderAtom.java
+ com.googlecode.mp4parser.boxes.apple.GenericMediaHeaderAtom
+com/android/gallery3d/filtershow/crop/CropObject.java
+ com.android.gallery3d.filtershow.crop.CropObject
+com/android/gallery3d/gadget/WidgetClickHandler.java
+ com.android.gallery3d.gadget.WidgetClickHandler
+com/android/gallery3d/app/StitchingProgressManager.java
+ com.android.gallery3d.app.StitchingProgressManager
+com/android/gallery3d/data/ActionImage.java
+ com.android.gallery3d.data.ActionImage
+ com.android.gallery3d.data.ActionImage$BitmapJob
+com/android/gallery3d/filtershow/pipeline/ImagePreset.java
+ com.android.gallery3d.filtershow.pipeline.ImagePreset
+com/android/gallery3d/filtershow/imageshow/Spline.java
+ com.android.gallery3d.filtershow.imageshow.Spline
+com/android/gallery3d/common/LruCache.java
+ com.android.gallery3d.common.LruCache
+ com.android.gallery3d.common.LruCache$1
+ com.android.gallery3d.common.LruCache$Entry
+com/android/gallery3d/util/HelpUtils.java
+ com.android.gallery3d.util.HelpUtils
+com/googlecode/mp4parser/boxes/mp4/objectdescriptors/DecoderSpecificInfo.java
+ com.googlecode.mp4parser.boxes.mp4.objectdescriptors.DecoderSpecificInfo
+com/coremedia/iso/IsoTypeWriterVariable.java
+ com.coremedia.iso.IsoTypeWriterVariable
+com/android/gallery3d/app/PhotoPageBottomControls.java
+ com.android.gallery3d.app.PhotoPageBottomControls
+ com.android.gallery3d.app.PhotoPageBottomControls$Delegate
+com/android/gallery3d/filtershow/filters/ImageFilterColorBorder.java
+ com.android.gallery3d.filtershow.filters.ImageFilterColorBorder
+com/android/gallery3d/app/BatchService.java
+ com.android.gallery3d.app.BatchService
+ com.android.gallery3d.app.BatchService$LocalBinder
+com/coremedia/iso/boxes/SoundMediaHeaderBox.java
+ com.coremedia.iso.boxes.SoundMediaHeaderBox
+com/coremedia/iso/boxes/apple/AppleDataReferenceBox.java
+ com.coremedia.iso.boxes.apple.AppleDataReferenceBox
+com/coremedia/iso/IsoTypeReaderVariable.java
+ com.coremedia.iso.IsoTypeReaderVariable
+com/android/gallery3d/exif/ExifModifier.java
+ com.android.gallery3d.exif.ExifModifier
+ com.android.gallery3d.exif.ExifModifier$TagOffset
+com/android/gallery3d/ingest/ui/IngestGridView.java
+ com.android.gallery3d.ingest.ui.IngestGridView
+ com.android.gallery3d.ingest.ui.IngestGridView$OnClearChoicesListener
+com/googlecode/mp4parser/h264/model/VUIParameters.java
+ com.googlecode.mp4parser.h264.model.VUIParameters
+ com.googlecode.mp4parser.h264.model.VUIParameters$BitstreamRestriction
+com/coremedia/iso/AbstractBoxParser.java
+ com.coremedia.iso.AbstractBoxParser
+com/android/gallery3d/util/Holder.java
+ com.android.gallery3d.util.Holder
+com/android/gallery3d/filtershow/filters/ImageFilterEdge.java
+ com.android.gallery3d.filtershow.filters.ImageFilterEdge
+com/android/gallery3d/ui/BitmapScreenNail.java
+ com.android.gallery3d.ui.BitmapScreenNail
+com/android/gallery3d/app/ManageCachePage.java
+ com.android.gallery3d.app.ManageCachePage
+ com.android.gallery3d.app.ManageCachePage$1
+ com.android.gallery3d.app.ManageCachePage$2
+ com.android.gallery3d.app.ManageCachePage$3
+ com.android.gallery3d.app.ManageCachePage$4
+com/android/gallery3d/filtershow/crop/CropExtras.java
+ com.android.gallery3d.filtershow.crop.CropExtras
+com/android/gallery3d/ui/GLRootView.java
+ com.android.gallery3d.ui.GLRootView
+ com.android.gallery3d.ui.GLRootView$1
+ com.android.gallery3d.ui.GLRootView$2
+ com.android.gallery3d.ui.GLRootView$IdleRunner
+com/android/gallery3d/util/UpdateHelper.java
+ com.android.gallery3d.util.UpdateHelper
+com/android/gallery3d/filtershow/filters/FilterUserPresetRepresentation.java
+ com.android.gallery3d.filtershow.filters.FilterUserPresetRepresentation
+com/android/gallery3d/filtershow/controller/SliderOpacity.java
+ com.android.gallery3d.filtershow.controller.SliderOpacity
+ com.android.gallery3d.filtershow.controller.SliderOpacity$1
+com/googlecode/mp4parser/authoring/adaptivestreaming/AudioQuality.java
+ com.googlecode.mp4parser.authoring.adaptivestreaming.AudioQuality
+com/android/gallery3d/filtershow/pipeline/Buffer.java
+ com.android.gallery3d.filtershow.pipeline.Buffer
+com/android/gallery3d/data/LocalAlbum.java
+ com.android.gallery3d.data.LocalAlbum
+com/googlecode/mp4parser/FullContainerBox.java
+ com.googlecode.mp4parser.FullContainerBox
+com/android/gallery3d/gadget/WidgetDatabaseHelper.java
+ com.android.gallery3d.gadget.WidgetDatabaseHelper
+ com.android.gallery3d.gadget.WidgetDatabaseHelper$1
+ com.android.gallery3d.gadget.WidgetDatabaseHelper$Entry
+com/android/gallery3d/glrenderer/CanvasTexture.java
+ com.android.gallery3d.glrenderer.CanvasTexture
+com/android/photos/data/SparseArrayBitmapPool.java
+ com.android.photos.data.SparseArrayBitmapPool
+ com.android.photos.data.SparseArrayBitmapPool$Node
+com/coremedia/iso/boxes/SampleAuxiliaryInformationSizesBox.java
+ com.coremedia.iso.boxes.SampleAuxiliaryInformationSizesBox
+com/android/gallery3d/gadget/PhotoAppWidgetProvider.java
+ com.android.gallery3d.gadget.PhotoAppWidgetProvider
+com/googlecode/mp4parser/authoring/Track.java
+ com.googlecode.mp4parser.authoring.Track
+com/android/gallery3d/glrenderer/FadeInTexture.java
+ com.android.gallery3d.glrenderer.FadeInTexture
+com/android/gallery3d/filtershow/pipeline/SharedBuffer.java
+ com.android.gallery3d.filtershow.pipeline.SharedBuffer
+com/android/gallery3d/filtershow/data/UserPresetsManager.java
+ com.android.gallery3d.filtershow.data.UserPresetsManager
+ com.android.gallery3d.filtershow.data.UserPresetsManager$1
+ com.android.gallery3d.filtershow.data.UserPresetsManager$SaveOperation
+ com.android.gallery3d.filtershow.data.UserPresetsManager$UpdateOperation
+com/android/gallery3d/glrenderer/ColorTexture.java
+ com.android.gallery3d.glrenderer.ColorTexture
+com/android/gallery3d/data/SecureSource.java
+ com.android.gallery3d.data.SecureSource
+com/android/gallery3d/data/ComboAlbum.java
+ com.android.gallery3d.data.ComboAlbum
+com/android/gallery3d/ui/TiledScreenNail.java
+ com.android.gallery3d.ui.TiledScreenNail
+com/googlecode/mp4parser/boxes/AbstractTrackEncryptionBox.java
+ com.googlecode.mp4parser.boxes.AbstractTrackEncryptionBox
+com/android/gallery3d/filtershow/controller/ParameterInteger.java
+ com.android.gallery3d.filtershow.controller.ParameterInteger
+com/android/gallery3d/ui/ActionModeHandler.java
+ com.android.gallery3d.ui.ActionModeHandler
+ com.android.gallery3d.ui.ActionModeHandler$1
+ com.android.gallery3d.ui.ActionModeHandler$2
+ com.android.gallery3d.ui.ActionModeHandler$2$1
+ com.android.gallery3d.ui.ActionModeHandler$2$2
+ com.android.gallery3d.ui.ActionModeHandler$ActionModeListener
+ com.android.gallery3d.ui.ActionModeHandler$GetAllPanoramaSupports
+com/coremedia/iso/boxes/fragment/MovieFragmentHeaderBox.java
+ com.coremedia.iso.boxes.fragment.MovieFragmentHeaderBox
+com/googlecode/mp4parser/authoring/AbstractTrack.java
+ com.googlecode.mp4parser.authoring.AbstractTrack
+com/coremedia/iso/boxes/apple/AppleItemListBox.java
+ com.coremedia.iso.boxes.apple.AppleItemListBox
+com/googlecode/mp4parser/h264/model/HRDParameters.java
+ com.googlecode.mp4parser.h264.model.HRDParameters
+com/android/gallery3d/ui/SelectionManager.java
+ com.android.gallery3d.ui.SelectionManager
+ com.android.gallery3d.ui.SelectionManager$SelectionListener
+com/coremedia/iso/boxes/SyncSampleBox.java
+ com.coremedia.iso.boxes.SyncSampleBox
+com/android/gallery3d/exif/OrderedDataOutputStream.java
+ com.android.gallery3d.exif.OrderedDataOutputStream
+com/coremedia/iso/boxes/ChunkOffsetBox.java
+ com.coremedia.iso.boxes.ChunkOffsetBox
+com/android/gallery3d/filtershow/state/PanelTrack.java
+ com.android.gallery3d.filtershow.state.PanelTrack
+com/googlecode/mp4parser/authoring/tracks/AACTrackImpl.java
+ com.googlecode.mp4parser.authoring.tracks.AACTrackImpl
+com/android/gallery3d/data/EmptyAlbumImage.java
+ com.android.gallery3d.data.EmptyAlbumImage
+com/android/gallery3d/data/ImageCacheRequest.java
+ com.android.gallery3d.data.ImageCacheRequest
+com/android/gallery3d/glrenderer/NinePatchChunk.java
+ com.android.gallery3d.glrenderer.NinePatchChunk
+com/coremedia/iso/boxes/BitRateBox.java
+ com.coremedia.iso.boxes.BitRateBox
+com/coremedia/iso/boxes/apple/AppleReferenceMovieDescriptorBox.java
+ com.coremedia.iso.boxes.apple.AppleReferenceMovieDescriptorBox
+com/android/photos/data/AlbumSetLoader.java
+ com.android.photos.data.AlbumSetLoader
+com/android/gallery3d/filtershow/colorpicker/ColorGridDialog.java
+ com.android.gallery3d.filtershow.colorpicker.ColorGridDialog
+ com.android.gallery3d.filtershow.colorpicker.ColorGridDialog$1
+ com.android.gallery3d.filtershow.colorpicker.ColorGridDialog$2
+ com.android.gallery3d.filtershow.colorpicker.ColorGridDialog$3
+com/android/gallery3d/filtershow/editors/EditorTinyPlanet.java
+ com.android.gallery3d.filtershow.editors.EditorTinyPlanet
+com/googlecode/mp4parser/boxes/piff/ProtectionSpecificHeader.java
+ com.googlecode.mp4parser.boxes.piff.ProtectionSpecificHeader
+com/android/gallery3d/app/PhotoDataAdapter.java
+ com.android.gallery3d.app.PhotoDataAdapter
+ com.android.gallery3d.app.PhotoDataAdapter$1
+ com.android.gallery3d.app.PhotoDataAdapter$DataListener
+ com.android.gallery3d.app.PhotoDataAdapter$FullImageJob
+ com.android.gallery3d.app.PhotoDataAdapter$FullImageListener
+ com.android.gallery3d.app.PhotoDataAdapter$GetUpdateInfo
+ com.android.gallery3d.app.PhotoDataAdapter$ImageEntry
+ com.android.gallery3d.app.PhotoDataAdapter$ImageFetch
+ com.android.gallery3d.app.PhotoDataAdapter$ReloadTask
+ com.android.gallery3d.app.PhotoDataAdapter$ScreenNailJob
+ com.android.gallery3d.app.PhotoDataAdapter$ScreenNailListener
+ com.android.gallery3d.app.PhotoDataAdapter$SourceListener
+ com.android.gallery3d.app.PhotoDataAdapter$UpdateContent
+ com.android.gallery3d.app.PhotoDataAdapter$UpdateInfo
+com/coremedia/iso/boxes/fragment/TrackRunBox.java
+ com.coremedia.iso.boxes.fragment.TrackRunBox
+ com.coremedia.iso.boxes.fragment.TrackRunBox$Entry
+com/googlecode/mp4parser/authoring/tracks/MultiplyTimeScaleTrack.java
+ com.googlecode.mp4parser.authoring.tracks.MultiplyTimeScaleTrack
+com/android/photos/drawables/DataUriThumbnailDrawable.java
+ com.android.photos.drawables.DataUriThumbnailDrawable
+com/coremedia/iso/boxes/apple/AppleCopyrightBox.java
+ com.coremedia.iso.boxes.apple.AppleCopyrightBox
+com/android/gallery3d/data/ContentListener.java
+ com.android.gallery3d.data.ContentListener
+com/android/gallery3d/filtershow/filters/FilterFxRepresentation.java
+ com.android.gallery3d.filtershow.filters.FilterFxRepresentation
+com/android/gallery3d/app/OrientationManager.java
+ com.android.gallery3d.app.OrientationManager
+ com.android.gallery3d.app.OrientationManager$MyOrientationEventListener
+com/android/gallery3d/filtershow/presets/UserPresetsAdapter.java
+ com.android.gallery3d.filtershow.presets.UserPresetsAdapter
+ com.android.gallery3d.filtershow.presets.UserPresetsAdapter$UserPresetViewHolder
+com/android/gallery3d/data/SnailAlbum.java
+ com.android.gallery3d.data.SnailAlbum
+com/coremedia/iso/boxes/sampleentry/SampleEntry.java
+ com.coremedia.iso.boxes.sampleentry.SampleEntry
+com/android/gallery3d/util/IdentityCache.java
+ com.android.gallery3d.util.IdentityCache
+ com.android.gallery3d.util.IdentityCache$Entry
+com/coremedia/iso/boxes/apple/AppleStandardGenreBox.java
+ com.coremedia.iso.boxes.apple.AppleStandardGenreBox
+com/googlecode/mp4parser/boxes/mp4/samplegrouping/CencSampleEncryptionInformationGroupEntry.java
+ com.googlecode.mp4parser.boxes.mp4.samplegrouping.CencSampleEncryptionInformationGroupEntry
+com/android/gallery3d/filtershow/state/StateView.java
+ com.android.gallery3d.filtershow.state.StateView
+com/android/gallery3d/filtershow/ui/ExportDialog.java
+ com.android.gallery3d.filtershow.ui.ExportDialog
+ com.android.gallery3d.filtershow.ui.ExportDialog$1
+ com.android.gallery3d.filtershow.ui.ExportDialog$Watcher
+com/coremedia/iso/boxes/fragment/SampleFlags.java
+ com.coremedia.iso.boxes.fragment.SampleFlags
+com/googlecode/mp4parser/authoring/tracks/ChangeTimeScaleTrack.java
+ com.googlecode.mp4parser.authoring.tracks.ChangeTimeScaleTrack
+com/android/gallery3d/filtershow/filters/ImageFilterWBalance.java
+ com.android.gallery3d.filtershow.filters.ImageFilterWBalance
+com/coremedia/iso/boxes/fragment/TrackFragmentHeaderBox.java
+ com.coremedia.iso.boxes.fragment.TrackFragmentHeaderBox
+com/android/gallery3d/filtershow/controller/Parameter.java
+ com.android.gallery3d.filtershow.controller.Parameter
+com/coremedia/iso/boxes/sampleentry/MpegSampleEntry.java
+ com.coremedia.iso.boxes.sampleentry.MpegSampleEntry
+com/android/gallery3d/util/Future.java
+ com.android.gallery3d.util.Future
+com/android/gallery3d/filtershow/editors/EditorStraighten.java
+ com.android.gallery3d.filtershow.editors.EditorStraighten
+com/googlecode/mp4parser/authoring/tracks/EC3TrackImpl.java
+ com.googlecode.mp4parser.authoring.tracks.EC3TrackImpl
+ com.googlecode.mp4parser.authoring.tracks.EC3TrackImpl$BitStreamInfo
+com/android/gallery3d/filtershow/editors/EditorColorBorderTabletUI.java
+ com.android.gallery3d.filtershow.editors.EditorColorBorderTabletUI
+ com.android.gallery3d.filtershow.editors.EditorColorBorderTabletUI$1
+ com.android.gallery3d.filtershow.editors.EditorColorBorderTabletUI$2
+ com.android.gallery3d.filtershow.editors.EditorColorBorderTabletUI$3
+ com.android.gallery3d.filtershow.editors.EditorColorBorderTabletUI$4
+ com.android.gallery3d.filtershow.editors.EditorColorBorderTabletUI$5
+com/googlecode/mp4parser/h264/model/BitstreamElement.java
+ com.googlecode.mp4parser.h264.model.BitstreamElement
+com/android/gallery3d/filtershow/controller/Control.java
+ com.android.gallery3d.filtershow.controller.Control
+com/coremedia/iso/boxes/UserDataBox.java
+ com.coremedia.iso.boxes.UserDataBox
+com/coremedia/iso/Hex.java
+ com.coremedia.iso.Hex
+com/googlecode/mp4parser/util/Math.java
+ com.googlecode.mp4parser.util.Math
+com/android/gallery3d/filtershow/category/SwipableView.java
+ com.android.gallery3d.filtershow.category.SwipableView
+com/android/photos/AlbumActivity.java
+ com.android.photos.AlbumActivity
+com/android/gallery3d/filtershow/info/InfoPanel.java
+ com.android.gallery3d.filtershow.info.InfoPanel
+com/android/gallery3d/filtershow/imageshow/GradControl.java
+ com.android.gallery3d.filtershow.imageshow.GradControl
+com/android/gallery3d/app/GalleryContext.java
+ com.android.gallery3d.app.GalleryContext
+com/googlecode/mp4parser/authoring/DateHelper.java
+ com.googlecode.mp4parser.authoring.DateHelper
+com/android/gallery3d/util/BucketNames.java
+ com.android.gallery3d.util.BucketNames
+com/android/gallery3d/util/SaveVideoFileInfo.java
+ com.android.gallery3d.util.SaveVideoFileInfo
+com/googlecode/mp4parser/boxes/basemediaformat/SampleEncryptionBox.java
+ com.googlecode.mp4parser.boxes.basemediaformat.SampleEncryptionBox
+com/coremedia/iso/boxes/TrackBox.java
+ com.coremedia.iso.boxes.TrackBox
+com/android/gallery3d/filtershow/filters/FilterStraightenRepresentation.java
+ com.android.gallery3d.filtershow.filters.FilterStraightenRepresentation
+com/android/gallery3d/filtershow/pipeline/UpdatePreviewTask.java
+ com.android.gallery3d.filtershow.pipeline.UpdatePreviewTask
+com/android/gallery3d/filtershow/filters/ImageFilterRedEye.java
+ com.android.gallery3d.filtershow.filters.ImageFilterRedEye
+com/android/gallery3d/glrenderer/BitmapTexture.java
+ com.android.gallery3d.glrenderer.BitmapTexture
+com/coremedia/iso/boxes/DataEntryUrlBox.java
+ com.coremedia.iso.boxes.DataEntryUrlBox
+com/android/gallery3d/filtershow/imageshow/ImageCrop.java
+ com.android.gallery3d.filtershow.imageshow.ImageCrop
+ com.android.gallery3d.filtershow.imageshow.ImageCrop$Mode
+com/android/gallery3d/filtershow/filters/ImageFilterNegative.java
+ com.android.gallery3d.filtershow.filters.ImageFilterNegative
+com/coremedia/iso/boxes/RatingBox.java
+ com.coremedia.iso.boxes.RatingBox
+com/android/gallery3d/ui/PositionController.java
+ com.android.gallery3d.ui.PositionController
+ com.android.gallery3d.ui.PositionController$1
+ com.android.gallery3d.ui.PositionController$Animatable
+ com.android.gallery3d.ui.PositionController$Box
+ com.android.gallery3d.ui.PositionController$FilmRatio
+ com.android.gallery3d.ui.PositionController$Gap
+ com.android.gallery3d.ui.PositionController$Listener
+ com.android.gallery3d.ui.PositionController$Platform
+com/coremedia/iso/boxes/h264/AvcConfigurationBox.java
+ com.coremedia.iso.boxes.h264.AvcConfigurationBox
+ com.coremedia.iso.boxes.h264.AvcConfigurationBox$AVCDecoderConfigurationRecord
+com/googlecode/mp4parser/boxes/apple/GenericMediaHeaderTextAtom.java
+ com.googlecode.mp4parser.boxes.apple.GenericMediaHeaderTextAtom
+com/coremedia/iso/boxes/apple/AppleTvEpisodeBox.java
+ com.coremedia.iso.boxes.apple.AppleTvEpisodeBox
+com/android/gallery3d/filtershow/history/HistoryManager.java
+ com.android.gallery3d.filtershow.history.HistoryManager
+com/android/gallery3d/ui/AlbumLabelMaker.java
+ com.android.gallery3d.ui.AlbumLabelMaker
+ com.android.gallery3d.ui.AlbumLabelMaker$AlbumLabelJob
+ com.android.gallery3d.ui.AlbumLabelMaker$LazyLoadedBitmap
+com/android/gallery3d/filtershow/colorpicker/ColorSaturationView.java
+ com.android.gallery3d.filtershow.colorpicker.ColorSaturationView
+com/googlecode/mp4parser/authoring/tracks/Amf0Track.java
+ com.googlecode.mp4parser.authoring.tracks.Amf0Track
+ com.googlecode.mp4parser.authoring.tracks.Amf0Track$1
+com/android/gallery3d/filtershow/editors/EditorMirror.java
+ com.android.gallery3d.filtershow.editors.EditorMirror
+ com.android.gallery3d.filtershow.editors.EditorMirror$1
+com/android/gallery3d/filtershow/filters/ImageFilterCurves.java
+ com.android.gallery3d.filtershow.filters.ImageFilterCurves
+com/android/gallery3d/app/TrimVideo.java
+ com.android.gallery3d.app.TrimVideo
+ com.android.gallery3d.app.TrimVideo$1
+ com.android.gallery3d.app.TrimVideo$2
+ com.android.gallery3d.app.TrimVideo$3
+ com.android.gallery3d.app.TrimVideo$3$1
+com/android/photos/PhotoFragment.java
+ com.android.photos.PhotoFragment
+com/android/gallery3d/filtershow/crop/CropMath.java
+ com.android.gallery3d.filtershow.crop.CropMath
+com/android/gallery3d/ui/FlingScroller.java
+ com.android.gallery3d.ui.FlingScroller
+com/android/gallery3d/ingest/ui/MtpFullscreenView.java
+ com.android.gallery3d.ingest.ui.MtpFullscreenView
+com/coremedia/iso/boxes/apple/AppleTempBox.java
+ com.coremedia.iso.boxes.apple.AppleTempBox
+com/android/gallery3d/data/Exif.java
+ com.android.gallery3d.data.Exif
+com/android/gallery3d/filtershow/filters/FilterTinyPlanetRepresentation.java
+ com.android.gallery3d.filtershow.filters.FilterTinyPlanetRepresentation
+com/coremedia/iso/boxes/TrackReferenceBox.java
+ com.coremedia.iso.boxes.TrackReferenceBox
+com/coremedia/iso/IsoTypeReader.java
+ com.coremedia.iso.IsoTypeReader
+com/android/gallery3d/filtershow/filters/FiltersManager.java
+ com.android.gallery3d.filtershow.filters.FiltersManager
+com/android/gallery3d/app/SlideshowPage.java
+ com.android.gallery3d.app.SlideshowPage
+ com.android.gallery3d.app.SlideshowPage$1
+ com.android.gallery3d.app.SlideshowPage$2
+ com.android.gallery3d.app.SlideshowPage$3
+ com.android.gallery3d.app.SlideshowPage$Model
+ com.android.gallery3d.app.SlideshowPage$SequentialSource
+ com.android.gallery3d.app.SlideshowPage$ShuffleSource
+ com.android.gallery3d.app.SlideshowPage$Slide
+com/android/photos/adapters/AlbumSetCursorAdapter.java
+ com.android.photos.adapters.AlbumSetCursorAdapter
+com/android/gallery3d/ingest/data/BitmapWithMetadata.java
+ com.android.gallery3d.ingest.data.BitmapWithMetadata
+com/android/gallery3d/filtershow/EditorPlaceHolder.java
+ com.android.gallery3d.filtershow.EditorPlaceHolder
+com/googlecode/mp4parser/authoring/tracks/DivideTimeScaleTrack.java
+ com.googlecode.mp4parser.authoring.tracks.DivideTimeScaleTrack
+com/android/gallery3d/glrenderer/NinePatchTexture.java
+ com.android.gallery3d.glrenderer.NinePatchInstance
+ com.android.gallery3d.glrenderer.NinePatchTexture
+ com.android.gallery3d.glrenderer.NinePatchTexture$1
+ com.android.gallery3d.glrenderer.NinePatchTexture$SmallCache
+com/coremedia/iso/Utf8.java
+ com.coremedia.iso.Utf8
+com/android/gallery3d/ui/BitmapTileProvider.java
+ com.android.gallery3d.ui.BitmapTileProvider
+com/googlecode/mp4parser/h264/write/BitstreamWriter.java
+ com.googlecode.mp4parser.h264.write.BitstreamWriter
+com/android/gallery3d/ui/AlbumSetSlotRenderer.java
+ com.android.gallery3d.ui.AlbumSetSlotRenderer
+ com.android.gallery3d.ui.AlbumSetSlotRenderer$1
+ com.android.gallery3d.ui.AlbumSetSlotRenderer$LabelSpec
+ com.android.gallery3d.ui.AlbumSetSlotRenderer$MyCacheListener
+com/android/gallery3d/filtershow/filters/FiltersManagerInterface.java
+ com.android.gallery3d.filtershow.filters.FiltersManagerInterface
+com/android/gallery3d/data/MediaSet.java
+ com.android.gallery3d.data.MediaSet
+ com.android.gallery3d.data.MediaSet$1
+ com.android.gallery3d.data.MediaSet$ItemConsumer
+ com.android.gallery3d.data.MediaSet$MultiSetSyncFuture
+ com.android.gallery3d.data.MediaSet$SyncListener
+com/android/photos/views/HeaderGridView.java
+ com.android.photos.views.HeaderGridView
+ com.android.photos.views.HeaderGridView$1
+ com.android.photos.views.HeaderGridView$FixedViewInfo
+ com.android.photos.views.HeaderGridView$FullWidthFixedViewLayout
+ com.android.photos.views.HeaderGridView$HeaderViewGridAdapter
+com/googlecode/mp4parser/boxes/apple/TaptAtom.java
+ com.googlecode.mp4parser.boxes.apple.TaptAtom
+com/android/gallery3d/filtershow/controller/ParameterIconStyle.java
+ com.android.gallery3d.filtershow.controller.ParameterIconStyle
+com/android/gallery3d/app/AlbumPicker.java
+ com.android.gallery3d.app.AlbumPicker
+com/android/gallery3d/glrenderer/TextureUploader.java
+ com.android.gallery3d.glrenderer.TextureUploader
+com/android/gallery3d/util/IntentHelper.java
+ com.android.gallery3d.util.IntentHelper
+com/android/gallery3d/filtershow/filters/FilterRepresentation.java
+ com.android.gallery3d.filtershow.filters.FilterRepresentation
+com/coremedia/iso/boxes/apple/AppleAlbumBox.java
+ com.coremedia.iso.boxes.apple.AppleAlbumBox
+com/coremedia/iso/boxes/HandlerBox.java
+ com.coremedia.iso.boxes.HandlerBox
+com/android/gallery3d/app/NotificationIds.java
+ com.android.gallery3d.app.NotificationIds
+com/coremedia/iso/boxes/MediaHeaderBox.java
+ com.coremedia.iso.boxes.MediaHeaderBox
+com/android/gallery3d/filtershow/colorpicker/RGBListener.java
+ com.android.gallery3d.filtershow.colorpicker.RGBListener
+com/coremedia/iso/boxes/WriteListener.java
+ com.coremedia.iso.boxes.WriteListener
+com/coremedia/iso/boxes/mdat/MediaDataBox.java
+ com.coremedia.iso.boxes.mdat.MediaDataBox
+com/android/gallery3d/filtershow/filters/ImageFilterKMeans.java
+ com.android.gallery3d.filtershow.filters.ImageFilterKMeans
+com/coremedia/iso/boxes/sampleentry/AudioSampleEntry.java
+ com.coremedia.iso.boxes.sampleentry.AudioSampleEntry
+com/android/gallery3d/filtershow/filters/IconUtilities.java
+ com.android.gallery3d.filtershow.filters.IconUtilities
+ com.android.gallery3d.filtershow.filters.IconUtilities$1
+com/googlecode/mp4parser/h264/model/SeqParameterSet.java
+ com.googlecode.mp4parser.h264.model.SeqParameterSet
+com/android/gallery3d/app/PanoramaMetadataSupport.java
+ com.android.gallery3d.app.PanoramaMetadataSupport
+com/coremedia/iso/ChannelHelper.java
+ com.coremedia.iso.ChannelHelper
+com/android/gallery3d/filtershow/filters/FilterRotateRepresentation.java
+ com.android.gallery3d.filtershow.filters.FilterRotateRepresentation
+ com.android.gallery3d.filtershow.filters.FilterRotateRepresentation$1
+ com.android.gallery3d.filtershow.filters.FilterRotateRepresentation$Rotation
+com/coremedia/iso/IsoFile.java
+ com.coremedia.iso.IsoFile
+com/googlecode/mp4parser/h264/model/AspectRatio.java
+ com.googlecode.mp4parser.h264.model.AspectRatio
+com/googlecode/mp4parser/boxes/basemediaformat/TrackEncryptionBox.java
+ com.googlecode.mp4parser.boxes.basemediaformat.TrackEncryptionBox
+com/android/gallery3d/data/PanoramaMetadataJob.java
+ com.android.gallery3d.data.PanoramaMetadataJob
+com/android/gallery3d/util/ProfileData.java
+ com.android.gallery3d.util.ProfileData
+ com.android.gallery3d.util.ProfileData$Node
+com/android/gallery3d/filtershow/filters/ImageFilterBorder.java
+ com.android.gallery3d.filtershow.filters.ImageFilterBorder
+com/android/gallery3d/ingest/data/MtpClient.java
+ com.android.gallery3d.ingest.data.MtpClient
+ com.android.gallery3d.ingest.data.MtpClient$1
+ com.android.gallery3d.ingest.data.MtpClient$Listener
+com/android/gallery3d/filtershow/pipeline/RenderingRequestTask.java
+ com.android.gallery3d.filtershow.pipeline.RenderingRequestTask
+ com.android.gallery3d.filtershow.pipeline.RenderingRequestTask$Render
+ com.android.gallery3d.filtershow.pipeline.RenderingRequestTask$RenderResult
+com/android/gallery3d/gadget/LocalPhotoSource.java
+ com.android.gallery3d.gadget.LocalPhotoSource
+ com.android.gallery3d.gadget.LocalPhotoSource$1
+com/android/gallery3d/filtershow/controller/BasicSlider.java
+ com.android.gallery3d.filtershow.controller.BasicSlider
+ com.android.gallery3d.filtershow.controller.BasicSlider$1
+com/android/gallery3d/common/Utils.java
+ com.android.gallery3d.common.Utils
+com/android/gallery3d/util/FilterShowHelper.java
+ com.android.gallery3d.util.FilterShowHelper
+com/android/photos/SelectionManager.java
+ com.android.photos.SelectionManager
+ com.android.photos.SelectionManager$1
+ com.android.photos.SelectionManager$SelectedUriSource
+com/android/gallery3d/ui/PreparePageFadeoutTexture.java
+ com.android.gallery3d.ui.PreparePageFadeoutTexture
+com/android/gallery3d/data/ClusterAlbum.java
+ com.android.gallery3d.data.ClusterAlbum
+ com.android.gallery3d.data.ClusterAlbum$1
+ com.android.gallery3d.data.ClusterAlbum$2
+com/android/gallery3d/app/TrimTimeBar.java
+ com.android.gallery3d.app.TrimTimeBar
+com/android/photos/MultiChoiceManager.java
+ com.android.photos.MultiChoiceManager
+ com.android.photos.MultiChoiceManager$BulkDeleteTask
+ com.android.photos.MultiChoiceManager$Delegate
+ com.android.photos.MultiChoiceManager$Provider
+com/coremedia/iso/boxes/sampleentry/Ovc1VisualSampleEntryImpl.java
+ com.coremedia.iso.boxes.sampleentry.Ovc1VisualSampleEntryImpl
+com/coremedia/iso/boxes/apple/AppleCompilationBox.java
+ com.coremedia.iso.boxes.apple.AppleCompilationBox
+com/googlecode/mp4parser/boxes/cenc/ProtectionSystemSpecificHeaderBox.java
+ com.googlecode.mp4parser.boxes.cenc.ProtectionSystemSpecificHeaderBox
+com/coremedia/iso/boxes/ItemProtectionBox.java
+ com.coremedia.iso.boxes.ItemProtectionBox
+com/googlecode/mp4parser/srt/SrtParser.java
+ com.googlecode.mp4parser.srt.SrtParser
+com/googlecode/mp4parser/authoring/tracks/CroppedTrack.java
+ com.googlecode.mp4parser.authoring.tracks.CroppedTrack
+com/android/gallery3d/ui/Paper.java
+ com.android.gallery3d.ui.EdgeAnimation
+ com.android.gallery3d.ui.Paper
+com/android/gallery3d/filtershow/category/CategorySelected.java
+ com.android.gallery3d.filtershow.category.CategorySelected
+com/android/gallery3d/data/DownloadUtils.java
+ com.android.gallery3d.data.DownloadUtils
+ com.android.gallery3d.data.DownloadUtils$1
+com/android/gallery3d/ui/SlotView.java
+ com.android.gallery3d.ui.SlotView
+ com.android.gallery3d.ui.SlotView$1
+ com.android.gallery3d.ui.SlotView$IntegerAnimation
+ com.android.gallery3d.ui.SlotView$Layout
+ com.android.gallery3d.ui.SlotView$Listener
+ com.android.gallery3d.ui.SlotView$MyGestureListener
+ com.android.gallery3d.ui.SlotView$RisingAnimation
+ com.android.gallery3d.ui.SlotView$ScatteringAnimation
+ com.android.gallery3d.ui.SlotView$SimpleListener
+ com.android.gallery3d.ui.SlotView$SlotAnimation
+ com.android.gallery3d.ui.SlotView$SlotRenderer
+ com.android.gallery3d.ui.SlotView$Spec
+com/coremedia/iso/boxes/fragment/MovieExtendsHeaderBox.java
+ com.coremedia.iso.boxes.fragment.MovieExtendsHeaderBox
+com/coremedia/iso/boxes/apple/AppleIdBox.java
+ com.coremedia.iso.boxes.apple.AppleIdBox
+com/googlecode/mp4parser/boxes/mp4/samplegrouping/SampleGroupDescriptionBox.java
+ com.googlecode.mp4parser.boxes.mp4.samplegrouping.SampleGroupDescriptionBox
+com/googlecode/mp4parser/boxes/mp4/samplegrouping/SampleToGroupBox.java
+ com.googlecode.mp4parser.boxes.mp4.samplegrouping.SampleToGroupBox
+ com.googlecode.mp4parser.boxes.mp4.samplegrouping.SampleToGroupBox$Entry
+com/android/photos/views/TiledImageView.java
+ com.android.photos.views.TiledImageView
+ com.android.photos.views.TiledImageView$1
+ com.android.photos.views.TiledImageView$2
+ com.android.photos.views.TiledImageView$ColoredTiles
+ com.android.photos.views.TiledImageView$ImageRendererWrapper
+ com.android.photos.views.TiledImageView$TileRenderer
+com/android/gallery3d/app/FilterUtils.java
+ com.android.gallery3d.app.FilterUtils
+com/android/gallery3d/app/Log.java
+ com.android.gallery3d.app.Log
+com/android/gallery3d/app/Gallery.java
+ com.android.gallery3d.app.Gallery

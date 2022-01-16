@@ -1,0 +1,40 @@
+{
+  "stringTable": {},
+  "buildFiles": [
+    "/home/tungvd/StudioProjects/Gallery2/gallerynativelib/src/main/cpp/CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "/home/tungvd/Android/Sdk/cmake/3.10.2.4988404/bin/ninja",
+      "-C",
+      "/home/tungvd/StudioProjects/Gallery2/gallerynativelib/.cxx/Debug/5u51j636/x86_64",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "/home/tungvd/Android/Sdk/cmake/3.10.2.4988404/bin/ninja",
+    "-C",
+    "/home/tungvd/StudioProjects/Gallery2/gallerynativelib/.cxx/Debug/5u51j636/x86_64",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "gallerynativelib-Debug-x86_64": {
+      "buildCommandComponents": [
+        "/home/tungvd/Android/Sdk/cmake/3.10.2.4988404/bin/ninja",
+        "-C",
+        "/home/tungvd/StudioProjects/Gallery2/gallerynativelib/.cxx/Debug/5u51j636/x86_64",
+        "gallerynativelib"
+      ],
+      "buildType": "debug",
+      "abi": "x86_64",
+      "artifactName": "gallerynativelib",
+      "output": "/home/tungvd/StudioProjects/Gallery2/gallerynativelib/build/intermediates/cxx/Debug/5u51j636/obj/x86_64/libgallerynativelib.so",
+      "runtimeFiles": []
+    }
+  },
+  "toolchains": {},
+  "cFileExtensions": [],
+  "cppFileExtensions": [
+    "cpp"
+  ]
+}

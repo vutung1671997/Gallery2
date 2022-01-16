@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/tungvd/StudioProjects/Gallery2/gallerynativelib/.cxx/Debug/5u51j636/x86_64",
+  "command": "/home/tungvd/Android/Sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++ --target=x86_64-none-linux-android27 --gcc-toolchain=/home/tungvd/Android/Sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/linux-x86_64 --sysroot=/home/tungvd/Android/Sdk/ndk/21.4.7075529/toolchains/llvm/prebuilt/linux-x86_64/sysroot  -Dgallerynativelib_EXPORTS  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security   -O0 -fno-limit-debug-info  -fPIC   -o CMakeFiles/gallerynativelib.dir/gallerynativelib.cpp.o -c /home/tungvd/StudioProjects/Gallery2/gallerynativelib/src/main/cpp/gallerynativelib.cpp",
+  "file": "/home/tungvd/StudioProjects/Gallery2/gallerynativelib/src/main/cpp/gallerynativelib.cpp"
+}
+]

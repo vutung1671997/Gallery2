@@ -1,0 +1,754 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:3:1-391:12
+INJECTED from /home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:3:1-391:12
+MERGED from [androidx.core:core-ktx:1.6.0] /home/tungvd/.gradle/caches/transforms-3/6b83edb6a20d7c40e8405338cbde9046/transformed/jetified-core-ktx-1.6.0/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.material:material:1.2.1] /home/tungvd/.gradle/caches/transforms-3/92c494ad049d22c5a773e3188be7d49e/transformed/material-1.2.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.2.0] /home/tungvd/.gradle/caches/transforms-3/d76f35a08c08216004feed386d7db8d0/transformed/appcompat-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.legacy:legacy-support-v13:1.0.0] /home/tungvd/.gradle/caches/transforms-3/47f9dc04f4ba5b1bf31c257b3f89844a/transformed/legacy-support-v13-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /home/tungvd/.gradle/caches/transforms-3/3cb859c1ac0dd29d128e917789be4254/transformed/jetified-viewpager2-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /home/tungvd/.gradle/caches/transforms-3/c0d9c1ab0e87542ba382db148d96a3af/transformed/legacy-support-v4-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment:1.1.0] /home/tungvd/.gradle/caches/transforms-3/bc4fd821a6e51a54b504be8013b5f90b/transformed/fragment-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] /home/tungvd/.gradle/caches/transforms-3/b04e496035f8c1e2f42c46472bb2ce42/transformed/jetified-appcompat-resources-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/tungvd/.gradle/caches/transforms-3/0896e3d0b45cdf89c133e98609f31280/transformed/legacy-support-core-ui-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/tungvd/.gradle/caches/transforms-3/8ede10147567c2507cc51ace41c13ea6/transformed/drawerlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /home/tungvd/.gradle/caches/transforms-3/d5ce58f194e6eb15743ad13effdd09da/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.2.0] /home/tungvd/.gradle/caches/transforms-3/e7a7361ce08649d63b0b54755f88f036/transformed/transition-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/tungvd/.gradle/caches/transforms-3/08a78bb58e82e932da1f82c2b8b82824/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/tungvd/.gradle/caches/transforms-3/0a2c06990f10f8bf77c6b2eafaa2d2f7/transformed/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/tungvd/.gradle/caches/transforms-3/70c058259436dcd4c71d85461afd1b6a/transformed/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/tungvd/.gradle/caches/transforms-3/6d6e532017af0c907cd34d38d04e17fc/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /home/tungvd/.gradle/caches/transforms-3/d35f0010fbff61dfb15ae12685344215/transformed/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] /home/tungvd/.gradle/caches/transforms-3/26dba6039296c7e11e55695e578f012b/transformed/jetified-activity-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /home/tungvd/.gradle/caches/transforms-3/973d1c6591a02ca84f2ddc5ef5b8076a/transformed/recyclerview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/tungvd/.gradle/caches/transforms-3/56d3436542761c87b3a7c38d1c2e3d4f/transformed/slidingpanelayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /home/tungvd/.gradle/caches/transforms-3/c0d52683149a4f63c5e66613b9f51e2e/transformed/customview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.media:media:1.0.0] /home/tungvd/.gradle/caches/transforms-3/9c97282722fb613bc8c5f0fb5711e84a/transformed/media-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/tungvd/.gradle/caches/transforms-3/5b2b00e982f1215a847329e9d903a511/transformed/swiperefreshlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/tungvd/.gradle/caches/transforms-3/76ce4b0e4d2e7286e97250b1cf6504f3/transformed/asynclayoutinflater-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.6.0] /home/tungvd/.gradle/caches/transforms-3/f5951a4f607dc653401bac0adaefbb08/transformed/core-1.6.0/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/tungvd/.gradle/caches/transforms-3/58c33f79541fa64793747c2f03ce017d/transformed/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] /home/tungvd/.gradle/caches/transforms-3/1bc1de6a32330280351f65a0393bdf57/transformed/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/tungvd/.gradle/caches/transforms-3/d88cacb3ad7019752e911e94c62f5798/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /home/tungvd/.gradle/caches/transforms-3/626641b499ffdcb66d218627adc23050/transformed/lifecycle-runtime-2.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /home/tungvd/.gradle/caches/transforms-3/82c5f8c672879a5fbe5f33ff548c9006/transformed/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] /home/tungvd/.gradle/caches/transforms-3/fb3449e72dc29f308cc217ab7482dbfb/transformed/jetified-savedstate-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/tungvd/.gradle/caches/transforms-3/511e2a36f18b29fdf3f425e3962668f8/transformed/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/tungvd/.gradle/caches/transforms-3/5dc1b0d68d5be8d395af6b357c3240c1/transformed/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/tungvd/.gradle/caches/transforms-3/eb3bd80f829817dc46cef00554f9b4ab/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /home/tungvd/.gradle/caches/transforms-3/998ecad2e598076d0444e5b886cc28b2/transformed/print-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/tungvd/.gradle/caches/transforms-3/d6b2c6310d0da332cb9475defea77305/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/tungvd/.gradle/caches/transforms-3/b8e61f2d133f499e6198163cf2456f01/transformed/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/tungvd/.gradle/caches/transforms-3/b39e20052568115d5d6e20e605eabe6a/transformed/core-runtime-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /home/tungvd/.gradle/caches/transforms-3/abd986d958258d7e8503cbe4ed7e75cb/transformed/jetified-annotation-experimental-1.1.0/AndroidManifest.xml:17:1-24:12
+INJECTED from /home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:3:1-391:12
+	package
+		ADDED from /home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:5:5-36
+		INJECTED from /home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml
+		INJECTED from /home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:4:5-51
+	xmlns:android
+		ADDED from /home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:3:11-69
+original-package
+ADDED from /home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:7:5-62
+	android:name
+		ADDED from /home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:7:23-59
+permission#com.android.gallery3d.permission.GALLERY_PROVIDER
+ADDED from /home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:11:5-12:59
+	android:protectionLevel
+		ADDED from /home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:12:13-56
+	android:name
+		ADDED from /home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:11:17-81
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from /home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:14:5-81
+	android:name
+		ADDED from /home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:14:22-78
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:15:5-79
+	android:name
+		ADDED from /home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:15:22-76
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:16:5-79
+	android:name
+		ADDED from /home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:16:22-76
+uses-permission#android.permission.CAMERA
+ADDED from /home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:17:5-65
+	android:name
+		ADDED from /home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:17:22-62
+uses-permission#android.permission.GET_ACCOUNTS
+ADDED from /home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:18:5-71
+	android:name
+		ADDED from /home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:18:22-68
+uses-permission#android.permission.INTERNET
+ADDED from /home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:19:5-67
+	android:name
+		ADDED from /home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:19:22-64
+uses-permission#android.permission.MANAGE_ACCOUNTS
+ADDED from /home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:20:5-74
+	android:name
+		ADDED from /home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:20:22-71
+uses-permission#android.permission.NFC
+ADDED from /home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:21:5-62
+	android:name
+		ADDED from /home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:21:22-59
+uses-permission#android.permission.READ_SYNC_SETTINGS
+ADDED from /home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:22:5-77
+	android:name
+		ADDED from /home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:22:22-74
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from /home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:23:5-81
+	android:name
+		ADDED from /home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:23:22-78
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from /home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:24:5-71
+	android:name
+		ADDED from /home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:24:22-68
+uses-permission#android.permission.SET_WALLPAPER
+ADDED from /home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:25:5-72
+	android:name
+		ADDED from /home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:25:22-69
+uses-permission#android.permission.USE_CREDENTIALS
+ADDED from /home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:26:5-74
+	android:name
+		ADDED from /home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:26:22-71
+uses-permission#android.permission.VIBRATE
+ADDED from /home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:27:5-66
+	android:name
+		ADDED from /home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:27:22-63
+uses-permission#android.permission.WAKE_LOCK
+ADDED from /home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:28:5-68
+	android:name
+		ADDED from /home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:28:22-65
+uses-permission#android.permission.MANAGE_EXTERNAL_STORAGE
+ADDED from /home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:29:5-30:40
+	tools:ignore
+		ADDED from /home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:30:9-37
+	android:name
+		ADDED from /home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:29:22-79
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:31:5-80
+	android:name
+		ADDED from /home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:31:22-77
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:32:5-33:40
+	tools:ignore
+		ADDED from /home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:33:9-37
+	android:name
+		ADDED from /home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:32:22-78
+uses-permission#android.permission.WRITE_SETTINGS
+ADDED from /home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:34:5-35:47
+	tools:ignore
+		ADDED from /home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:35:9-44
+	android:name
+		ADDED from /home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:34:22-70
+uses-permission#android.permission.WRITE_SYNC_SETTINGS
+ADDED from /home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:36:5-78
+	android:name
+		ADDED from /home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:36:22-75
+uses-permission#com.android.gallery3d.permission.GALLERY_PROVIDER
+ADDED from /home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:37:5-89
+	android:name
+		ADDED from /home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:37:22-86
+supports-screens
+ADDED from /home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:39:5-41:41
+	android:largeScreens
+		ADDED from /home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:40:42-69
+	android:smallScreens
+		ADDED from /home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:39:23-51
+	android:normalScreens
+		ADDED from /home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:40:13-41
+	android:anyDensity
+		ADDED from /home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:41:13-38
+application
+ADDED from /home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:43:5-390:19
+MERGED from [com.google.android.material:material:1.2.1] /home/tungvd/.gradle/caches/transforms-3/92c494ad049d22c5a773e3188be7d49e/transformed/material-1.2.1/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.2.1] /home/tungvd/.gradle/caches/transforms-3/92c494ad049d22c5a773e3188be7d49e/transformed/material-1.2.1/AndroidManifest.xml:22:5-20
+MERGED from [androidx.core:core:1.6.0] /home/tungvd/.gradle/caches/transforms-3/f5951a4f607dc653401bac0adaefbb08/transformed/core-1.6.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.6.0] /home/tungvd/.gradle/caches/transforms-3/f5951a4f607dc653401bac0adaefbb08/transformed/core-1.6.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/tungvd/.gradle/caches/transforms-3/d88cacb3ad7019752e911e94c62f5798/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/tungvd/.gradle/caches/transforms-3/d88cacb3ad7019752e911e94c62f5798/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+	android:requestLegacyExternalStorage
+		ADDED from /home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:52:13-56
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.6.0] /home/tungvd/.gradle/caches/transforms-3/f5951a4f607dc653401bac0adaefbb08/transformed/core-1.6.0/AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from /home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:51:13-39
+	android:label
+		ADDED from /home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:44:52-84
+	android:hardwareAccelerated
+		ADDED from /home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:48:13-47
+	android:restoreAnyVersion
+		ADDED from /home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:50:13-45
+	android:largeHeap
+		ADDED from /home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:49:13-37
+	android:icon
+		ADDED from /home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:44:9-51
+	android:theme
+		ADDED from /home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:46:13-49
+	android:logo
+		ADDED from /home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:47:13-55
+	android:name
+		ADDED from /home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:45:13-68
+uses-library#org.apache.http.legacy
+ADDED from /home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:53:9-88
+	android:required
+		ADDED from /home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:53:61-85
+	android:name
+		ADDED from /home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:53:23-60
+activity#com.android.gallery3d.app.MovieActivity
+ADDED from /home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:54:9-94:20
+	tools:node
+		ADDED from /home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:59:13-31
+	android:label
+		ADDED from /home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:56:17-57
+	android:exported
+		ADDED from /home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:58:13-36
+	android:configChanges
+		ADDED from /home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:57:17-78
+	android:name
+		ADDED from /home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:55:13-67
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:scheme:rtsp
+ADDED from /home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:60:13-65:30
+action#android.intent.action.VIEW
+ADDED from /home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:61:17-69
+	android:name
+		ADDED from /home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:61:25-66
+category#android.intent.category.DEFAULT
+ADDED from /home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:62:17-76
+	android:name
+		ADDED from /home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:62:27-73
+category#android.intent.category.BROWSABLE
+ADDED from /home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:63:17-78
+	android:name
+		ADDED from /home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:63:27-75
+data
+ADDED from /home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:64:17-47
+	android:scheme
+		ADDED from /home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:64:23-44
+	android:mimeType
+		ADDED from /home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:74:23-53
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:mimeType:video/3gp+data:mimeType:video/3gpp+data:mimeType:video/3gpp2+data:mimeType:video/avi+data:mimeType:video/mp4+data:mimeType:video/mpeg4+data:mimeType:video/webm+data:scheme:content+data:scheme:file+data:scheme:http+data:scheme:https
+ADDED from /home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:66:14-81:30
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:mimeType:application/vnd.apple.mpegurl+data:mimeType:application/x-mpegurl+data:mimeType:audio/mpegurl+data:mimeType:audio/x-mpegurl+data:scheme:http+data:scheme:https
+ADDED from /home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:82:14-93:30
+activity#com.android.gallery3d.app.GalleryActivity
+ADDED from /home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:96:9-166:20
+	tools:node
+		ADDED from /home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:98:13-31
+	android:label
+		ADDED from /home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:99:70-102
+	android:exported
+		ADDED from /home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:97:13-36
+	android:configChanges
+		ADDED from /home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:100:17-78
+	android:name
+		ADDED from /home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:99:13-69
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.APP_GALLERY+category:name:android.intent.category.DEFAULT+category:name:android.intent.category.LAUNCHER
+ADDED from /home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:101:13-106:29
+action#android.intent.action.MAIN
+ADDED from /home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:102:17-69
+	android:name
+		ADDED from /home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:102:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:104:17-77
+	android:name
+		ADDED from /home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:104:27-74
+category#android.intent.category.APP_GALLERY
+ADDED from /home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:105:17-80
+	android:name
+		ADDED from /home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:105:27-77
+intent-filter#action:name:android.intent.action.GET_CONTENT+category:name:android.intent.category.OPENABLE+data:mimeType:vnd.android.cursor.dir/image
+ADDED from /home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:107:13-111:29
+action#android.intent.action.GET_CONTENT
+ADDED from /home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:108:17-76
+	android:name
+		ADDED from /home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:108:25-73
+category#android.intent.category.OPENABLE
+ADDED from /home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:109:17-77
+	android:name
+		ADDED from /home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:109:27-74
+intent-filter#action:name:android.intent.action.GET_CONTENT+category:name:android.intent.category.DEFAULT+category:name:android.intent.category.OPENABLE+data:mimeType:image/*+data:mimeType:video/*
+ADDED from /home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:112:13-118:29
+intent-filter#action:name:android.intent.action.PICK+category:name:android.intent.category.DEFAULT+data:mimeType:image/*+data:mimeType:video/*
+ADDED from /home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:121:13-126:29
+action#android.intent.action.PICK
+ADDED from /home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:122:17-69
+	android:name
+		ADDED from /home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:122:25-66
+intent-filter#action:name:android.intent.action.PICK+category:name:android.intent.category.DEFAULT+data:mimeType:vnd.android.cursor.dir/image+data:mimeType:vnd.android.cursor.dir/video
+ADDED from /home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:127:13-132:29
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.DEFAULT+data:mimeType:vnd.android.cursor.dir/image+data:mimeType:vnd.android.cursor.dir/video
+ADDED from /home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:133:13-138:29
+intent-filter#action:name:android.intent.action.VIEW+action:name:com.android.camera.action.REVIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:mimeType:application/vnd.google.panorama360+jpg+data:mimeType:image/*+data:scheme:+data:scheme:content+data:scheme:file+data:scheme:http+data:scheme:https
+ADDED from /home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:139:13-151:29
+action#com.android.camera.action.REVIEW
+ADDED from /home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:141:17-75
+	android:name
+		ADDED from /home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:141:25-72
+intent-filter#action:name:com.android.camera.action.REVIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:mimeType:video/3gp+data:mimeType:video/3gpp+data:mimeType:video/3gpp2+data:mimeType:video/mp4+data:mimeType:video/mpeg4+data:scheme:content+data:scheme:file+data:scheme:http+data:scheme:https
+ADDED from /home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:152:13-165:29
+activity#com.android.gallery3d.app.Gallery
+ADDED from /home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:170:9-179:20
+	tools:node
+		ADDED from /home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:172:13-31
+	android:exported
+		ADDED from /home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:171:13-36
+	android:theme
+		ADDED from /home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:174:13-59
+	android:name
+		ADDED from /home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:173:13-61
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.DEFAULT
+ADDED from /home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:175:13-178:29
+activity-alias#com.cooliris.media.Gallery
+ADDED from /home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:183:9-193:26
+	tools:node
+		ADDED from /home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:185:13-31
+	android:label
+		ADDED from /home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:189:17-49
+	android:exported
+		ADDED from /home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:184:13-36
+	android:targetActivity
+		ADDED from /home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:187:17-83
+	android:configChanges
+		ADDED from /home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:188:17-78
+	android:name
+		ADDED from /home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:186:13-54
+intent-filter#action:name:android.intent.action.MAIN
+ADDED from /home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:190:13-192:29
+activity#com.android.camera.CameraActivity
+ADDED from /home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:198:9-205:62
+	tools:node
+		ADDED from /home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:200:13-31
+	android:label
+		ADDED from /home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:203:13-49
+	android:exported
+		ADDED from /home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:199:13-36
+	android:icon
+		ADDED from /home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:202:13-54
+	android:theme
+		ADDED from /home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:205:13-59
+	android:taskAffinity
+		ADDED from /home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:204:13-69
+	android:name
+		ADDED from /home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:201:13-61
+activity-alias#com.android.camera.CameraLauncher
+ADDED from /home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:206:9-216:26
+	tools:node
+		ADDED from /home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:208:13-31
+	android:label
+		ADDED from /home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:210:13-49
+	android:exported
+		ADDED from /home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:207:13-36
+	android:targetActivity
+		ADDED from /home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:211:13-71
+	android:name
+		ADDED from /home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:209:13-61
+activity#com.android.gallery3d.ingest.IngestActivity
+ADDED from /home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:220:9-232:20
+	tools:node
+		ADDED from /home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:222:13-31
+	android:label
+		ADDED from /home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:226:13-45
+	android:launchMode
+		ADDED from /home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:223:13-48
+	android:exported
+		ADDED from /home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:221:13-36
+	android:configChanges
+		ADDED from /home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:225:13-59
+	android:taskAffinity
+		ADDED from /home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:224:13-36
+	android:name
+		ADDED from /home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:224:37-95
+intent-filter#action:name:android.hardware.usb.action.USB_DEVICE_ATTACHED
+ADDED from /home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:227:13-229:29
+action#android.hardware.usb.action.USB_DEVICE_ATTACHED
+ADDED from /home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:228:17-90
+	android:name
+		ADDED from /home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:228:25-87
+meta-data#android.hardware.usb.action.USB_DEVICE_ATTACHED
+ADDED from /home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:230:13-231:57
+	android:resource
+		ADDED from /home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:231:17-54
+	android:name
+		ADDED from /home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:230:24-86
+service#com.android.gallery3d.ingest.IngestService
+ADDED from /home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:233:9-78
+	android:name
+		ADDED from /home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:233:18-75
+activity#com.android.gallery3d.app.Wallpaper
+ADDED from /home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:235:9-252:20
+	tools:node
+		ADDED from /home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:237:13-31
+	android:exported
+		ADDED from /home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:236:13-36
+	android:configChanges
+		ADDED from /home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:239:17-78
+	android:theme
+		ADDED from /home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:240:17-76
+	android:name
+		ADDED from /home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:238:13-63
+intent-filter#action:name:android.intent.action.ATTACH_DATA+category:name:android.intent.category.DEFAULT+data:mimeType:image/*
+ADDED from /home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:241:13-245:29
+	android:label
+		ADDED from /home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:241:28-74
+action#android.intent.action.ATTACH_DATA
+ADDED from /home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:242:17-76
+	android:name
+		ADDED from /home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:242:25-73
+intent-filter#action:name:android.intent.action.SET_WALLPAPER+category:name:android.intent.category.DEFAULT
+ADDED from /home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:246:13-249:29
+	android:label
+		ADDED from /home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:246:28-60
+action#android.intent.action.SET_WALLPAPER
+ADDED from /home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:247:17-78
+	android:name
+		ADDED from /home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:247:25-75
+meta-data#android.wallpaper.preview
+ADDED from /home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:250:13-251:72
+	android:resource
+		ADDED from /home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:251:21-69
+	android:name
+		ADDED from /home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:250:24-64
+activity#com.android.gallery3d.app.TrimVideo
+ADDED from /home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:253:9-265:20
+	tools:node
+		ADDED from /home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:255:13-31
+	android:label
+		ADDED from /home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:257:17-51
+	android:exported
+		ADDED from /home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:254:13-36
+	android:name
+		ADDED from /home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:256:13-63
+intent-filter#action:name:com.android.camera.action.TRIM+category:name:android.intent.category.DEFAULT+data:mimeType:video/*+data:scheme:content+data:scheme:file
+ADDED from /home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:258:13-264:29
+	android:label
+		ADDED from /home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:258:28-62
+action#com.android.camera.action.TRIM
+ADDED from /home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:259:17-73
+	android:name
+		ADDED from /home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:259:25-70
+provider#com.android.gallery3d.filtershow.provider.SharedImageProvider
+ADDED from /home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:267:9-272:91
+	android:readPermission
+		ADDED from /home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:271:13-86
+	android:grantUriPermissions
+		ADDED from /home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:270:13-47
+	android:authorities
+		ADDED from /home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:269:13-96
+	android:writePermission
+		ADDED from /home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:272:13-88
+	android:name
+		ADDED from /home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:268:13-89
+service#com.android.gallery3d.filtershow.pipeline.ProcessingService
+ADDED from /home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:274:9-276:44
+	android:exported
+		ADDED from /home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:276:17-41
+	android:name
+		ADDED from /home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:275:17-70
+activity#com.android.gallery3d.filtershow.FilterShowActivity
+ADDED from /home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:278:9-295:20
+	tools:node
+		ADDED from /home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:280:13-31
+	android:label
+		ADDED from /home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:282:13-63
+	android:exported
+		ADDED from /home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:279:13-36
+	android:configChanges
+		ADDED from /home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:284:13-74
+	android:theme
+		ADDED from /home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:283:13-52
+	android:name
+		ADDED from /home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:281:13-79
+intent-filter#action:name:android.intent.action.EDIT+category:name:android.intent.category.DEFAULT+data:mimeType:image/*
+ADDED from /home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:285:13-289:29
+action#android.intent.action.EDIT
+ADDED from /home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:286:17-69
+	android:name
+		ADDED from /home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:286:25-66
+intent-filter#action:name:action_nextgen_edit+category:name:android.intent.category.DEFAULT+data:mimeType:image/*
+ADDED from /home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:290:13-294:29
+action#action_nextgen_edit
+ADDED from /home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:291:17-62
+	android:name
+		ADDED from /home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:291:25-59
+activity#com.android.gallery3d.filtershow.crop.CropActivity
+ADDED from /home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:297:9-313:20
+	tools:node
+		ADDED from /home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:299:13-31
+	android:label
+		ADDED from /home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:301:13-41
+	android:exported
+		ADDED from /home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:298:13-36
+	android:configChanges
+		ADDED from /home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:303:13-74
+	android:theme
+		ADDED from /home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:302:13-46
+	android:name
+		ADDED from /home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:300:13-78
+intent-filter#action:name:com.android.camera.action.CROP+category:name:android.intent.category.ALTERNATIVE+category:name:android.intent.category.DEFAULT+category:name:android.intent.category.SELECTED_ALTERNATIVE+data:mimeType:image/*+data:scheme:content+data:scheme:file
+ADDED from /home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:304:12-312:29
+	android:label
+		ADDED from /home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:304:27-61
+action#com.android.camera.action.CROP
+ADDED from /home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:305:17-73
+	android:name
+		ADDED from /home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:305:25-70
+category#android.intent.category.ALTERNATIVE
+ADDED from /home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:310:17-80
+	android:name
+		ADDED from /home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:310:27-77
+category#android.intent.category.SELECTED_ALTERNATIVE
+ADDED from /home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:311:17-89
+	android:name
+		ADDED from /home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:311:27-86
+uses-library#com.google.android.media.effects
+ADDED from /home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:315:9-316:44
+	android:required
+		ADDED from /home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:316:17-41
+	android:name
+		ADDED from /home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:315:23-70
+activity#com.android.gallery3d.settings.GallerySettings
+ADDED from /home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:318:9-320:81
+	android:configChanges
+		ADDED from /home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:320:17-78
+	android:theme
+		ADDED from /home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:319:17-53
+	android:name
+		ADDED from /home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:318:19-80
+provider#com.android.gallery3d.provider.GalleryProvider
+ADDED from /home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:322:9-327:72
+	android:grantUriPermissions
+		ADDED from /home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:324:17-51
+	android:authorities
+		ADDED from /home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:327:17-69
+	android:syncable
+		ADDED from /home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:323:17-41
+	android:exported
+		ADDED from /home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:325:17-40
+	android:permission
+		ADDED from /home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:326:17-87
+	android:name
+		ADDED from /home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:322:19-80
+provider#com.android.photos.data.PhotoProvider
+ADDED from /home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:328:9-332:43
+	android:authorities
+		ADDED from /home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:330:17-74
+	android:syncable
+		ADDED from /home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:331:17-41
+	android:exported
+		ADDED from /home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:332:17-41
+	android:name
+		ADDED from /home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:329:17-69
+activity#com.android.gallery3d.gadget.WidgetClickHandler
+ADDED from /home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:333:9-84
+	android:name
+		ADDED from /home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:333:19-81
+activity#com.android.gallery3d.app.DialogPicker
+ADDED from /home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:334:9-336:59
+	android:configChanges
+		ADDED from /home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:335:17-78
+	android:theme
+		ADDED from /home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:336:17-57
+	android:name
+		ADDED from /home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:334:19-72
+activity#com.android.gallery3d.app.AlbumPicker
+ADDED from /home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:337:9-339:59
+	android:configChanges
+		ADDED from /home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:338:17-78
+	android:theme
+		ADDED from /home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:339:17-57
+	android:name
+		ADDED from /home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:337:19-71
+activity#com.android.gallery3d.gadget.WidgetTypeChooser
+ADDED from /home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:340:9-342:62
+	android:configChanges
+		ADDED from /home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:341:17-78
+	android:theme
+		ADDED from /home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:342:17-60
+	android:name
+		ADDED from /home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:340:19-80
+receiver#com.android.gallery3d.gadget.PhotoAppWidgetProvider
+ADDED from /home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:344:9-353:20
+	android:label
+		ADDED from /home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:347:17-56
+	android:exported
+		ADDED from /home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:345:13-37
+	android:name
+		ADDED from /home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:346:13-79
+intent-filter#action:name:android.appwidget.action.APPWIDGET_UPDATE
+ADDED from /home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:348:13-350:29
+action#android.appwidget.action.APPWIDGET_UPDATE
+ADDED from /home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:349:17-84
+	android:name
+		ADDED from /home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:349:25-81
+meta-data#android.appwidget.provider
+ADDED from /home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:351:13-352:59
+	android:resource
+		ADDED from /home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:352:21-56
+	android:name
+		ADDED from /home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:351:24-65
+receiver#com.android.gallery3d.app.PackagesMonitor
+ADDED from /home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:354:9-363:20
+	android:exported
+		ADDED from /home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:355:13-37
+	android:name
+		ADDED from /home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:356:13-69
+intent-filter#action:name:android.intent.action.PACKAGE_ADDED+action:name:android.intent.action.PACKAGE_CHANGED+action:name:android.intent.action.PACKAGE_REMOVED+data:scheme:package
+ADDED from /home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:357:13-362:29
+action#android.intent.action.PACKAGE_ADDED
+ADDED from /home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:358:17-77
+	android:name
+		ADDED from /home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:358:25-75
+action#android.intent.action.PACKAGE_REMOVED
+ADDED from /home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:359:17-79
+	android:name
+		ADDED from /home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:359:25-77
+action#android.intent.action.PACKAGE_CHANGED
+ADDED from /home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:360:17-79
+	android:name
+		ADDED from /home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:360:25-77
+service#com.android.gallery3d.app.PackagesMonitor$AsyncService
+ADDED from /home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:364:9-366:43
+	android:exported
+		ADDED from /home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:366:18-41
+	android:permission
+		ADDED from /home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:365:18-74
+	android:name
+		ADDED from /home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:364:18-87
+service#com.android.gallery3d.gadget.WidgetService
+ADDED from /home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:367:9-368:75
+	android:permission
+		ADDED from /home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:368:17-73
+	android:name
+		ADDED from /home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:367:18-75
+activity#com.android.gallery3d.gadget.WidgetConfigure
+ADDED from /home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:369:9-378:20
+	tools:node
+		ADDED from /home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:371:13-31
+	android:exported
+		ADDED from /home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:370:13-36
+	android:configChanges
+		ADDED from /home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:373:17-78
+	android:theme
+		ADDED from /home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:374:17-76
+	android:name
+		ADDED from /home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:372:13-72
+intent-filter#action:name:android.appwidget.action.APPWIDGET_CONFIGURE
+ADDED from /home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:375:13-377:29
+action#android.appwidget.action.APPWIDGET_CONFIGURE
+ADDED from /home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:376:17-87
+	android:name
+		ADDED from /home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:376:25-84
+service#com.android.gallery3d.app.BatchService
+ADDED from /home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:379:9-74
+	android:name
+		ADDED from /home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:379:18-71
+receiver#com.android.camera.DisableCameraReceiver
+ADDED from /home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:381:9-387:20
+	android:exported
+		ADDED from /home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:382:13-37
+	android:name
+		ADDED from /home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:383:13-68
+intent-filter#action:name:android.intent.action.BOOT_COMPLETED
+ADDED from /home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:384:13-386:29
+action#android.intent.action.BOOT_COMPLETED
+ADDED from /home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:385:17-79
+	android:name
+		ADDED from /home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:385:25-76
+service#com.android.camera.MediaSaveService
+ADDED from /home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:389:9-71
+	android:name
+		ADDED from /home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml:389:18-68
+uses-sdk
+INJECTED from /home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml
+INJECTED from /home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml
+MERGED from [androidx.core:core-ktx:1.6.0] /home/tungvd/.gradle/caches/transforms-3/6b83edb6a20d7c40e8405338cbde9046/transformed/jetified-core-ktx-1.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.6.0] /home/tungvd/.gradle/caches/transforms-3/6b83edb6a20d7c40e8405338cbde9046/transformed/jetified-core-ktx-1.6.0/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.material:material:1.2.1] /home/tungvd/.gradle/caches/transforms-3/92c494ad049d22c5a773e3188be7d49e/transformed/material-1.2.1/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.2.1] /home/tungvd/.gradle/caches/transforms-3/92c494ad049d22c5a773e3188be7d49e/transformed/material-1.2.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.2.0] /home/tungvd/.gradle/caches/transforms-3/d76f35a08c08216004feed386d7db8d0/transformed/appcompat-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.2.0] /home/tungvd/.gradle/caches/transforms-3/d76f35a08c08216004feed386d7db8d0/transformed/appcompat-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.legacy:legacy-support-v13:1.0.0] /home/tungvd/.gradle/caches/transforms-3/47f9dc04f4ba5b1bf31c257b3f89844a/transformed/legacy-support-v13-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v13:1.0.0] /home/tungvd/.gradle/caches/transforms-3/47f9dc04f4ba5b1bf31c257b3f89844a/transformed/legacy-support-v13-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /home/tungvd/.gradle/caches/transforms-3/3cb859c1ac0dd29d128e917789be4254/transformed/jetified-viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /home/tungvd/.gradle/caches/transforms-3/3cb859c1ac0dd29d128e917789be4254/transformed/jetified-viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /home/tungvd/.gradle/caches/transforms-3/c0d9c1ab0e87542ba382db148d96a3af/transformed/legacy-support-v4-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /home/tungvd/.gradle/caches/transforms-3/c0d9c1ab0e87542ba382db148d96a3af/transformed/legacy-support-v4-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.1.0] /home/tungvd/.gradle/caches/transforms-3/bc4fd821a6e51a54b504be8013b5f90b/transformed/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] /home/tungvd/.gradle/caches/transforms-3/bc4fd821a6e51a54b504be8013b5f90b/transformed/fragment-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] /home/tungvd/.gradle/caches/transforms-3/b04e496035f8c1e2f42c46472bb2ce42/transformed/jetified-appcompat-resources-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] /home/tungvd/.gradle/caches/transforms-3/b04e496035f8c1e2f42c46472bb2ce42/transformed/jetified-appcompat-resources-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/tungvd/.gradle/caches/transforms-3/0896e3d0b45cdf89c133e98609f31280/transformed/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/tungvd/.gradle/caches/transforms-3/0896e3d0b45cdf89c133e98609f31280/transformed/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/tungvd/.gradle/caches/transforms-3/8ede10147567c2507cc51ace41c13ea6/transformed/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /home/tungvd/.gradle/caches/transforms-3/8ede10147567c2507cc51ace41c13ea6/transformed/drawerlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /home/tungvd/.gradle/caches/transforms-3/d5ce58f194e6eb15743ad13effdd09da/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /home/tungvd/.gradle/caches/transforms-3/d5ce58f194e6eb15743ad13effdd09da/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] /home/tungvd/.gradle/caches/transforms-3/e7a7361ce08649d63b0b54755f88f036/transformed/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] /home/tungvd/.gradle/caches/transforms-3/e7a7361ce08649d63b0b54755f88f036/transformed/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/tungvd/.gradle/caches/transforms-3/08a78bb58e82e932da1f82c2b8b82824/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/tungvd/.gradle/caches/transforms-3/08a78bb58e82e932da1f82c2b8b82824/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/tungvd/.gradle/caches/transforms-3/0a2c06990f10f8bf77c6b2eafaa2d2f7/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/tungvd/.gradle/caches/transforms-3/0a2c06990f10f8bf77c6b2eafaa2d2f7/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/tungvd/.gradle/caches/transforms-3/70c058259436dcd4c71d85461afd1b6a/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/tungvd/.gradle/caches/transforms-3/70c058259436dcd4c71d85461afd1b6a/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/tungvd/.gradle/caches/transforms-3/6d6e532017af0c907cd34d38d04e17fc/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/tungvd/.gradle/caches/transforms-3/6d6e532017af0c907cd34d38d04e17fc/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/tungvd/.gradle/caches/transforms-3/d35f0010fbff61dfb15ae12685344215/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/tungvd/.gradle/caches/transforms-3/d35f0010fbff61dfb15ae12685344215/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] /home/tungvd/.gradle/caches/transforms-3/26dba6039296c7e11e55695e578f012b/transformed/jetified-activity-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] /home/tungvd/.gradle/caches/transforms-3/26dba6039296c7e11e55695e578f012b/transformed/jetified-activity-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /home/tungvd/.gradle/caches/transforms-3/973d1c6591a02ca84f2ddc5ef5b8076a/transformed/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /home/tungvd/.gradle/caches/transforms-3/973d1c6591a02ca84f2ddc5ef5b8076a/transformed/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/tungvd/.gradle/caches/transforms-3/56d3436542761c87b3a7c38d1c2e3d4f/transformed/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/tungvd/.gradle/caches/transforms-3/56d3436542761c87b3a7c38d1c2e3d4f/transformed/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /home/tungvd/.gradle/caches/transforms-3/c0d52683149a4f63c5e66613b9f51e2e/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /home/tungvd/.gradle/caches/transforms-3/c0d52683149a4f63c5e66613b9f51e2e/transformed/customview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] /home/tungvd/.gradle/caches/transforms-3/9c97282722fb613bc8c5f0fb5711e84a/transformed/media-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] /home/tungvd/.gradle/caches/transforms-3/9c97282722fb613bc8c5f0fb5711e84a/transformed/media-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/tungvd/.gradle/caches/transforms-3/5b2b00e982f1215a847329e9d903a511/transformed/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/tungvd/.gradle/caches/transforms-3/5b2b00e982f1215a847329e9d903a511/transformed/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/tungvd/.gradle/caches/transforms-3/76ce4b0e4d2e7286e97250b1cf6504f3/transformed/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/tungvd/.gradle/caches/transforms-3/76ce4b0e4d2e7286e97250b1cf6504f3/transformed/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.6.0] /home/tungvd/.gradle/caches/transforms-3/f5951a4f607dc653401bac0adaefbb08/transformed/core-1.6.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.6.0] /home/tungvd/.gradle/caches/transforms-3/f5951a4f607dc653401bac0adaefbb08/transformed/core-1.6.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/tungvd/.gradle/caches/transforms-3/58c33f79541fa64793747c2f03ce017d/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/tungvd/.gradle/caches/transforms-3/58c33f79541fa64793747c2f03ce017d/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /home/tungvd/.gradle/caches/transforms-3/1bc1de6a32330280351f65a0393bdf57/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /home/tungvd/.gradle/caches/transforms-3/1bc1de6a32330280351f65a0393bdf57/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/tungvd/.gradle/caches/transforms-3/d88cacb3ad7019752e911e94c62f5798/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/tungvd/.gradle/caches/transforms-3/d88cacb3ad7019752e911e94c62f5798/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /home/tungvd/.gradle/caches/transforms-3/626641b499ffdcb66d218627adc23050/transformed/lifecycle-runtime-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] /home/tungvd/.gradle/caches/transforms-3/626641b499ffdcb66d218627adc23050/transformed/lifecycle-runtime-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /home/tungvd/.gradle/caches/transforms-3/82c5f8c672879a5fbe5f33ff548c9006/transformed/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /home/tungvd/.gradle/caches/transforms-3/82c5f8c672879a5fbe5f33ff548c9006/transformed/lifecycle-viewmodel-2.1.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0] /home/tungvd/.gradle/caches/transforms-3/fb3449e72dc29f308cc217ab7482dbfb/transformed/jetified-savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /home/tungvd/.gradle/caches/transforms-3/fb3449e72dc29f308cc217ab7482dbfb/transformed/jetified-savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/tungvd/.gradle/caches/transforms-3/511e2a36f18b29fdf3f425e3962668f8/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/tungvd/.gradle/caches/transforms-3/511e2a36f18b29fdf3f425e3962668f8/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/tungvd/.gradle/caches/transforms-3/5dc1b0d68d5be8d395af6b357c3240c1/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/tungvd/.gradle/caches/transforms-3/5dc1b0d68d5be8d395af6b357c3240c1/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/tungvd/.gradle/caches/transforms-3/eb3bd80f829817dc46cef00554f9b4ab/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/tungvd/.gradle/caches/transforms-3/eb3bd80f829817dc46cef00554f9b4ab/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /home/tungvd/.gradle/caches/transforms-3/998ecad2e598076d0444e5b886cc28b2/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /home/tungvd/.gradle/caches/transforms-3/998ecad2e598076d0444e5b886cc28b2/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/tungvd/.gradle/caches/transforms-3/d6b2c6310d0da332cb9475defea77305/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/tungvd/.gradle/caches/transforms-3/d6b2c6310d0da332cb9475defea77305/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/tungvd/.gradle/caches/transforms-3/b8e61f2d133f499e6198163cf2456f01/transformed/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /home/tungvd/.gradle/caches/transforms-3/b8e61f2d133f499e6198163cf2456f01/transformed/lifecycle-livedata-core-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/tungvd/.gradle/caches/transforms-3/b39e20052568115d5d6e20e605eabe6a/transformed/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /home/tungvd/.gradle/caches/transforms-3/b39e20052568115d5d6e20e605eabe6a/transformed/core-runtime-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /home/tungvd/.gradle/caches/transforms-3/abd986d958258d7e8503cbe4ed7e75cb/transformed/jetified-annotation-experimental-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /home/tungvd/.gradle/caches/transforms-3/abd986d958258d7e8503cbe4ed7e75cb/transformed/jetified-annotation-experimental-1.1.0/AndroidManifest.xml:20:5-22:41
+INJECTED from /home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml
+INJECTED from /home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml
+		ADDED from /home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml
+		INJECTED from /home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml
+		ADDED from /home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml
+		INJECTED from /home/tungvd/StudioProjects/Gallery2/app/src/main/AndroidManifest.xml

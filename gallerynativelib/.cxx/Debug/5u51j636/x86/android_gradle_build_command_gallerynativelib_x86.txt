@@ -1,0 +1,7 @@
+Executable : /home/tungvd/Android/Sdk/cmake/3.10.2.4988404/bin/ninja
+arguments : 
+-C
+/home/tungvd/StudioProjects/Gallery2/gallerynativelib/.cxx/Debug/5u51j636/x86
+gallerynativelib
+jvmArgs : 
+

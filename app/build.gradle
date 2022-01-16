@@ -1,0 +1,32 @@
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion 31
+    buildToolsVersion "31.0.0"
+    useLibrary 'org.apache.http.legacy'
+    defaultConfig {
+        applicationId "com.android.gallery3d"
+        minSdkVersion 27
+        targetSdkVersion 31
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.txt'
+        }
+    }
+
+    configurations.create("xmp_default")
+    artifacts.add("xmp_default", file('libs/xmp_toolkit.jar'))
+}
+
+dependencies {
+    implementation fileTree(include: '*.jar', dir: '../gallerynativelib/libs')
+    testImplementation 'junit:junit:4.13.2'
+    implementation "androidx.core:core-ktx:1.6.0"
+    implementation "androidx.appcompat:appcompat:1.2.0"
+    implementation 'com.google.android.material:material:1.2.1'
+    implementation "androidx.legacy:legacy-support-v13:1.0.0"
+    implementation "org.mp4parser:isoparser:1.9.27"
+}

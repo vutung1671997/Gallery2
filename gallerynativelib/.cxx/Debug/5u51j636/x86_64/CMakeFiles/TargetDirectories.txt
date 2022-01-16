@@ -1,0 +1,3 @@
+/home/tungvd/StudioProjects/Gallery2/gallerynativelib/.cxx/Debug/5u51j636/x86_64/CMakeFiles/edit_cache.dir
+/home/tungvd/StudioProjects/Gallery2/gallerynativelib/.cxx/Debug/5u51j636/x86_64/CMakeFiles/rebuild_cache.dir
+/home/tungvd/StudioProjects/Gallery2/gallerynativelib/.cxx/Debug/5u51j636/x86_64/CMakeFiles/gallerynativelib.dir
